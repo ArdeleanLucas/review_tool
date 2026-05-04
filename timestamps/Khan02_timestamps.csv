@@ -1,0 +1,504 @@
+filename,concept,start_time,start_sec,duration_sec,offset,csv_start_sec
+KLQ_1_1_A_hair_collective_Khan02.wav,hair (collective),0:07:03.870,423.87,0.854,418.0,5.87
+KLQ_1_2_A_forehead_Khan02.wav,forehead,0:07:23.139,443.139,0.86,418.0,25.139
+KLQ_1_3_A_eyelid_Khan02.wav,eyelid,0:07:40.320,460.32,0.909,418.0,42.32
+KLQ_1_4_A_eyebrow_Khan02.wav,eyebrow,0:07:55.827,475.827,1.088,418.0,57.827
+KLQ_1_5_A_nose_Khan02.wav,nose,0:08:09.316,489.316,0.813,418.0,71.316
+KLQ_1_6_A_earlobe_Khan02.wav,earlobe,0:08:25.873,505.873,0.895,418.0,87.873
+KLQ_1_7_A_elbow_Khan02.wav,elbow,0:08:48.966,528.966,1.198,418.0,110.966
+KLQ_1_9_A_stomach_Khan02.wav,stomach,0:09:13.112,553.112,1.074,418.0,135.112
+KLQ_1_1_A_rib_Khan02.wav,rib,0:09:53.228,593.228,1.019,418.0,175.228
+KLQ_1_11_A_uterus_Khan02.wav,uterus,0:10:06.237,606.237,1.102,418.0,188.237
+KLQ_1_12_A_bladder_Khan02.wav,bladder,0:10:23.253,623.253,1.074,418.0,205.253
+KLQ_1_13_A_ankle_Khan02.wav,ankle,0:10:36.652,636.652,1.198,418.0,218.652
+KLQ_2_1_A_father_Khan02.wav,father,0:10:56.543,656.543,0.785,418.0,238.543
+KLQ_2_2_A_mother_Khan02.wav,mother,0:11:10.789,670.789,0.923,418.0,252.789
+KLQ_2_3_A_father_vocative_Khan02.wav,father (vocative),0:11:38.181,698.181,0.95,418.0,280.181
+KLQ_2_4_A_mother_vocative_Khan02.wav,mother (vocative),0:11:51.617,711.617,0.826,418.0,293.617
+KLQ_2_5_A_sister_Khan02.wav,sister,0:12:05.809,725.809,1.088,418.0,307.809
+KLQ_2_6_A_grandfather_Khan02.wav,grandfather,0:12:22.000,742.0,1.042,418.0,324.0
+KLQ_2_7_A_daughter_girl_Khan02.wav,"daughter, girl",0:12:33.695,753.695,0.909,418.0,335.695
+KLQ_2_8_A_baby_Khan02.wav,baby,0:12:50.289,770.289,0.909,418.0,352.289
+KLQ_2_9_A_paternal_uncle_Khan02.wav,paternal uncle,0:13:03.900,783.9,0.771,418.0,365.9
+KLQ_2_1_A_maternal_uncle_Khan02.wav,maternal uncle,0:13:12.626,792.626,1.198,418.0,374.626
+KLQ_2_11_A_paternal_aunt_Khan02.wav,paternal aunt,0:13:23.185,803.185,0.964,418.0,385.185
+KLQ_2_12_A_maternal_aunt_Khan02.wav,maternal aunt,0:13:34.744,814.744,0.992,418.0,396.744
+KLQ_2_13_A_paternal_uncles_son_Khan02.wav,paternal uncle’s son,0:13:45.624,825.624,1.033,418.0,407.624
+KLQ_2_13_B_paternal_uncles_son_Khan02.wav,paternal uncle’s son,0:13:52.404,832.404,1.116,418.0,414.404
+KLQ_2_14_A_maternal_aunts_daughter_Khan02.wav,maternal aunt’s daughter,0:14:08.000,848.0,0.868,418.0,430.0
+KLQ_2_15_A_brother_of_husband_Khan02.wav,brother of husband,0:14:19.808,859.808,1.198,418.0,441.808
+KLQ_2_16_A_wife_of_brother_Khan02.wav,wife of brother,0:14:32.448,872.448,1.157,418.0,454.448
+KLQ_2_17_A_sister_of_husband_Khan02.wav,sister of husband,0:14:44.614,884.614,1.385,418.0,466.614
+KLQ_2_19_A_sister_of_wife_Khan02.wav,sister of wife,0:15:25.139,925.139,1.226,418.0,507.139
+KLQ_2_18_A_brother_of_wife_Khan02.wav,brother of wife,0:16:05.722,965.722,1.626,418.0,547.722
+KLQ_1_8_A_armpit_Khan02.wav,armpit,0:20:40.247,1240.247,1.129,418.0,822.247
+KLQ_2_2_A_son_of_sister_Khan02.wav,son of sister,0:22:08.790,1328.79,1.074,418.0,910.79
+KLQ_2_21_A_daughter_of_sister_Khan02.wav,daughter of sister,0:22:38.330,1358.33,1.171,418.0,940.33
+KLQ_2_22_A_son_of_brother_Khan02.wav,son of brother,0:22:46.875,1366.875,1.124,418.0,948.875
+KLQ_2_23_A_daughter_of_brother_Khan02.wav,daughter of brother,0:22:48.901,1368.901,1.198,418.0,950.901
+KLQ_2_24_A_step-father_Khan02.wav,step-father,0:23:17.659,1397.659,1.35,418.0,979.659
+KLQ_2_25_A_step-mother_Khan02.wav,step-mother,0:23:36.664,1416.664,1.198,418.0,998.664
+KLQ_2_26_A_step-son_son_of_husband_Khan02.wav,"step-son "" son of husband""",0:25:44.680,1544.68,1.319,418.0,1126.68
+KLQ_2_26_A_step-son_son_of_wife_Khan02.wav,"step-son "" son of wife""",0:26:08.489,1568.489,1.033,418.0,1150.489
+KLQ_2_27_A_step-daughter_daughter_of_husband_Khan02.wav,"step-daughter ""daughter of husband""",0:26:26.830,1586.83,1.169,418.0,1168.83
+KLQ_2_27_A_step-daughter_daughter_of_wife_Khan02.wav,"step-daughter ""daughter of wife""",0:26:48.249,1608.249,1.75,418.0,1190.249
+KLQ_2_28_A_child_of_ones_daughter_Khan02.wav,child of one’s daughter,0:27:17.680,1637.68,1.201,418.0,1219.68
+KLQ_2_28_B_child_of_ones_daughter_Khan02.wav,child of one’s daughter,0:27:20.188,1640.188,1.132,418.0,1222.188
+KLQ_2_29_A_child_of_ones_son_Khan02.wav,child of one’s son,0:27:30.187,1650.187,0.958,418.0,1232.187
+KLQ_3_1_A_rain_Khan02.wav,rain,0:27:45.297,1665.297,0.975,418.0,1247.297
+KLQ_3_3_A_lightning_Khan02.wav,lightning,0:29:17.476,1757.476,1.167,418.0,1339.476
+KLQ_3_4_A_snow_Khan02.wav,snow,0:29:26.534,1766.534,0.853,418.0,1348.534
+KLQ_3_5_A_ice_Khan02.wav,ice,0:29:34.800,1774.8,0.923,418.0,1356.8
+KLQ_3_6_A_hail_Khan02.wav,hail,0:29:55.159,1795.159,0.84,418.0,1377.159
+KLQ_3_7_A_wind_Khan02.wav,wind,0:30:19.531,1819.531,1.062,418.0,1401.531
+KLQ_3_8_A_storm_Khan02.wav,storm,0:30:30.540,1830.54,1.079,418.0,1412.54
+KLQ_3_9_A_fog_Khan02.wav,fog,0:30:42.558,1842.558,0.801,418.0,1424.558
+KLQ_3_1_A_shade_Khan02.wav,shade,0:30:51.383,1851.383,1.236,418.0,1433.383
+KLQ_3_11_A_God_Khan02.wav,God,0:31:11.558,1871.558,0.87,418.0,1453.558
+KLQ_3_12_A_earthquake_Khan02.wav,earthquake,0:31:41.115,1901.115,1.149,418.0,1483.115
+KLQ_3_13_A_hill_Khan02.wav,hill,0:32:15.423,1935.423,0.87,418.0,1517.423
+KLQ_3_14_A_salt_Khan02.wav,salt,0:32:27.438,1947.438,1.236,418.0,1529.438
+KLQ_4_1_A_big_Khan02.wav,big,0:32:39.014,1959.014,1.184,418.0,1541.014
+KLQ_4_2_A_small_Khan02.wav,small,0:32:52.862,1972.862,0.958,418.0,1554.862
+KLQ_4_3_A_long_Khan02.wav,long,0:33:04.167,1984.167,0.975,418.0,1566.167
+KLQ_4_4_A_short_Khan02.wav,short,0:33:12.703,1992.703,0.641,418.0,1574.703
+KLQ_4_5_A_high_Khan02.wav,high,0:33:22.000,2002.0,1.042,418.0,1584.0
+KLQ_4_6_A_low_wall_Khan02.wav,low (wall),0:33:32.000,2012.0,0.993,418.0,1594.0
+KLQ_4_7_A_wide_road_Khan02.wav,wide (road),0:33:42.607,2022.607,0.785,418.0,1604.607
+KLQ_4_8_A_narrow_road_Khan02.wav,narrow (road),0:33:50.488,2030.488,0.903,418.0,1612.488
+KLQ_4_9_A_fat_man_Khan02.wav,fat (man),0:34:00.167,2040.167,0.798,418.0,1622.167
+KLQ_4_1_A_thin_man_Khan02.wav,thin (man),0:34:11.287,2051.287,0.956,418.0,1633.287
+KLQ_4_11_A_thick_stick_Khan02.wav,thick (stick),0:35:05.001,2105.001,0.838,418.0,1687.001
+KLQ_4_12_A_thin_stick_Khan02.wav,thin (stick),0:35:22.000,2122.0,0.899,418.0,1704.0
+KLQ_4_13_A_strong_Khan02.wav,strong,0:35:32.297,2132.297,0.681,418.0,1714.297
+KLQ_4_14_A_weak_Khan02.wav,weak,0:35:46.525,2146.525,0.798,418.0,1728.525
+KLQ_4_15_A_heavy_Khan02.wav,heavy,0:35:58.258,2158.258,0.877,418.0,1740.258
+KLQ_4_16_A_light_Khan02.wav,light,0:36:10.283,2170.283,0.877,418.0,1752.283
+KLQ_4_17_A_soft_Khan02.wav,soft,0:36:23.291,2183.291,0.708,418.0,1765.291
+KLQ_4_18_A_hard_like_a_stone_opposite_of_soft_nerm_Khan02.wav,"hard (like a stone, opposite of soft 'nerm')",0:36:32.359,2192.359,0.667,418.0,1774.359
+KLQ_4_19_A_good_Khan02.wav,good,0:36:41.466,2201.466,1.1,418.0,1783.466
+KLQ_4_2_A_bad_Khan02.wav,bad,0:37:00.816,2220.816,1.034,418.0,1802.816
+KLQ_4_21_A_happy_Khan02.wav,happy,0:37:23.609,2243.609,1.073,418.0,1825.609
+KLQ_4_22_A_sad_Khan02.wav,sad,0:37:50.688,2270.688,1.311,418.0,1852.688
+KLQ_4_23_A_hungry_Khan02.wav,hungry,0:38:39.673,2319.673,0.929,418.0,1901.673
+KLQ_4_24_A_thirsty_Khan02.wav,thirsty,0:38:53.596,2333.596,0.864,418.0,1915.596
+KLQ_4_25_A_sweet_Khan02.wav,sweet,0:39:06.523,2346.523,1.152,418.0,1928.523
+KLQ_4_26_A_bitter_Khan02.wav,bitter,0:39:18.690,2358.69,0.89,418.0,1940.69
+KLQ_4_27_A_wet_Khan02.wav,wet,0:39:30.675,2370.675,0.72,418.0,1952.675
+KLQ_4_28_A_dry_land_Khan02.wav,dry (land),0:39:57.608,2397.608,0.838,418.0,1979.608
+KLQ_4_29_A_tired_Khan02.wav,tired,0:40:15.337,2415.337,1.073,418.0,1997.337
+KLQ_4_3_A_deep_Khan02.wav,deep,0:40:30.570,2430.57,1.1,418.0,2012.57
+KLQ_4_31_A_shallow_Khan02.wav,shallow,0:40:45.084,2445.084,0.798,418.0,2027.084
+KLQ_4_32_A_pregnant_Khan02.wav,pregnant,0:41:00.000,2460.0,1.199,418.0,2042.0
+KLQ_4_33_A_beautiful_Khan02.wav,beautiful,0:41:15.065,2475.065,0.934,418.0,2057.065
+KLQ_4_34_A_dirty_Khan02.wav,dirty,0:41:26.341,2486.341,0.943,418.0,2068.341
+KLQ_4_35_A_clean_Khan02.wav,clean,0:41:41.640,2501.64,0.838,418.0,2083.64
+KLQ_5_1_A_white_Khan02.wav,white,0:41:49.505,2509.505,1.073,418.0,2091.505
+KLQ_5_2_A_black_Khan02.wav,black,0:42:00.451,2520.451,1.047,418.0,2102.451
+KLQ_5_3_A_red_Khan02.wav,red,0:42:08.453,2528.453,1.1,418.0,2110.453
+KLQ_5_4_A_green_grass_Khan02.wav,green (grass),0:42:19.631,2539.631,1.178,418.0,2121.631
+KLQ_5_5_A_yellow_Khan02.wav,yellow,0:42:41.160,2561.16,0.982,418.0,2143.16
+KLQ_5_6_A_blue_sky_Khan02.wav,blue (sky),0:42:51.009,2571.009,0.877,418.0,2153.009
+KLQ_5_7_A_brown_Khan02.wav,brown,0:43:01.861,2581.861,1.178,418.0,2163.861
+KLQ_6_1_A_to_be_born_Khan02.wav,to be born,0:43:40.000,2620.0,1.424,418.0,2202.0
+KLQ_6_2_A_to_wake_up_Khan02.wav,to wake up,0:44:03.287,2643.287,1.44,418.0,2225.287
+KLQ_6_3_A_to_sleep_Khan02.wav,to sleep,0:46:20.298,2780.298,1.047,418.0,2362.298
+KLQ_6_4_A_to_lie_down_Khan02.wav,to lie down,0:46:34.612,2794.612,1.047,418.0,2376.612
+KLQ_6_5_A_to_rise_Khan02.wav,to rise,0:47:03.802,2823.802,0.995,418.0,2405.802
+KLQ_6_6_A_to_bathe_immerse_the_whole_body_Khan02.wav,to bathe (immerse the whole body),0:47:18.652,2838.652,1.347,418.0,2420.652
+KLQ_6_7_A_to_wash_Khan02.wav,to wash,0:47:38.715,2858.715,1.113,418.0,2440.715
+KLQ_6_8_A_to_buy_Khan02.wav,to buy,0:47:51.404,2871.404,1.283,418.0,2453.404
+KLQ_6_9_A_to_sell_Khan02.wav,to sell,0:48:14.348,2894.348,0.925,418.0,2476.348
+KLQ_6_1_A_to_remember_Khan02.wav,to remember,0:48:28.921,2908.921,1.322,418.0,2490.921
+KLQ_6_11_A_to_forget_Khan02.wav,to forget,0:48:46.588,2926.588,1.411,418.0,2508.588
+KLQ_6_12_A_to_search_Khan02.wav,to search,0:49:27.462,2967.462,1.283,418.0,2549.462
+KLQ_6_13_A_to_find_Khan02.wav,to find,0:50:11.246,3011.246,1.087,418.0,2593.246
+KLQ_6_14_A_to_speak_Khan02.wav,to speak,0:50:26.856,3026.856,1.143,418.0,2608.856
+KLQ_6_15_A_to_grow_up_Khan02.wav,to grow up,0:50:46.905,3046.905,1.322,418.0,2628.905
+KLQ_7_1_A_to_go_Khan02.wav,to go,0:51:10.362,3070.362,1.008,418.0,2652.362
+KLQ_7_2_A_to_come_Khan02.wav,to come,0:51:25.321,3085.321,0.929,418.0,2667.321
+KLQ_7_3_A_go_Khan02.wav,go!,0:51:34.842,3094.842,0.746,418.0,2676.842
+KLQ_7_4_A_come_here_Khan02.wav,come here!,0:51:47.478,3107.478,1.977,418.0,2689.478
+KLQ_7_5_A_to_return_Khan02.wav,to return,0:52:06.438,3126.438,1.191,418.0,2708.438
+KLQ_7_6_A_to_stand_Khan02.wav,to stand,0:52:38.319,3158.319,0.995,418.0,2740.319
+KLQ_7_6_A_to_stop_Khan02.wav,to stop,0:52:57.412,3177.412,1.165,418.0,2759.412
+KLQ_7_7_A_to_enter_Khan02.wav,to enter,0:53:18.265,3198.265,1.584,418.0,2780.265
+KLQ_7_8_A_to_reach_arrive_Khan02.wav,"to reach, arrive",0:53:54.479,3234.479,1.152,418.0,2816.479
+KLQ_7_9_A_to_run_Khan02.wav,to run,0:54:14.984,3254.984,1.532,418.0,2836.984
+KLQ_7_1_A_to_walk_Khan02.wav,to walk,0:54:42.561,3282.561,1.438,418.0,2864.561
+KLQ_7_11_A_to_approach_Khan02.wav,to approach,0:54:58.217,3298.217,1.335,418.0,2880.217
+KLQ_7_12_A_to_fly_Khan02.wav,to fly,0:55:13.309,3313.309,1.519,418.0,2895.309
+KLQ_7_13_A_to_jump_Khan02.wav,to jump,0:56:00.438,3360.438,1.165,418.0,2942.438
+KLQ_7_14_A_to_pull_Khan02.wav,to pull,0:56:30.796,3390.796,1.203,418.0,2972.796
+KLQ_7_15_A_to_push_Khan02.wav,to push,0:56:45.654,3405.654,1.204,418.0,2987.654
+KLQ_8_1_A_to_see_Khan02.wav,to see,0:56:58.000,3418.0,1.502,418.0,3000.0
+KLQ_8_2_A_to_look_at_Khan02.wav,to look at,0:57:22.098,3442.098,1.624,418.0,3024.098
+KLQ_8_3_A_to_hear_Khan02.wav,to hear,0:57:42.622,3462.622,1.377,418.0,3044.622
+KLQ_8_4_A_to_listen_to_Khan02.wav,to listen to,0:58:18.874,3498.874,1.414,418.0,3080.874
+KLQ_8_5_A_to_understand_Khan02.wav,to understand,0:58:44.487,3524.487,1.794,418.0,3106.487
+KLQ_8_6_A_to_smell_eg_I_can_smell_the_food_that_is_Khan02.wav,to smell (e.g. I can smell the food that is cooking),0:58:58.000,3538.0,1.45,418.0,3120.0
+KLQ_9_1_A_to_kill_Khan02.wav,to kill,1:00:48.773,3648.773,1.06,418.0,3230.773
+KLQ_9_2_A_to_hit_Khan02.wav,to hit,1:01:05.525,3665.525,1.126,418.0,3247.525
+KLQ_9_3_A_to_cut_Khan02.wav,to cut,1:01:22.189,3682.189,0.995,418.0,3264.189
+KLQ_9_4_A_to_scratch_your_own_body_Khan02.wav,to scratch (your own body),1:01:33.695,3693.695,0.851,418.0,3275.695
+KLQ_9_5_A_to_slap_Khan02.wav,to slap,1:01:47.660,3707.66,1.087,418.0,3289.66
+KLQ_9_6_A_to_knock_at_the_door_Khan02.wav,to knock (at the door),1:02:03.190,3723.19,1.191,418.0,3305.19
+KLQ_9_7_A_to_bite_Khan02.wav,to bite,1:02:21.181,3741.181,1.27,418.0,3323.181
+KLQ_9_8_A_to_sting_a_bee_stung_the_child_Khan02.wav,to sting (a bee stung the child),1:02:35.858,3755.858,1.271,418.0,3337.858
+KLQ_9_9_A_to_tear_the_child_will_tear_the_paper_Khan02.wav,to tear (the child will tear the paper),1:03:06.265,3786.265,1.045,418.0,3368.265
+KLQ_9_1_A_to_destroy_the_police_destroyed_the_hous_Khan02.wav,to destroy (the police destroyed the house),1:03:17.276,3797.276,1.707,418.0,3379.276
+KLQ_10_1_A_here_Khan02.wav,here,1:03:33.278,3813.278,1.254,418.0,3395.278
+KLQ_10_2_A_there_Khan02.wav,there,1:03:49.019,3829.019,1.428,418.0,3411.019
+KLQ_10_3_A_inside_the_box_Khan02.wav,inside the box,1:04:18.511,3858.511,1.488,418.0,3440.511
+KLQ_10_4_A_outside_Khan02.wav,outside,1:04:35.345,3875.345,1.376,418.0,3457.345
+KLQ_10_5_A_up_look_up_Khan02.wav,up (look up!),1:04:46.197,3886.197,1.289,418.0,3468.197
+KLQ_10_6_A_above_a_cloud_is_above_the_mountain_Khan02.wav,above (a cloud is above the mountain),1:04:59.850,3899.85,1.027,418.0,3481.85
+KLQ_10_7_A_down_look_down_Khan02.wav,down (look down!),1:05:07.746,3907.746,0.888,418.0,3489.746
+KLQ_10_8_A_below_the_cat_is_below_the_table_Khan02.wav,below (the cat is below the table),1:05:20.671,3920.671,1.328,418.0,3502.671
+KLQ_10_9_A_now_Khan02.wav,now,1:05:30.000,3930.0,0.896,418.0,3512.0
+KLQ_10_1_A_today_Khan02.wav,today,1:05:40.668,3940.668,1.045,418.0,3522.668
+KLQ_10_11_A_yesterday_Khan02.wav,yesterday,1:05:50.684,3950.684,1.315,418.0,3532.684
+KLQ_10_12_A_the_day_before_yesterday_Khan02.wav,the day before yesterday,1:06:02.438,3962.438,1.561,418.0,3544.438
+KLQ_10_13_A_tomorrow_Khan02.wav,tomorrow,1:06:13.584,3973.584,1.236,418.0,3555.584
+KLQ_10_13_B_tomorrow_Khan02.wav,tomorrow,1:06:34.717,3994.717,1.01,418.0,3576.717
+KLQ_10_14_A_the_day_after_tomorrow_Khan02.wav,the day after tomorrow,1:06:50.747,4010.747,1.252,418.0,3592.747
+KLQ_10_14_B_the_day_after_tomorrow_Khan02.wav,the day after tomorrow,1:06:54.805,4014.805,1.498,418.0,3596.805
+KLQ_10_15_A_last_year_Khan02.wav,last year,1:07:20.950,4040.95,1.049,418.0,3622.95
+KLQ_10_16_A_two_years_ago_Khan02.wav,two years ago,1:07:34.000,4054.0,1.809,418.0,3636.0
+KLQ_10_17_A_morning_Khan02.wav,morning,1:08:08.000,4088.0,0.947,418.0,3670.0
+KLQ_10_18_A_midday_Khan02.wav,midday,1:08:18.418,4098.418,1.219,418.0,3680.418
+KLQ_10_19_A_afternoon_Khan02.wav,afternoon,1:08:45.599,4125.599,1.48,418.0,3707.599
+KLQ_10_2_A_evening_Khan02.wav,evening,1:09:00.840,4140.84,1.159,418.0,3722.84
+KLQ_10_21_A_night_Khan02.wav,night,1:09:14.354,4154.354,1.201,418.0,3736.354
+KLQ_11_1_A_Monday_Khan02.wav,Monday,1:09:33.714,4173.714,1.358,418.0,3755.714
+KLQ_11_2_A_Tuesday_Khan02.wav,Tuesday,1:09:43.830,4183.83,1.707,418.0,3765.83
+KLQ_11_3_A_Wednesday_Khan02.wav,Wednesday,1:09:56.547,4196.547,1.306,418.0,3778.547
+KLQ_11_4_A_Thursday_Khan02.wav,Thursday,1:10:14.714,4214.714,1.285,418.0,3796.714
+KLQ_11_5_A_Friday_Khan02.wav,Friday,1:10:25.357,4225.357,1.358,418.0,3807.357
+KLQ_11_6_A_Saturday_Khan02.wav,Saturday,1:10:37.341,4237.341,1.41,418.0,3819.341
+KLQ_11_7_A_Sunday_Khan02.wav,Sunday,1:10:50.872,4250.872,1.271,418.0,3832.872
+KLQ_10_17_B_morning_Khan02.wav,morning,1:11:11.599,4271.599,1.079,418.0,3853.599
+KLQ_12_1_A_what_Khan02.wav,what,1:11:25.128,4285.128,1.132,418.0,3867.128
+KLQ_12_2_A_why_Khan02.wav,why,1:11:33.164,4293.164,1.219,418.0,3875.164
+KLQ_12_3_A_how_Khan02.wav,how,1:11:50.000,4310.0,1.176,418.0,3892.0
+KLQ_12_4_A_where_Khan02.wav,where,1:12:09.044,4329.044,1.306,418.0,3911.044
+KLQ_12_5_A_when_Khan02.wav,when,1:12:22.371,4342.371,0.94,418.0,3924.371
+KLQ_12_6_A_how_much_salt_is_in_the_bag_Khan02.wav,how much salt is in the bag?,1:12:32.000,4352.0,0.939,418.0,3934.0
+KLQ_12_7_A_how_many_boys_are_in_the_class_Khan02.wav,how many boys are in the class?,1:12:41.091,4361.091,0.908,418.0,3943.091
+JBIL_001_A_one_Khan02.wav,one,1:13:09.597,4389.597,0.731,418.0,3971.597
+JBIL_002_A_two_Khan02.wav,two,1:13:17.812,4397.812,0.94,418.0,3979.812
+JBIL_003_A_three_Khan02.wav,three,1:13:24.000,4404.0,0.78,418.0,3986.0
+JBIL_004_A_four_Khan02.wav,four,1:13:31.573,4411.573,0.87,418.0,3993.573
+JBIL_005_A_five_Khan02.wav,five,1:13:40.000,4420.0,0.997,418.0,4002.0
+JBIL_006_A_six_Khan02.wav,six,1:13:48.334,4428.334,1.219,418.0,4010.334
+JBIL_007_A_seven_Khan02.wav,seven,1:13:56.000,4436.0,1.148,418.0,4018.0
+JBIL_008_A_eight_Khan02.wav,eight,1:14:02.971,4442.971,1.028,418.0,4024.971
+JBIL_009_A_nine_Khan02.wav,nine,1:14:12.674,4452.674,1.201,418.0,4034.674
+JBIL_010_A_ten_Khan02.wav,ten,1:14:21.035,4461.035,0.964,418.0,4043.035
+JBIL_011_A_eleven_Khan02.wav,eleven,1:14:28.220,4468.22,1.41,418.0,4050.22
+JBIL_012_A_twelve_Khan02.wav,twelve,1:14:39.714,4479.714,1.323,418.0,4061.714
+JBIL_013_A_thirteen_Khan02.wav,thirteen,1:14:48.232,4488.232,1.428,418.0,4070.232
+JBIL_014_A_fourteen_Khan02.wav,fourteen,1:14:55.670,4495.67,1.393,418.0,4077.67
+JBIL_015_A_fifteen_Khan02.wav,fifteen,1:15:03.473,4503.473,1.515,418.0,4085.473
+JBIL_016_A_sixteen_Khan02.wav,sixteen,1:15:10.370,4510.37,1.629,418.0,4092.37
+JBIL_017_A_seventeen_Khan02.wav,seventeen,1:15:20.560,4520.56,1.439,418.0,4102.56
+JBIL_018_A_eighteen_Khan02.wav,eighteen,1:15:32.246,4532.246,1.027,418.0,4114.246
+JBIL_019_A_nineteen_Khan02.wav,nineteen,1:15:44.347,4544.347,1.097,418.0,4126.347
+JBIL_020_A_twenty_Khan02.wav,twenty,1:15:54.973,4554.973,1.55,418.0,4136.973
+JBIL_021_A_twenty-one_Khan02.wav,twenty-one,1:18:20.000,4700.0,1.524,418.0,4282.0
+JBIL_022_A_thirty_Khan02.wav,thirty,1:18:30.892,4710.892,1.107,418.0,4292.892
+JBIL_023_A_forty_Khan02.wav,forty,1:18:45.124,4725.124,0.696,418.0,4307.124
+JBIL_024_A_fifty_Khan02.wav,fifty,1:18:52.283,4732.283,1.219,418.0,4314.283
+JBIL_025_A_sixty_Khan02.wav,sixty,1:19:02.700,4742.7,0.905,418.0,4324.7
+JBIL_026_A_seventy_Khan02.wav,seventy,1:19:40.000,4780.0,1.115,418.0,4362.0
+JBIL_027_A_eighty_Khan02.wav,eighty,1:19:47.418,4787.418,1.167,418.0,4369.418
+JBIL_028_A_ninety_Khan02.wav,ninety,1:19:55.483,4795.483,1.271,418.0,4377.483
+JBIL_029_A_one_hundred_Khan02.wav,one hundred,1:20:04.000,4804.0,1.117,418.0,4386.0
+JBIL_030_A_two_hundred_Khan02.wav,two hundred,1:20:18.367,4818.367,1.114,418.0,4400.367
+JBIL_031_A_head_Khan02.wav,head,1:20:38.913,4838.913,0.783,418.0,4420.913
+JBIL_033_A_eye_Khan02.wav,eye,1:21:18.000,4878.0,0.845,418.0,4460.0
+JBIL_035_A_ear_Khan02.wav,ear,1:21:41.487,4901.487,1.149,418.0,4483.487
+JBIL_036_A_mouth_Khan02.wav,mouth,1:21:51.379,4911.379,0.853,418.0,4493.379
+JBIL_037_A_tooth_Khan02.wav,tooth,1:22:01.865,4921.865,1.289,418.0,4503.865
+JBIL_038_A_tongue_Khan02.wav,tongue,1:22:12.460,4932.46,1.167,418.0,4514.46
+JBIL_039_A_neck_Khan02.wav,neck,1:22:20.834,4940.834,0.853,418.0,4522.834
+JBIL_041_A_arm_Khan02.wav,arm,1:22:31.760,4951.76,0.94,418.0,4533.76
+JBIL_040_A_throat_Khan02.wav,throat,1:22:48.805,4968.805,0.992,418.0,4550.805
+JBIL_042_A_hand_Khan02.wav,hand,1:23:19.402,4999.402,1.079,418.0,4581.402
+JBIL_044_A_finger_Khan02.wav,finger,1:23:34.834,5014.834,0.992,418.0,4596.834
+JBIL_045_A_nail_Khan02.wav,nail,1:23:46.818,5026.818,1.358,418.0,4608.818
+JBIL_045_B_nail_Khan02.wav,nail,1:24:21.359,5061.359,0.64,418.0,4643.359
+JBIL_046_A_chest_Khan02.wav,chest,1:24:34.000,5074.0,1.588,418.0,4656.0
+JBIL_047_A_stomach_belly_Khan02.wav,stomach (belly),1:26:00.924,5160.924,0.87,418.0,4742.924
+JBIL_049_A_guts_Khan02.wav,guts,1:26:47.150,5207.15,1.097,418.0,4789.15
+JBIL_050_A_navel_Khan02.wav,navel,1:27:04.449,5224.449,1.254,418.0,4806.449
+JBIL_051_A_back_Khan02.wav,back,1:27:14.495,5234.495,0.749,418.0,4816.495
+JBIL_053_A_thigh_Khan02.wav,thigh,1:27:46.263,5266.263,1.027,418.0,4848.263
+JBIL_055_A_foot_Khan02.wav,foot,1:27:58.540,5278.54,0.905,418.0,4860.54
+JBIL_052_A_leg_Khan02.wav,leg,1:28:30.803,5310.803,0.888,418.0,4892.803
+JBIL_056_A_skin_Khan02.wav,skin,1:28:50.000,5330.0,1.247,418.0,4912.0
+JBIL_057_A_bone_Khan02.wav,bone,1:28:55.873,5335.873,1.045,418.0,4917.873
+JBIL_058_A_blood_Khan02.wav,blood,1:29:05.157,5345.157,1.184,418.0,4927.157
+JBIL_059_A_urine_Khan02.wav,urine,1:29:43.109,5383.109,1.575,418.0,4965.109
+JBIL_060_A_heart_Khan02.wav,heart,1:29:52.214,5392.214,1.042,418.0,4974.214
+JBIL_061_A_liver_Khan02.wav,liver,1:30:20.642,5420.642,1.042,418.0,5002.642
+JBIL_062_A_person_Khan02.wav,person,1:30:39.362,5439.362,1.297,418.0,5021.362
+JBIL_063_A_man_Khan02.wav,man,1:30:46.706,5446.706,1.293,418.0,5028.706
+JBIL_064_A_husband_Khan02.wav,husband,1:30:55.672,5455.672,0.787,418.0,5037.672
+JBIL_065_A_woman_Khan02.wav,woman,1:32:50.361,5570.361,1.204,418.0,5152.361
+JBIL_066_A_wife_Khan02.wav,wife,1:33:02.000,5582.0,1.242,418.0,5164.0
+JBIL_067_A_child_Khan02.wav,child,1:33:10.232,5590.232,1.32,418.0,5172.232
+JBIL_068_A_boy_Khan02.wav,boy,1:33:26.373,5606.373,1.227,418.0,5188.373
+JBIL_069_A_son_Khan02.wav,son,1:33:54.738,5634.738,0.88,418.0,5216.738
+JBIL_070_A_girl_Khan02.wav,girl,1:34:22.481,5662.481,1.112,418.0,5244.481
+JBIL_071_A_daughter_Khan02.wav,daughter,1:34:42.496,5682.496,1.042,418.0,5264.496
+JBIL_074_A_brother_Khan02.wav,brother,1:35:03.549,5703.549,0.903,418.0,5285.549
+JBIL_076_A_groom_Khan02.wav,groom,1:35:13.829,5713.829,0.973,418.0,5295.829
+JBIL_077_A_bride_Khan02.wav,bride,1:35:22.494,5722.494,1.505,418.0,5304.494
+JBIL_078_A_name_Khan02.wav,name,1:35:42.190,5742.19,0.857,418.0,5324.19
+JBIL_079_A_dog_Khan02.wav,dog,1:36:36.278,5796.278,1.019,418.0,5378.278
+JBIL_080_A_cat_Khan02.wav,cat,1:36:44.000,5804.0,1.452,418.0,5386.0
+JBIL_081_A_horn_cow_Khan02.wav,horn (cow),1:36:58.387,5818.387,1.274,418.0,5400.387
+JBIL_082_A_tail_Khan02.wav,tail,1:37:07.677,5827.677,1.181,418.0,5409.677
+JBIL_083_A_claw_Khan02.wav,claw,1:38:18.710,5898.71,2.015,418.0,5480.71
+JBIL_084_A_feather_Khan02.wav,feather,1:38:40.327,5920.327,0.926,418.0,5502.327
+JBIL_085_A_wing_Khan02.wav,wing,1:38:51.262,5931.262,1.204,418.0,5513.262
+JBIL_086_A_lion_Khan02.wav,lion,1:39:00.000,5940.0,1.272,418.0,5522.0
+JBIL_087_A_wolf_Khan02.wav,wolf,1:39:09.287,5949.287,0.973,418.0,5531.287
+JBIL_088_A_fox_Khan02.wav,fox,1:39:19.242,5959.242,1.088,418.0,5541.242
+JBIL_089_A_snake_Khan02.wav,snake,1:39:30.000,5970.0,1.266,418.0,5552.0
+JBIL_090_A_worm_Khan02.wav,worm,1:39:37.359,5977.359,1.204,418.0,5559.359
+JBIL_091_A_fish_Khan02.wav,fish,1:39:45.217,5985.217,1.39,418.0,5567.217
+JBIL_092_A_bird_Khan02.wav,bird,1:40:02.619,6002.619,0.949,418.0,5584.619
+JBIL_093_A_ant_Khan02.wav,ant,1:40:15.685,6015.685,1.413,418.0,5597.685
+JBIL_094_A_fly_n_Khan02.wav,fly (n.),1:40:42.466,6042.466,1.533,418.0,5624.466
+JBIL_095_A_scorpion_Khan02.wav,scorpion,1:40:55.671,6055.671,1.251,418.0,5637.671
+JBIL_096_A_louse_Khan02.wav,louse,1:41:22.963,6082.963,1.036,418.0,5664.963
+JBIL_097_A_tree_Khan02.wav,tree,1:41:35.658,6095.658,0.949,418.0,5677.658
+JBIL_098_A_forest_Khan02.wav,forest,1:42:04.000,6124.0,1.366,418.0,5706.0
+JBIL_099_A_wood_substance_Khan02.wav,wood (substance),1:42:13.544,6133.544,1.112,418.0,5715.544
+JBIL_100_A_branch_Khan02.wav,branch,1:43:23.452,6203.452,1.251,418.0,5785.452
+JBIL_101_A_stick_Khan02.wav,stick,1:44:23.899,6263.899,0.943,418.0,5845.899
+JBIL_102_A_leaf_Khan02.wav,leaf,1:44:32.000,6272.0,1.016,418.0,5854.0
+JBIL_103_A_bark_Khan02.wav,bark,1:45:36.275,6336.275,1.178,418.0,5918.275
+JBIL_105_A_flower_Khan02.wav,flower,1:46:07.563,6367.563,0.798,418.0,5949.563
+JBIL_106_A_seed_Khan02.wav,seed,1:46:44.187,6404.187,0.982,418.0,5986.187
+JBIL_104_A_root_Khan02.wav,root,1:47:14.855,6434.855,1.144,418.0,6016.855
+JBIL_107_A_grass_Khan02.wav,grass,1:47:38.823,6458.823,0.798,418.0,6040.823
+JBIL_108_A_sky_Khan02.wav,sky,1:47:57.298,6477.298,1.1,418.0,6059.298
+JBIL_109_A_cloud_Khan02.wav,cloud,1:48:08.000,6488.0,0.811,418.0,6070.0
+JBIL_110_A_shadow_Khan02.wav,shadow,1:49:13.649,6553.649,0.903,418.0,6135.649
+KLQ_3_2_A_thunder_Khan02.wav,thunder,1:49:59.267,6599.267,0.969,418.0,6181.267
+JBIL_111_A_sun_Khan02.wav,sun,1:50:33.203,6633.203,0.796,418.0,6215.203
+JBIL_112_A_day_Khan02.wav,day,1:50:41.166,6641.166,0.929,418.0,6223.166
+JBIL_113_A_moon_Khan02.wav,moon,1:50:48.941,6648.941,1.058,418.0,6230.941
+JBIL_114_A_night_Khan02.wav,night,1:51:17.743,6677.743,0.982,418.0,6259.743
+JBIL_115_A_star_Khan02.wav,star,1:51:23.323,6683.323,0.982,418.0,6265.323
+JBIL_116_A_wind_Khan02.wav,wind,1:51:39.282,6699.282,0.877,418.0,6281.282
+JBIL_117_A_dirt_earth_Khan02.wav,"dirt, earth",1:51:58.000,6718.0,0.985,418.0,6300.0
+JBIL_118_A_mountain_Khan02.wav,mountain,1:52:08.000,6728.0,0.874,418.0,6310.0
+JBIL_119_A_stone_Khan02.wav,stone,1:52:20.768,6740.768,0.929,418.0,6322.768
+JBIL_120_A_sand_Khan02.wav,sand,1:52:45.678,6765.678,0.759,418.0,6347.678
+JBIL_121_A_dust_Khan02.wav,dust,1:53:17.205,6797.205,1.034,418.0,6379.205
+JBIL_122_A_water_Khan02.wav,water,1:53:39.137,6819.137,0.862,418.0,6401.137
+JBIL_123_A_ice_Khan02.wav,ice,1:53:56.524,6836.524,0.916,418.0,6418.524
+JBIL_124_A_snow_Khan02.wav,snow,1:53:58.502,6838.502,0.982,418.0,6420.502
+JBIL_125_A_fog_Khan02.wav,fog,1:54:08.953,6848.953,0.772,418.0,6430.953
+JBIL_126_A_rain_Khan02.wav,rain,1:54:12.948,6852.948,1.051,418.0,6434.948
+JBIL_127_A_river_Khan02.wav,river,1:55:34.519,6934.519,0.681,418.0,6516.519
+JBIL_130_A_fire_Khan02.wav,fire,1:57:06.222,7026.222,0.89,418.0,6608.222
+JBIL_131_A_smoke_Khan02.wav,smoke,1:57:14.316,7034.316,1.165,418.0,6616.316
+JBIL_133_A_year_Khan02.wav,year,1:58:05.353,7085.353,0.942,418.0,6667.353
+JBIL_134_A_summer_Khan02.wav,summer,1:58:14.277,7094.277,1.257,418.0,6676.277
+JBIL_135_A_winter_Khan02.wav,winter,1:58:22.680,7102.68,1.32,418.0,6684.68
+JBIL_132_A_ash_Khan02.wav,ash,1:58:34.753,7114.753,0.929,418.0,6696.753
+JBIL_136_A_house_Khan02.wav,house,1:58:59.660,7139.66,0.877,418.0,6721.66
+JBIL_137_A_meat_Khan02.wav,meat,1:59:20.505,7160.505,1.231,418.0,6742.505
+JBIL_138_A_rice_Khan02.wav,rice,1:59:26.870,7166.87,1.021,418.0,6748.87
+JBIL_140_A_fat_n_Khan02.wav,fat (n.),1:59:45.573,7185.573,0.851,418.0,6767.573
+JBIL_141_A_egg_eg_chicken_Khan02.wav,"egg (e.g., chicken)",1:59:55.510,7195.51,1.047,418.0,6777.51
+JBIL_142_A_milk_Khan02.wav,milk,2:00:06.103,7206.103,1.021,418.0,6788.103
+JBIL_143_A_honey_Khan02.wav,honey,2:00:20.619,7220.619,0.942,418.0,6802.619
+JBIL_144_A_walnut_Khan02.wav,walnut,2:00:40.496,7240.496,1.503,418.0,6822.496
+JBIL_145_A_fruit_Khan02.wav,fruit,2:00:56.000,7256.0,1.112,418.0,6838.0
+JBIL_146_A_hungry_Khan02.wav,hungry,2:01:13.563,7273.563,1.047,418.0,6855.563
+JBIL_147_A_thirsty_Khan02.wav,thirsty,2:01:19.640,7279.64,0.942,418.0,6861.64
+JBIL_149_A_fresh_Khan02.wav,fresh,2:01:58.872,7318.872,0.89,418.0,6900.872
+JBIL_150_A_good_Khan02.wav,good,2:02:08.144,7328.144,0.916,418.0,6910.144
+JBIL_151_A_bad_Khan02.wav,bad,2:02:10.803,7330.803,0.877,418.0,6912.803
+JBIL_148_A_bitter_Khan02.wav,bitter,2:02:29.279,7349.279,0.72,418.0,6931.279
+JBIL_152_A_rotten_Khan02.wav,rotten,2:02:58.422,7378.422,1.27,418.0,6960.422
+JBIL_153_A_old_thing_Khan02.wav,old (thing),2:03:08.682,7388.682,0.969,418.0,6970.682
+JBIL_154_A_new_Khan02.wav,new,2:03:17.692,7397.692,1.087,418.0,6979.692
+JBIL_155_A_sweet_Khan02.wav,sweet,2:03:26.779,7406.779,0.916,418.0,6988.779
+JBIL_156_A_hot_fire_Khan02.wav,hot (fire),2:03:34.259,7414.259,0.903,418.0,6996.259
+JBIL_157_A_cold_Khan02.wav,cold,2:03:41.226,7421.226,0.995,418.0,7003.226
+JBIL_158_A_long_thing_Khan02.wav,long (thing),2:04:20.964,7460.964,1.335,418.0,7042.964
+JBIL_159_A_short_length_Khan02.wav,short (length),2:04:23.518,7463.518,0.667,418.0,7045.518
+JBIL_160_A_wide_Khan02.wav,wide,2:04:26.425,7466.425,0.694,418.0,7048.425
+JBIL_161_A_narrow_Khan02.wav,narrow,2:04:28.213,7468.213,0.969,418.0,7050.213
+JBIL_162_A_thick_Khan02.wav,thick,2:04:30.623,7470.623,0.89,418.0,7052.623
+JBIL_163_A_thin_Khan02.wav,thin,2:04:33.278,7473.278,0.864,418.0,7055.278
+JBIL_164_A_heavy_Khan02.wav,heavy,2:04:35.085,7475.085,0.914,418.0,7057.085
+JBIL_166_A_dirty_Khan02.wav,dirty,2:04:37.351,7477.351,0.648,418.0,7059.351
+JBIL_167_A_dry_Khan02.wav,dry,2:04:39.407,7479.407,0.592,418.0,7061.407
+JBIL_168_A_wet_Khan02.wav,wet,2:04:41.044,7481.044,0.5,418.0,7063.044
+JBIL_165_A_full_Khan02.wav,full,2:04:51.499,7491.499,0.615,418.0,7073.499
+JBIL_169_A_big_Khan02.wav,big,2:05:19.749,7519.749,0.89,418.0,7101.749
+JBIL_170_A_small_Khan02.wav,small,2:05:21.569,7521.569,0.956,418.0,7103.569
+JBIL_171_A_round_Khan02.wav,round,2:05:26.000,7526.0,0.899,418.0,7108.0
+JBIL_172_A_hard_Khan02.wav,hard,2:05:40.521,7540.521,0.772,418.0,7122.521
+JBIL_173_A_sharp_Khan02.wav,sharp,2:05:50.349,7550.349,0.929,418.0,7132.349
+JBIL_174_A_smooth_Khan02.wav,smooth,2:06:04.000,7564.0,1.195,418.0,7146.0
+JBIL_175_A_straight_Khan02.wav,straight,2:06:31.893,7591.893,1.087,418.0,7173.893
+JBIL_176_A_true_Khan02.wav,true,2:06:45.511,7605.511,1.008,418.0,7187.511
+JBIL_177_A_green_Khan02.wav,green,2:06:58.805,7618.805,1.194,418.0,7200.805
+JBIL_178_A_yellow_Khan02.wav,yellow,2:07:00.678,7620.678,0.851,418.0,7202.678
+JBIL_179_A_red_Khan02.wav,red,2:07:02.564,7622.564,1.021,418.0,7204.564
+JBIL_180_A_black_Khan02.wav,black,2:07:05.372,7625.372,1.126,418.0,7207.372
+JBIL_181_A_white_Khan02.wav,white,2:07:08.568,7628.568,1.034,418.0,7210.568
+JBIL_182_A_go_PRES_3sg_Khan02.wav,go_PRES_3sg,2:08:27.854,7707.854,0.63,418.0,7289.854
+JBIL_183_A_go_PAST_3sg_Khan02.wav,go_PAST_3sg,2:09:12.337,7752.337,0.662,418.0,7334.337
+JBIL_184_A_come_PRES_3sg_Khan02.wav,come_PRES_3sg,2:11:03.679,7863.679,0.749,418.0,7445.679
+JBIL_185_A_come_PAST_3sg_Khan02.wav,come_PAST_3sg,2:11:16.843,7876.843,0.69,418.0,7458.843
+JBIL_186_A_turn_tr__PRES_3sg_Khan02.wav,turn (tr.) _PRES_3sg,2:12:12.860,7932.86,1.139,418.0,7514.86
+JBIL_187_A_turn_tr_PAST_3sg_Khan02.wav,turn (tr.)_PAST_3sg,2:12:27.000,7947.0,1.343,418.0,7529.0
+JBIL_188_A_stand_PRES_3sg_Khan02.wav,stand_PRES_3sg,2:12:51.346,7971.346,0.897,418.0,7553.346
+JBIL_189_A_stand_PAST_3sg_Khan02.wav,stand_PAST_3sg,2:13:02.886,7982.886,1.035,418.0,7564.886
+JBIL_190_A_sit_PRES_3sg_Khan02.wav,sit_PRES_3sg,2:13:19.000,7999.0,1.19,418.0,7581.0
+JBIL_191_A_sit_PAST_3sg_Khan02.wav,sit_PAST_3sg,2:14:04.371,8044.371,0.867,418.0,7626.371
+JBIL_192_A_lie_down_PRES_3sg_Khan02.wav,lie down_PRES_3sg,2:14:55.702,8095.702,1.212,418.0,7677.702
+JBIL_193_A_lie_down_PAST_3sg_Khan02.wav,lie down_PAST_3sg,2:15:15.798,8115.798,1.201,418.0,7697.798
+JBIL_194_A_fall_PRES_3sg_Khan02.wav,fall_PRES_3sg,2:15:34.762,8134.762,0.778,418.0,7716.762
+JBIL_195_A_fall_PAST_3sg_Khan02.wav,fall_PAST_3sg,2:15:47.109,8147.109,0.89,418.0,7729.109
+JBIL_196_A_walk_PRES_3sg_Khan02.wav,walk_PRES_3sg,2:16:05.535,8165.535,1.074,418.0,7747.535
+JBIL_197_A_walk_PAST_3sg_Khan02.wav,walk_PAST_3sg,2:16:18.366,8178.366,1.114,418.0,7760.366
+JBIL_198_A_run_PRES_3sg_Khan02.wav,run_PRES_3sg,2:16:40.000,8200.0,1.0,418.0,7782.0
+JBIL_199_A_run_PAST_3sg_Khan02.wav,run_PAST_3sg,2:16:48.355,8208.355,1.015,418.0,7790.355
+JBIL_200_A_swim_PRES_3sg_Khan02.wav,swim_PRES_3sg,2:17:04.000,8224.0,1.0,418.0,7806.0
+JBIL_201_A_swim_PAST_3sg_Khan02.wav,swim_PAST_3sg,2:17:13.669,8233.669,1.035,418.0,7815.669
+JBIL_202_A_fly_PRES_3sg_Khan02.wav,fly_PRES_3sg,2:20:22.209,8422.209,1.183,418.0,8004.209
+JBIL_203_A_fly_PAST_3sg_Khan02.wav,fly_PAST_3sg,2:20:50.361,8450.361,1.005,418.0,8032.361
+JBIL_204_A_see_PRES_3sg_Khan02.wav,see_PRES_3sg,2:21:10.528,8470.528,0.916,418.0,8052.528
+JBIL_205_A_see_PAST_3sg_Khan02.wav,see_PAST_3sg,2:21:29.751,8489.751,0.985,418.0,8071.751
+JBIL_206_A_hear_PRES_3sg_Khan02.wav,hear_PRES_3sg,2:21:58.871,8518.871,1.045,418.0,8100.871
+JBIL_207_A_hear_PAST_3sg_Khan02.wav,hear_PAST_3sg,2:22:11.781,8531.781,1.054,418.0,8113.781
+JBIL_208_A_smell_PRES_3sg_Khan02.wav,smell_PRES_3sg,2:22:26.898,8546.898,1.101,418.0,8128.898
+JBIL_209_A_smell__PAST_3sg_Khan02.wav,smell _PAST_3sg,2:22:39.585,8559.585,1.242,418.0,8141.585
+JBIL_210_A_do_PRES_3sg_Khan02.wav,do_PRES_3sg,2:23:10.519,8590.519,0.709,418.0,8172.519
+JBIL_211_A_do_PAST_3sg_Khan02.wav,do_PAST_3sg,2:23:25.119,8605.119,0.611,418.0,8187.119
+JBIL_212_A_live_PRES_3sg_Khan02.wav,live_PRES_3sg,2:24:17.406,8657.406,1.291,418.0,8239.406
+JBIL_213_A_live_PAST_3sg_Khan02.wav,live_PAST_3sg,2:24:47.171,8687.171,1.33,418.0,8269.171
+JBIL_214_A_die_PRES_3sg_Khan02.wav,die_PRES_3sg,2:25:10.000,8710.0,0.86,418.0,8292.0
+JBIL_215_A_die_PAST_3sg_Khan02.wav,die_PAST_3sg,2:25:19.213,8719.213,0.786,418.0,8301.213
+JBIL_216_A_sleep_PRES_3sg_Khan02.wav,sleep_PRES_3sg,2:26:11.880,8771.88,0.887,418.0,8353.88
+JBIL_217_A_sleep_PAST_3sg_Khan02.wav,sleep_PAST_3sg,2:26:20.109,8780.109,0.89,418.0,8362.109
+JBIL_218_A_breathe_PRES_3sg_Khan02.wav,breathe_PRES_3sg,2:26:45.845,8805.845,1.064,418.0,8387.845
+JBIL_219_A_breathe_PAST_3sg_Khan02.wav,breathe_PAST_3sg,2:26:58.705,8818.705,1.294,418.0,8400.705
+JBIL_220_A_blow_PRES_3sg_Khan02.wav,blow_PRES_3sg,2:27:18.128,8838.128,0.871,418.0,8420.128
+JBIL_221_A_blow_PAST_3sg_Khan02.wav,blow_PAST_3sg,2:27:36.785,8856.785,1.37,418.0,8438.785
+JBIL_222_A_swell_PRES_3sg_Khan02.wav,swell_PRES_3sg,2:28:31.256,8911.256,1.153,418.0,8493.256
+JBIL_223_A_swell_PAST_3sg_Khan02.wav,swell_PAST_3sg,2:29:11.201,8951.201,0.995,418.0,8533.201
+JBIL_224_A_spit_PRES_3sg_Khan02.wav,spit_PRES_3sg,2:29:32.102,8972.102,1.054,418.0,8554.102
+JBIL_225_A_spit_PAST_3sg_Khan02.wav,spit_PAST_3sg,2:29:43.456,8983.456,1.094,418.0,8565.456
+JBIL_226_A_vomit_PRES_3sg_Khan02.wav,vomit_PRES_3sg,2:30:09.740,9009.74,1.577,418.0,8591.74
+JBIL_227_A_vomit_PAST_3sg_Khan02.wav,vomit_PAST_3sg,2:30:29.334,9029.334,1.271,418.0,8611.334
+JBIL_228_A_bite_PRES_3sg_Khan02.wav,bite_PRES_3sg,2:30:48.634,9048.634,1.054,418.0,8630.634
+JBIL_229_A_bite_PAST_3sg_Khan02.wav,bite_PAST_3sg,2:31:02.250,9062.25,1.222,418.0,8644.25
+JBIL_230_A_eat_PRES_3sg_Khan02.wav,eat_PRES_3sg,2:31:22.616,9082.616,1.005,418.0,8664.616
+JBIL_232_A_drink_PRES_3sg_Khan02.wav,drink_PRES_3sg,2:31:25.929,9085.929,0.749,418.0,8667.929
+JBIL_231_A_eat_PAST_3sg_Khan02.wav,eat_PAST_3sg,2:32:44.733,9164.733,1.045,418.0,8746.733
+JBIL_233_A_drink_PAST_3sg_Khan02.wav,drink_PAST_3sg,2:32:47.523,9167.523,1.242,418.0,8749.523
+JBIL_234_A_fear_PRES_3sg_Khan02.wav,fear_PRES_3sg,2:33:23.000,9203.0,0.847,418.0,8785.0
+JBIL_235_A_fear_PAST_3sg_Khan02.wav,fear_PAST_3sg,2:33:36.594,9216.594,1.045,418.0,8798.594
+JBIL_236_A_know_PRES_3sg_Khan02.wav,know_PRES_3sg,2:33:49.773,9229.773,1.488,418.0,8811.773
+JBIL_237_A_know_PAST_3sg_Khan02.wav,know_PAST_3sg,2:34:30.602,9270.602,1.163,418.0,8852.602
+JBIL_238_A_think_PRES_3sg_Khan02.wav,think_PRES_3sg,2:34:44.677,9284.677,0.995,418.0,8866.677
+JBIL_239_A_think_PAST_3sg_Khan02.wav,think_PAST_3sg,2:34:55.420,9295.42,1.104,418.0,8877.42
+JBIL_240_A_count_PRES_3sg_Khan02.wav,count_PRES_3sg,2:35:11.872,9311.872,1.281,418.0,8893.872
+JBIL_241_A_count_PAST_3sg_Khan02.wav,count_PAST_3sg,2:35:27.392,9327.392,1.607,418.0,8909.392
+JBIL_242_A_laugh_PRES_3sg_Khan02.wav,laugh_PRES_3sg,2:35:37.546,9337.546,0.956,418.0,8919.546
+JBIL_243_A_laugh_PAST_3sg_Khan02.wav,laugh_PAST_3sg,2:35:48.888,9348.888,1.111,418.0,8930.888
+JBIL_244_A_cry_PRES_3sg_Khan02.wav,cry_PRES_3sg,2:36:01.657,9361.657,0.995,418.0,8943.657
+JBIL_245_A_cry_PAST_3sg_Khan02.wav,cry_PAST_3sg,2:36:13.334,9373.334,1.054,418.0,8955.334
+JBIL_246_A_say_PRES_3sg_Khan02.wav,say_PRES_3sg,2:36:44.269,9404.269,1.143,418.0,8986.269
+JBIL_247_A_say_PAST_3sg_Khan02.wav,say_PAST_3sg,2:37:01.224,9421.224,0.775,418.0,9003.224
+JBIL_248_B_sing_PRES_3sg_Khan02.wav,sing_PRES_3sg,2:37:21.411,9441.411,1.705,418.0,9023.411
+JBIL_248_A_sing_PRES_3sg_Khan02.wav,sing_PRES_3sg,2:38:01.729,9481.729,1.409,418.0,9063.729
+JBIL_249_A_sing_PAST_3sg_Khan02.wav,sing_PAST_3sg,2:38:26.704,9506.704,1.439,418.0,9088.704
+JBIL_249_B_sing_PAST_3sg_Khan02.wav,sing_PAST_3sg,2:39:00.000,9540.0,1.514,418.0,9122.0
+JBIL_252_A_give_PRES_3sg_Khan02.wav,give_PRES_3sg,2:39:22.801,9562.801,0.867,418.0,9144.801
+JBIL_253_A_give_PAST_3sg_Khan02.wav,give_PAST_3sg,2:39:32.415,9572.415,0.749,418.0,9154.415
+JBIL_250_A_play_PRES_3sg_Khan02.wav,play_PRES_3sg,2:41:01.141,9661.141,0.858,418.0,9243.141
+JBIL_251_A_play_PAST_3sg_Khan02.wav,play_PAST_3sg,2:41:12.863,9672.863,1.409,418.0,9254.863
+JBIL_254_A_fight_PRES_3sg_Khan02.wav,fight_PRES_3sg,2:41:27.542,9687.542,1.054,418.0,9269.542
+JBIL_255_A_fight_PAST_3sg_Khan02.wav,fight_PAST_3sg,2:41:37.631,9697.631,1.368,418.0,9279.631
+JBIL_256_A_kill_PRES_3sg_Khan02.wav,kill_PRES_3sg,2:41:52.477,9712.477,0.897,418.0,9294.477
+JBIL_257_A_kill_PAST_3sg_Khan02.wav,kill_PAST_3sg,2:42:09.613,9729.613,0.867,418.0,9311.613
+JBIL_258_A_take_PRES_3sg_Khan02.wav,take_PRES_3sg,2:42:24.869,9744.869,0.828,418.0,9326.869
+JBIL_259_A_take_PAST_3sg_Khan02.wav,take_PAST_3sg,2:42:35.072,9755.072,0.927,418.0,9337.072
+JBIL_260_A_push_PRES_3sg_Khan02.wav,push_PRES_3sg,2:43:10.000,9790.0,1.237,418.0,9372.0
+JBIL_261_A_push_PAST_3sg_Khan02.wav,push_PAST_3sg,2:43:21.797,9801.797,1.202,418.0,9383.797
+JBIL_262_A_pull_PRES_3sg_Khan02.wav,pull_PRES_3sg,2:43:55.121,9835.121,0.749,418.0,9417.121
+JBIL_263_A_pull_PAST_3sg_Khan02.wav,pull_PAST_3sg,2:44:05.275,9845.275,1.261,418.0,9427.275
+JBIL_264_A_close_PRES_3sg_Khan02.wav,close_PRES_3sg,2:44:20.000,9860.0,1.0,418.0,9442.0
+JBIL_265_A_close_PAST_3sg_Khan02.wav,close_PAST_3sg,2:44:56.752,9896.752,0.995,418.0,9478.752
+JBIL_266_A_tie_PRES_3sg_Khan02.wav,tie_PRES_3sg,2:45:42.859,9942.859,0.975,418.0,9524.859
+JBIL_267_A_tie_PAST_3sg_Khan02.wav,tie_PAST_3sg,2:45:56.171,9956.171,1.123,418.0,9538.171
+JBIL_268_A_carry_PRES_3sg_Khan02.wav,carry_PRES_3sg,2:46:26.929,9986.929,1.07,418.0,9568.929
+JBIL_269_A_carry_PAST_3sg_Khan02.wav,carry_PAST_3sg,2:46:36.630,9996.63,1.37,418.0,9578.63
+JBIL_270_A_hit_PRES_3sg_Khan02.wav,hit_PRES_3sg,2:46:53.609,10013.609,1.242,418.0,9595.609
+JBIL_271_A_hit_PAST_3sg_Khan02.wav,hit_PAST_3sg,2:47:07.726,10027.726,1.38,418.0,9609.726
+JBIL_272_A_cut_PRES_3sg_Khan02.wav,cut_PRES_3sg,2:47:38.000,10058.0,0.91,418.0,9640.0
+JBIL_273_A_cut_PAST_3sg_Khan02.wav,cut_PAST_3sg,2:47:49.000,10069.0,1.108,418.0,9651.0
+JBIL_274_A_scratch_PRES_3sg_Khan02.wav,scratch_PRES_3sg,2:48:07.140,10087.14,0.86,418.0,9669.14
+JBIL_275_A_scratch_PAST_3sg_Khan02.wav,scratch_PAST_3sg,2:48:56.144,10136.144,1.301,418.0,9718.144
+JBIL_276_A_wash_PRES_3sg_Khan02.wav,wash_PRES_3sg,2:49:18.090,10158.09,1.143,418.0,9740.09
+JBIL_277_A_wash_PAST_3sg_Khan02.wav,wash_PAST_3sg,2:49:34.321,10174.321,1.222,418.0,9756.321
+JBIL_278_A_sew_PRES_3sg_Khan02.wav,sew_PRES_3sg,2:49:51.702,10191.702,1.39,418.0,9773.702
+JBIL_279_A_sew_PAST_3sg_Khan02.wav,sew_PAST_3sg,2:50:10.639,10210.639,1.123,418.0,9792.639
+JBIL_280_A_burn_intr_PRES_3sg_Khan02.wav,burn (intr.)_PRES_3sg,2:50:38.477,10238.477,1.035,418.0,9820.477
+JBIL_281_A_burn_intr_PAST_3sg_Khan02.wav,burn (intr.)_PAST_3sg,2:50:54.316,10254.316,1.212,418.0,9836.316
+JBIL_282_A_freeze_PRES_3sg_Khan02.wav,freeze_PRES_3sg,2:52:01.111,10321.111,1.212,418.0,9903.111
+JBIL_283_A_freeze_PAST_3sg_Khan02.wav,freeze_PAST_3sg,2:52:16.711,10336.711,1.36,418.0,9918.711
+JBIL_284_A_throw_PRES_3sg_Khan02.wav,throw_PRES_3sg,2:52:42.539,10362.539,1.202,418.0,9944.539
+JBIL_285_A_throw_PAST_3sg_Khan02.wav,throw_PAST_3sg,2:52:55.439,10375.439,1.104,418.0,9957.439
+JBIL_286_A_hunt_PRES_3sg_Khan02.wav,hunt_PRES_3sg,2:53:11.260,10391.26,1.015,418.0,9973.26
+JBIL_287_A_hunt_PAST_3sg_Khan02.wav,hunt_PAST_3sg,2:53:22.449,10402.449,0.828,418.0,9984.449
+JBIL_288_A_pour_PRES_3sg_Khan02.wav,pour_PRES_3sg,2:54:01.228,10441.228,1.114,418.0,10023.228
+JBIL_289_A_pour_PAST_3sg_Khan02.wav,pour_PAST_3sg,2:54:10.913,10450.913,1.222,418.0,10032.913
+JBIL_290_A_grind_PRES_3sg_Khan02.wav,grind_PRES_3sg,2:55:27.306,10527.306,0.857,418.0,10109.306
+JBIL_291_A_grind_PAST_3sg_Khan02.wav,grind_PAST_3sg,2:55:34.231,10534.231,1.045,418.0,10116.231
+JBIL_292_A_dig_PRES_3sg_Khan02.wav,dig_PRES_3sg,2:55:55.119,10555.119,1.054,418.0,10137.119
+JBIL_293_A_dig_PAST_3sg_Khan02.wav,dig_PAST_3sg,2:56:06.721,10566.721,1.074,418.0,10148.721
+JBIL_294_A_hide_PRES_3sg_Khan02.wav,hide_PRES_3sg,2:56:23.440,10583.44,1.054,418.0,10165.44
+JBIL_295_A_hide_PAST_3sg_Khan02.wav,hide_PAST_3sg,2:56:33.374,10593.374,1.114,418.0,10175.374
+JBIL_296_A_sweep_PRES_3sg_Khan02.wav,sweep_PRES_3sg,2:58:49.232,10729.232,1.045,418.0,10311.232
+JBIL_297_A_sweep_PAST_3sg_Khan02.wav,sweep_PAST_3sg,2:59:05.145,10745.145,1.153,418.0,10327.145
+JBIL_298_A_this_Khan02.wav,this,3:00:54.000,10854.0,0.5,418.0,10436.0
+JBIL_299_A_that_Khan02.wav,that,3:01:02.897,10862.897,0.67,418.0,10444.897
+JBIL_300_A_here_Khan02.wav,here,3:01:16.221,10876.221,0.778,418.0,10458.221
+JBIL_301_A_near_Khan02.wav,near,3:01:30.431,10890.431,0.808,418.0,10472.431
+JBIL_302_A_there_Khan02.wav,there,3:01:39.595,10899.595,0.778,418.0,10481.595
+JBIL_303_A_far_Khan02.wav,far,3:01:46.875,10906.875,0.897,418.0,10488.875
+JBIL_304_A_to_the_right_Khan02.wav,(to the) right,3:01:56.000,10916.0,1.1,418.0,10498.0
+JBIL_305_A_to_the_left_Khan02.wav,(to the) left,3:02:01.764,10921.764,0.67,418.0,10503.764
+JBIL_306_A_under_Khan02.wav,under,3:02:09.683,10929.683,0.906,418.0,10511.683
+JBIL_307_A_with_Khan02.wav,with,3:02:18.246,10938.246,0.837,418.0,10520.246
+JBIL_308_A_not_Khan02.wav,not,3:04:37.081,11077.081,0.542,418.0,10659.081
+JBIL_309_A_today_Khan02.wav,today,3:04:53.388,11093.388,0.68,418.0,10675.388
+JBIL_310_A_yesterday_Khan02.wav,yesterday,3:04:56.740,11096.74,0.788,418.0,10678.74
+JBIL_311_A_two_days_ago_Khan02.wav,two days ago,3:04:59.895,11099.895,0.759,418.0,10681.895
+JBIL_312_A_tomorrow_Khan02.wav,tomorrow,3:05:06.000,11106.0,1.0,418.0,10688.0
+JBIL_312_B_tomorrow_Khan02.wav,tomorrow,3:05:07.474,11107.474,0.68,418.0,10689.474
+JBIL_313_A_the_day_after_tomorrow_Khan02.wav,the day after tomorrow,3:05:10.251,11110.251,1.37,418.0,10692.251
+JBIL_314_A_where_Khan02.wav,where,3:05:14.667,11114.667,0.946,418.0,10696.667
+JBIL_315_A_when_Khan02.wav,when,3:05:17.000,11117.0,0.733,418.0,10699.0
+JBIL_316_A_how_Khan02.wav,how,3:05:20.178,11120.178,0.821,418.0,10702.178
+JBIL_317_A_who_Khan02.wav,who,3:05:31.649,11131.649,0.66,418.0,10713.649
+JBIL_318_A_what_Khan02.wav,what,3:05:45.562,11145.562,0.67,418.0,10727.562
+JBIL_319_A_I_Khan02.wav,I,3:05:56.000,11156.0,0.64,418.0,10738.0
+JBIL_320_A_you_sg_Khan02.wav,you (sg.),3:05:58.425,11158.425,0.574,418.0,10740.425
+JBIL_321_A_we_Khan02.wav,we,3:06:01.816,11161.816,0.828,418.0,10743.816
+JBIL_322_A_you_pl_Khan02.wav,you (pl.),3:06:05.765,11165.765,0.749,418.0,10747.765
+JBIL_323_A_they_Khan02.wav,they,3:06:13.109,11173.109,0.808,418.0,10755.109
