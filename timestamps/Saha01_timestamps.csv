@@ -1,494 +1,78 @@
-filename,concept,start_time,start_sec,duration_sec,offset,csv_start_sec
-JBIL_001_one_Saha01.wav,one,0:18:27.232,1107.232,0.91,0,1107.232
-JBIL_002_two_Saha01.wav,two,0:19:00.471,1140.471,0.664,0,1140.471
-KLQ_002_2_child_of_ones_daughter_Saha01.wav,,0:19:00.471,1140.471,0.664,0,1140.471
-KLQ_002_2_child_of_ones_son_Saha01.wav,,0:19:00.471,1140.471,0.664,0,1140.471
-KLQ_002_2_father_vocative_Saha01.wav,,0:19:00.471,1140.471,0.664,0,1140.471
-KLQ_002_3_mother_vocative_Saha01.wav,,0:19:00.471,1140.471,0.664,0,1140.471
-JBIL_003_three_Saha01.wav,three,0:19:07.170,1147.17,0.829,0,1147.17
-JBIL_004_four_Saha01.wav,four,0:19:14.439,1154.439,0.778,0,1154.439
-KLQ_004_0_thin_man_Saha01.wav,,0:19:14.439,1154.439,0.778,0,1154.439
-KLQ_004_5_low_wall_Saha01.wav,,0:19:14.439,1154.439,0.778,0,1154.439
-KLQ_004_9_fat_man_Saha01.wav,,0:19:14.439,1154.439,0.778,0,1154.439
-JBIL_005_0_sorush_is_going__to_the_market_with_hasan_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_0_the_boy_cut_the_rope_with_a_knife__Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_ali_went_to_the_village_with_him_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_i_am_coming_from_the_market_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_i_am_eating_the_apple_now_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_i_have_one_car_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_i_have_one_daughter_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_maryam_went_to_the_village_with_her_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_this_is_mine__Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_1_we_didnt_see_ali_at_the_market_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_2_as_reza_was_crossing_the_road_a_car_hit_him_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_2_he_gave_the_stick_to_the_girl_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_2_sahar_was_coming_down_the_mountain_with_the_mule_a_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_2_the_girl_cut_the_ropes_with_a_knife_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_2_when_i_was_cutting_up_vegetables_i_cut_my_hand_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_4_that_stick_-_peyman_gave_it_to_the_women_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_5_maryam_gave_the_bread_to_me_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_5_the_women_gave_the_bread_to_the_man_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_7_ali_speaks_persian_to_his_mother_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_7_the_boys_are_not_in_shiraz_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_9_the_children_are_in_the_kitchen_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_005_five_Saha01.wav,five,0:19:23.225,1163.225,0.774,0,1163.225
-KLQ_005_5_blue_sky_Saha01.wav,,0:19:23.225,1163.225,0.774,0,1163.225
-JBIL_006_six_Saha01.wav,six,0:19:34.551,1174.551,0.929,0,1174.551
-JBIL_319_i_Saha01.wav,i,0:19:34.551,1174.551,0.929,0,1174.551
-KLQ_006_5_to_bathe_immerse_the_whole_body_Saha01.wav,,0:19:34.551,1174.551,0.929,0,1174.551
-JBIL_007_seven_Saha01.wav,seven,0:19:56.559,1196.559,0.854,0,1196.559
-KLQ_007_2_go_Saha01.wav,,0:19:56.559,1196.559,0.854,0,1196.559
-KLQ_007_4_come_here_Saha01.wav,,0:19:56.559,1196.559,0.854,0,1196.559
-KLQ_007_7_to_reach_arrive_Saha01.wav,,0:19:56.559,1196.559,0.854,0,1196.559
-JBIL_008_eight_Saha01.wav,eight,0:20:06.134,1206.134,1.081,0,1206.134
-KLQ_008_5_to_smell_eg_i_can_smell_the_food_that_is_cooking_Saha01.wav,,0:20:06.134,1206.134,1.081,0,1206.134
-JBIL_009_nine_Saha01.wav,nine,0:20:12.776,1212.776,0.967,0,1212.776
-KLQ_009_0_to_destroy_the_police_destroyed_the_house_a_Saha01.wav,,0:20:12.776,1212.776,0.967,0,1212.776
-KLQ_009_4_to_scratch_your_own_body_Saha01.wav,,0:20:12.776,1212.776,0.967,0,1212.776
-KLQ_009_5_to_knock_at_the_door_Saha01.wav,,0:20:12.776,1212.776,0.967,0,1212.776
-KLQ_009_8_to_sting_a_bee_stung_the_child_Saha01.wav,,0:20:12.776,1212.776,0.967,0,1212.776
-KLQ_009_9_to_tear_the_child_will_tear_the_paper_Saha01.wav,,0:20:12.776,1212.776,0.967,0,1212.776
-JBIL_010_ten_Saha01.wav,ten,0:20:19.304,1219.304,0.531,0,1219.304
-KLQ_010_5_above_a_cloud_is_above_the_mountain_Saha01.wav,,0:20:19.304,1219.304,0.531,0,1219.304
-KLQ_010_5_up_look_up_Saha01.wav,,0:20:19.304,1219.304,0.531,0,1219.304
-KLQ_010_6_down_look_down_Saha01.wav,,0:20:19.304,1219.304,0.531,0,1219.304
-KLQ_010_8_below_the_cat_is_below_the_table_Saha01.wav,,0:20:19.304,1219.304,0.531,0,1219.304
-JBIL_011_eleven_Saha01.wav,eleven,0:21:13.459,1273.459,1.176,0,1273.459
-JBIL_012_twelve_Saha01.wav,twelve,0:21:23.690,1283.69,1.005,0,1283.69
-KLQ_012_5_how_much_salt_is_in_the_bag_Saha01.wav,,0:21:23.690,1283.69,1.005,0,1283.69
-JBIL_013_thirteen_Saha01.wav,thirteen,0:21:31.490,1291.49,1.1,0,1291.49
-JBIL_014_fourteen_Saha01.wav,fourteen,0:21:39.237,1299.237,0.967,0,1299.237
-JBIL_015_fifteen_Saha01.wav,fifteen,0:21:48.593,1308.593,1.081,0,1308.593
-JBIL_016_sixteen_Saha01.wav,sixteen,0:21:56.796,1316.796,1.203,0,1316.796
-JBIL_017_seventeen_Saha01.wav,seventeen,0:22:03.324,1323.324,0.872,0,1323.324
-JBIL_018_eighteen_Saha01.wav,eighteen,0:22:11.826,1331.826,1.062,0,1331.826
-JBIL_019_nineteen_Saha01.wav,nineteen,0:22:20.683,1340.683,1.024,0,1340.683
-JBIL_020_twenty_Saha01.wav,twenty,0:22:31.045,1351.045,1.195,0,1351.045
-JBIL_021_twenty-one_Saha01.wav,twenty-one,0:22:43.300,1363.3,1.233,0,1363.3
-JBIL_022_thirty_Saha01.wav,thirty,0:22:50.000,1370.0,1.213,0,1370.0
-JBIL_023_forty_Saha01.wav,forty,0:22:56.224,1376.224,1.005,0,1376.224
-JBIL_024_fifty_Saha01.wav,fifty,0:23:02.259,1382.259,1.081,0,1382.259
-JBIL_025_sixty_Saha01.wav,sixty,0:23:17.218,1397.218,0.986,0,1397.218
-JBIL_026_seventy_Saha01.wav,seventy,0:23:22.000,1402.0,1.102,0,1402.0
-JBIL_027_eighty_Saha01.wav,eighty,0:23:30.361,1410.361,1.119,0,1410.361
-JBIL_028_ninety_Saha01.wav,ninety,0:23:45.657,1425.657,1.271,0,1425.657
-JBIL_029_one_hundred_Saha01.wav,one hundred,0:23:54.000,1434.0,0.838,0,1434.0
-JBIL_030_two_hundred_Saha01.wav,two hundred,0:24:03.378,1443.378,1.176,0,1443.378
-JBIL_031_head_Saha01.wav,head,0:24:28.000,1468.0,0.571,0,1468.0
-JBIL_032_hair_a_Saha01.wav,hair a,0:25:24.743,1524.743,0.84,0,1524.743
-JBIL_032_hair_b_Saha01.wav,hair b,0:26:13.370,1573.37,0.629,0,1573.37
-JBIL_033_eye_Saha01.wav,eye,0:26:26.632,1586.632,0.665,0,1586.632
-JBIL_034_nose_Saha01.wav,nose,0:26:31.915,1591.915,0.665,0,1591.915
-JBIL_035_ear_Saha01.wav,ear,0:26:38.618,1598.618,0.63,0,1598.618
-JBIL_036_mouth_Saha01.wav,mouth,0:26:44.145,1604.145,0.478,0,1604.145
-JBIL_037_tooth_Saha01.wav,tooth,0:26:55.027,1615.027,0.653,0,1615.027
-JBIL_038_tongue_Saha01.wav,tongue,0:27:23.538,1643.538,0.91,0,1643.538
-JBIL_039_neck_Saha01.wav,neck,0:27:31.657,1651.657,0.513,0,1651.657
-JBIL_040_throat_Saha01.wav,throat,0:27:40.543,1660.543,0.724,0,1660.543
-JBIL_041_arm_Saha01.wav,arm,0:27:43.451,1663.451,0.548,0,1663.451
-JBIL_042_hand_Saha01.wav,hand,0:27:49.769,1669.769,0.595,0,1669.769
-JBIL_043_elbow_Saha01.wav,elbow,0:28:08.227,1688.227,1.027,0,1688.227
-JBIL_044_finger_Saha01.wav,finger,0:28:40.954,1720.954,0.84,0,1720.954
-JBIL_045_nail_Saha01.wav,nail,0:28:46.000,1726.0,0.664,0,1726.0
-JBIL_046_chest_Saha01.wav,chest,0:29:02.482,1742.482,0.864,0,1742.482
-KLQ_047_stomach_belly_Saha01.wav,,0:29:24.000,1764.0,0.966,0,1764.0
-KLQ_048_stomach_organ_Saha01.wav,,0:29:42.000,1782.0,0.985,0,1782.0
-JBIL_049_guts_Saha01.wav,guts,0:30:48.000,1848.0,0.679,0,1848.0
-JBIL_050_navel_Saha01.wav,navel,0:31:14.000,1874.0,1.086,0,1874.0
-JBIL_051_back_Saha01.wav,back,0:31:22.783,1882.783,0.829,0,1882.783
-JBIL_052_leg_a_Saha01.wav,leg a,0:31:43.118,1903.118,0.881,0,1903.118
-JBIL_053_thigh_Saha01.wav,thigh,0:31:50.883,1910.883,0.875,0,1910.883
-JBIL_053_leg_b_Saha01.wav,leg b,0:32:08.912,1928.912,0.56,0,1928.912
-JBIL_054_knee_Saha01.wav,knee,0:32:37.760,1957.76,0.689,0,1957.76
-JBIL_055_foot_Saha01.wav,foot,0:33:02.902,1982.902,0.63,0,1982.902
-JBIL_056_skin_Saha01.wav,skin,0:33:09.604,1989.604,0.712,0,1989.604
-JBIL_057_bone_Saha01.wav,bone,0:33:18.777,1998.777,0.91,0,1998.777
-JBIL_058_blood_Saha01.wav,blood,0:33:30.482,2010.482,0.537,0,2010.482
-JBIL_059_urine_Saha01.wav,urine,0:33:39.159,2019.159,0.677,0,2019.159
-JBIL_060_heart_Saha01.wav,heart,0:33:47.392,2027.392,0.502,0,2027.392
-JBIL_061_liver_Saha01.wav,liver,0:33:54.989,2034.989,0.677,0,2034.989
-JBIL_062_person_Saha01.wav,person,0:34:10.000,2050.0,0.797,0,2050.0
-JBIL_063_man_Saha01.wav,man,0:34:15.779,2055.779,0.572,0,2055.779
-JBIL_064_husband_Saha01.wav,husband,0:34:27.446,2067.446,0.553,0,2067.446
-JBIL_065_woman_Saha01.wav,woman,0:34:44.707,2084.707,0.724,0,2084.707
-JBIL_066_wife_Saha01.wav,wife,0:35:09.481,2109.481,0.852,0,2109.481
-JBIL_067_child_Saha01.wav,child,0:35:17.441,2117.441,0.794,0,2117.441
-JBIL_068_boy_Saha01.wav,boy,0:35:26.000,2126.0,0.633,0,2126.0
-JBIL_069_son_Saha01.wav,son,0:36:03.800,2163.8,0.747,0,2163.8
-JBIL_070_girl_Saha01.wav,girl,0:36:12.000,2172.0,0.811,0,2172.0
-JBIL_071_daughter_Saha01.wav,daughter,0:36:23.600,2183.6,1.027,0,2183.6
-JBIL_072_father_Saha01.wav,father,0:36:29.696,2189.696,0.724,0,2189.696
-JBIL_073_mother_Saha01.wav,mother,0:36:38.000,2198.0,1.094,0,2198.0
-JBIL_074_brother_Saha01.wav,brother,0:36:45.055,2205.055,0.7,0,2205.055
-JBIL_075_sister_Saha01.wav,sister,0:37:06.344,2226.344,0.887,0,2226.344
-JBIL_076_groom_Saha01.wav,groom,0:37:14.449,2234.449,0.922,0,2234.449
-JBIL_077_bride_Saha01.wav,bride,0:37:20.968,2240.968,0.887,0,2240.968
-JBIL_078_name_Saha01.wav,name,0:37:35.506,2255.506,0.782,0,2255.506
-JBIL_079_dog_Saha01.wav,dog,0:37:39.360,2259.36,0.759,0,2259.36
-JBIL_080_cat_Saha01.wav,cat,0:38:22.532,2302.532,0.794,0,2302.532
-KLQ_081_horn_cow_Saha01.wav,,0:38:40.000,2320.0,0.621,0,2320.0
-JBIL_082_tail_Saha01.wav,tail,0:38:53.577,2333.577,0.747,0,2333.577
-JBIL_083_claw_Saha01.wav,claw,0:39:21.902,2361.902,0.852,0,2361.902
-JBIL_084_feather_Saha01.wav,feather,0:39:40.616,2380.616,0.537,0,2380.616
-JBIL_085_wing_Saha01.wav,wing,0:39:47.012,2387.012,0.987,0,2387.012
-JBIL_086_lion_Saha01.wav,lion,0:40:04.809,2404.809,0.782,0,2404.809
-JBIL_087_wolf_Saha01.wav,wolf,0:40:08.174,2408.174,0.653,0,2408.174
-JBIL_088_fox_a_Saha01.wav,fox a,0:40:15.788,2415.788,0.852,0,2415.788
-JBIL_088_fox_b_Saha01.wav,fox b,0:40:24.786,2424.786,0.735,0,2424.786
-JBIL_089_snake_Saha01.wav,snake,0:41:08.645,2468.645,0.794,0,2468.645
-JBIL_090_worm_Saha01.wav,worm,0:41:17.137,2477.137,0.572,0,2477.137
-JBIL_091_fish_Saha01.wav,fish,0:41:23.735,2483.735,0.782,0,2483.735
-JBIL_092_bird_Saha01.wav,bird,0:41:47.284,2507.284,0.957,0,2507.284
-JBIL_093_ant_Saha01.wav,ant,0:41:56.172,2516.172,0.817,0,2516.172
-JBIL_095_scorpion_a_Saha01.wav,scorpion a,0:42:56.962,2576.962,0.817,0,2576.962
-JBIL_095_scorpion_b_Saha01.wav,scorpion b,0:43:16.838,2596.838,1.161,0,2596.838
-JBIL_096_louse_Saha01.wav,louse,0:43:45.820,2625.82,0.852,0,2625.82
-JBIL_097_tree_Saha01.wav,tree,0:43:54.612,2634.612,0.782,0,2634.612
-JBIL_098_forest_Saha01.wav,forest,0:44:08.424,2648.424,0.665,0,2648.424
-KLQ_099_wood_substance_Saha01.wav,,0:44:31.144,2671.144,0.537,0,2671.144
-JBIL_100_branch_Saha01.wav,branch,0:44:39.495,2679.495,0.712,0,2679.495
-JBIL_101_stick_Saha01.wav,stick,0:45:16.174,2716.174,0.945,0,2716.174
-JBIL_102_leaf_a_Saha01.wav,leaf a,0:45:29.469,2729.469,0.53,0,2729.469
-JBIL_102_leaf_b_Saha01.wav,leaf b,0:45:43.092,2743.092,0.618,0,2743.092
-JBIL_103_bark_Saha01.wav,bark,0:46:15.798,2775.798,1.177,0,2775.798
-JBIL_104_root_Saha01.wav,root,0:46:33.059,2793.059,1.156,0,2793.059
-JBIL_105_flower_Saha01.wav,flower,0:47:43.492,2863.492,1.074,0,2863.492
-JBIL_106_seed_Saha01.wav,seed,0:48:07.275,2887.275,0.908,0,2887.275
-JBIL_107_grass_Saha01.wav,grass,0:48:17.336,2897.336,1.094,0,2897.336
-JBIL_108_sky_Saha01.wav,sky,0:52:27.436,3147.436,1.074,0,3147.436
-JBIL_109_cloud_Saha01.wav,cloud,0:52:37.600,3157.6,0.743,0,3157.6
-JBIL_110_shadow_Saha01.wav,shadow,0:52:52.830,3172.83,1.169,0,3172.83
-JBIL_111_sun_Saha01.wav,sun,0:53:11.490,3191.49,1.012,0,3191.49
-JBIL_112_day_Saha01.wav,day,0:53:28.000,3208.0,0.683,0,3208.0
-JBIL_113_moon_Saha01.wav,moon,0:53:43.039,3223.039,0.96,0,3223.039
-JBIL_114_night_Saha01.wav,night,0:54:02.745,3242.745,0.805,0,3242.745
-JBIL_115_star_a_Saha01.wav,star a,0:54:16.157,3256.157,0.95,0,3256.157
-JBIL_115_star_b_Saha01.wav,star b,0:54:26.382,3266.382,1.074,0,3266.382
-JBIL_116_wind_Saha01.wav,wind,0:54:46.000,3286.0,0.916,0,3286.0
-JBIL_117_dirt_earth_Saha01.wav,,0:55:05.789,3305.789,0.764,0,3305.789
-JBIL_118_mountain_Saha01.wav,mountain,0:55:14.320,3314.32,0.764,0,3314.32
-JBIL_119_stone_Saha01.wav,stone,0:55:36.746,3336.746,1.253,0,3336.746
-JBIL_120_sand_Saha01.wav,sand,0:55:48.210,3348.21,0.867,0,3348.21
-JBIL_121_dust_Saha01.wav,dust,0:55:56.948,3356.948,1.051,0,3356.948
-JBIL_122_water_Saha01.wav,water,0:56:13.798,3373.798,0.805,0,3373.798
-JBIL_123_ice_Saha01.wav,ice,0:56:24.910,3384.91,0.867,0,3384.91
-JBIL_124_snow_Saha01.wav,snow,0:56:33.751,3393.751,1.177,0,3393.751
-JBIL_125_fog_Saha01.wav,fog,0:56:52.839,3412.839,1.16,0,3412.839
-JBIL_126_rain_Saha01.wav,rain,0:57:01.371,3421.371,1.115,0,3421.371
-JBIL_127_river_Saha01.wav,river,0:57:21.847,3441.847,0.826,0,3441.847
-JBIL_128_lake_Saha01.wav,lake,0:57:37.052,3457.052,1.342,0,3457.052
-JBIL_129_sea_Saha01.wav,sea,0:57:43.146,3463.146,0.853,0,3463.146
-JBIL_130_fire_Saha01.wav,fire,0:57:50.758,3470.758,1.241,0,3470.758
-JBIL_131_smoke_Saha01.wav,smoke,0:58:01.231,3481.231,0.768,0,3481.231
-JBIL_132_ash_Saha01.wav,ash,0:58:13.321,3493.321,0.888,0,3493.321
-JBIL_133_year_Saha01.wav,year,0:58:29.150,3509.15,0.849,0,3509.15
-JBIL_134_summer_Saha01.wav,summer,0:58:38.921,3518.921,0.846,0,3518.921
-JBIL_135_winter_Saha01.wav,winter,0:58:51.607,3531.607,1.115,0,3531.607
-JBIL_136_house_Saha01.wav,house,0:59:08.445,3548.445,0.805,0,3548.445
-JBIL_137_meat_Saha01.wav,meat,0:59:17.100,3557.1,0.899,0,3557.1
-JBIL_138_rice_Saha01.wav,rice,0:59:22.802,3562.802,1.197,0,3562.802
-KLQ_139_salt_eating_Saha01.wav,,0:59:39.631,3579.631,0.826,0,3579.631
-KLQ_141_egg_eg_chicken_a_Saha01.wav,,1:00:02.818,3602.818,0.888,0,3602.818
-KLQ_141_egg_eg_chicken_b_Saha01.wav,,1:00:16.621,3616.621,0.805,0,3616.621
-JBIL_142_milk_Saha01.wav,milk,1:00:24.000,3624.0,1.014,0,3624.0
-JBIL_143_honey_Saha01.wav,honey,1:00:47.551,3647.551,1.27,0,3647.551
-JBIL_144_walnut_Saha01.wav,walnut,1:01:08.221,3668.221,1.16,0,3668.221
-JBIL_145_fruit_Saha01.wav,fruit,1:01:20.452,3680.452,1.007,0,3680.452
-JBIL_146_hungry_Saha01.wav,hungry,1:01:32.000,3692.0,0.842,0,3692.0
-JBIL_147_thirsty_Saha01.wav,thirsty,1:01:42.000,3702.0,0.984,0,3702.0
-JBIL_148_bitter_Saha01.wav,bitter,1:02:02.824,3722.824,0.766,0,3722.824
-JBIL_149_fresh_Saha01.wav,fresh,1:02:08.607,3728.607,1.139,0,3728.607
-JBIL_150_good_Saha01.wav,good,1:02:57.756,3777.756,1.226,0,3777.756
-JBIL_151_bad_Saha01.wav,bad,1:03:06.847,3786.847,1.152,0,3786.847
-JBIL_152_rotten_Saha01.wav,rotten,1:03:40.564,3820.564,1.182,0,3820.564
-KLQ_153_old_thing_Saha01.wav,,1:03:51.123,3831.123,0.876,0,3831.123
-JBIL_154_new_a_Saha01.wav,new a,1:04:00.942,3840.942,1.057,0,3840.942
-JBIL_154_new_b_Saha01.wav,new b,1:04:13.756,3853.756,0.722,0,3853.756
-JBIL_155_sweet_Saha01.wav,sweet,1:04:34.000,3874.0,0.786,0,3874.0
-KLQ_156_hot_fire_Saha01.wav,,1:04:40.944,3880.944,0.722,0,3880.944
-JBIL_157_cold_Saha01.wav,cold,1:04:51.831,3891.831,1.314,0,3891.831
-KLQ_158_long_thing_Saha01.wav,,1:05:00.404,3900.404,0.744,0,3900.404
-KLQ_159_short_length_Saha01.wav,,1:05:07.765,3907.765,1.314,0,3907.765
-JBIL_160_wide_Saha01.wav,wide,1:05:15.541,3915.541,0.92,0,3915.541
-JBIL_161_narrow_Saha01.wav,narrow,1:05:25.602,3925.602,1.139,0,3925.602
-JBIL_162_thick_Saha01.wav,thick,1:05:34.000,3934.0,0.933,0,3934.0
-JBIL_163_thin_Saha01.wav,thin,1:05:42.765,3942.765,0.854,0,3942.765
-JBIL_164_heavy_Saha01.wav,heavy,1:06:02.000,3962.0,1.058,0,3962.0
-JBIL_165_full_Saha01.wav,full,1:06:09.520,3969.52,0.744,0,3969.52
-JBIL_166_dirty_Saha01.wav,dirty,1:06:22.803,3982.803,0.985,0,3982.803
-JBIL_167_dry_Saha01.wav,dry,1:06:34.000,3994.0,0.983,0,3994.0
-JBIL_168_wet_Saha01.wav,wet,1:06:43.602,4003.602,0.963,0,4003.602
-JBIL_169_big_a_Saha01.wav,big a,1:06:53.131,4013.131,0.868,0,4013.131
-JBIL_169_big_b_Saha01.wav,big b,1:07:04.000,4024.0,1.051,0,4024.0
-JBIL_170_small_Saha01.wav,small,1:07:49.286,4069.286,0.713,0,4069.286
-JBIL_171_round_a_Saha01.wav,round a,1:08:01.575,4081.575,0.766,0,4081.575
-JBIL_171_round_b_Saha01.wav,round b,1:08:12.977,4092.977,0.854,0,4092.977
-JBIL_172_hard_Saha01.wav,hard,1:08:33.623,4113.623,0.788,0,4113.623
-JBIL_173_sharp_Saha01.wav,sharp,1:08:50.000,4130.0,0.979,0,4130.0
-JBIL_174_smooth_Saha01.wav,smooth,1:09:12.000,4152.0,0.786,0,4152.0
-JBIL_175_straight_Saha01.wav,straight,1:09:28.335,4168.335,0.766,0,4168.335
-JBIL_176_true_Saha01.wav,true,1:09:40.689,4180.689,0.941,0,4180.689
-JBIL_177_green_Saha01.wav,green,1:09:55.338,4195.338,1.007,0,4195.338
-JBIL_178_yellow_Saha01.wav,yellow,1:10:02.326,4202.326,1.182,0,4202.326
-JBIL_179_red_Saha01.wav,red,1:10:13.782,4213.782,0.898,0,4213.782
-JBIL_180_black_Saha01.wav,black,1:10:24.000,4224.0,0.997,0,4224.0
-JBIL_181_white_Saha01.wav,white,1:10:33.483,4233.483,1.139,0,4233.483
-JBIL_182_go_pres_sg_Saha01.wav,,1:12:00.908,4320.908,0.81,0,4320.908
-JBIL_183_go_past_sg_Saha01.wav,,1:12:21.012,4341.012,0.744,0,4341.012
-JBIL_184_come_pres_sg_Saha01.wav,,1:12:44.873,4364.873,0.668,0,4364.873
-JBIL_185_come_past_sg_Saha01.wav,,1:12:54.139,4374.139,0.544,0,4374.139
-KLQ_186_turn_tr__pres_sg_Saha01.wav,,1:14:06.921,4446.921,0.699,0,4446.921
-KLQ_187_turn_tr_past_sg_Saha01.wav,,1:14:20.178,4460.178,0.792,0,4460.178
-JBIL_188_stand_pres_sg_Saha01.wav,,1:14:46.725,4486.725,1.103,0,4486.725
-JBIL_189_stand_past_sg_Saha01.wav,,1:14:59.820,4499.82,1.15,0,4499.82
-JBIL_190_sit_pres_sg_Saha01.wav,,1:15:11.350,4511.35,0.979,0,4511.35
-JBIL_191_sit_past_sg_Saha01.wav,,1:15:20.167,4520.167,1.01,0,4520.167
-JBIL_192_lie_down_pres_sg_Saha01.wav,,1:16:04.359,4564.359,1.352,0,4564.359
-JBIL_193_lie_down_past_sg_Saha01.wav,,1:16:16.300,4576.3,1.259,0,4576.3
-JBIL_194_fall_pres_sg_Saha01.wav,,1:16:40.116,4600.116,0.886,0,4600.116
-JBIL_195_fall_past_sg_Saha01.wav,,1:16:49.419,4609.419,1.103,0,4609.419
-JBIL_196_walk_pres_sg_Saha01.wav,,1:17:31.022,4651.022,0.977,0,4651.022
-JBIL_197_walk_past_sg_Saha01.wav,,1:17:36.000,4656.0,0.774,0,4656.0
-JBIL_198_run_pres_sg_Saha01.wav,,1:18:01.396,4681.396,1.15,0,4681.396
-JBIL_199_run_pres_sg_Saha01.wav,,1:18:09.769,4689.769,0.792,0,4689.769
-JBIL_200_swim_pres_sg_Saha01.wav,,1:18:37.285,4717.285,0.995,0,4717.285
-JBIL_201_swim_past_sg_Saha01.wav,,1:18:43.706,4723.706,1.212,0,4723.706
-JBIL_202_fly_pres_sg_Saha01.wav,,1:19:29.118,4769.118,0.881,0,4769.118
-JBIL_203_fly_past_sg_Saha01.wav,,1:19:43.200,4783.2,0.799,0,4783.2
-JBIL_204_see_pres_sg_Saha01.wav,,1:19:55.824,4795.824,0.777,0,4795.824
-JBIL_205_see_past_sg_Saha01.wav,,1:20:04.385,4804.385,1.088,0,4804.385
-JBIL_206_hear_pres_sg_Saha01.wav,,1:20:18.296,4818.296,1.228,0,4818.296
-JBIL_207_hear_past_sg_Saha01.wav,,1:20:26.645,4826.645,1.072,0,4826.645
-JBIL_208_smell_pres_sg_Saha01.wav,,1:20:41.023,4841.023,1.166,0,4841.023
-JBIL_209_smell__past_sg_Saha01.wav,,1:20:48.610,4848.61,0.995,0,4848.61
-JBIL_210_do_pres_sg_Saha01.wav,,1:21:33.702,4893.702,1.072,0,4893.702
-JBIL_211_do_past_sg_Saha01.wav,,1:21:38.976,4898.976,0.855,0,4898.976
-JBIL_212_live_pres_sg_Saha01.wav,,1:25:18.958,5118.958,1.399,0,5118.958
-JBIL_213_live_past_sg_a_Saha01.wav,,1:25:27.322,5127.322,1.119,0,5127.322
-JBIL_213_live_past_sg_b_Saha01.wav,,1:25:34.867,5134.867,1.445,0,5134.867
-JBIL_214_die_pres_sg_Saha01.wav,,1:26:04.480,5164.48,0.932,0,5164.48
-JBIL_215_die_past_sg_Saha01.wav,,1:26:10.000,5170.0,0.808,0,5170.0
-JBIL_216_sleep_pres_sg_Saha01.wav,,1:26:25.808,5185.808,0.73,0,5185.808
-JBIL_217_sleep_past_sg_Saha01.wav,,1:26:34.000,5194.0,0.892,0,5194.0
-JBIL_218_breathe_pres_sg_Saha01.wav,,1:26:46.258,5206.258,1.274,0,5206.258
-JBIL_219_breathe_past_sg_Saha01.wav,,1:26:52.000,5212.0,1.366,0,5212.0
-JBIL_220_blow_pres_sg_Saha01.wav,,1:29:12.000,5352.0,0.916,0,5352.0
-JBIL_221_blow_past_sg_Saha01.wav,,1:29:15.512,5355.512,1.181,0,5355.512
-JBIL_224_spit_pres_sg_Saha01.wav,,1:30:58.875,5458.875,0.948,0,5458.875
-JBIL_225_spit_past_sg_Saha01.wav,,1:31:05.639,5465.639,1.103,0,5465.639
-JBIL_226_vomit_pres_sg_Saha01.wav,,1:32:14.604,5534.604,1.395,0,5534.604
-JBIL_227_vomit_past_sg_Saha01.wav,,1:32:27.156,5547.156,1.274,0,5547.156
-JBIL_228_bite_pres_sg_Saha01.wav,,1:33:13.857,5593.857,0.948,0,5593.857
-JBIL_229_bite_past_sg_Saha01.wav,,1:33:27.536,5607.536,1.212,0,5607.536
-JBIL_230_eat_pres_sg_Saha01.wav,,1:34:04.367,5644.367,1.041,0,5644.367
-JBIL_231_eat_past_sg_Saha01.wav,,1:34:12.676,5652.676,1.01,0,5652.676
-JBIL_232_drink_pres_sg_Saha01.wav,,1:35:16.196,5716.196,0.792,0,5716.196
-JBIL_233_drink_past_sg_Saha01.wav,,1:35:25.696,5725.696,1.026,0,5725.696
-JBIL_234_fear_pres_sg_Saha01.wav,,1:35:46.216,5746.216,1.01,0,5746.216
-JBIL_235_fear_past_sg_Saha01.wav,,1:35:54.751,5754.751,1.057,0,5754.751
-JBIL_236_know_pres_sg_Saha01.wav,,1:36:04.568,5764.568,0.777,0,5764.568
-JBIL_237_know_past_sg_Saha01.wav,,1:36:20.589,5780.589,1.274,0,5780.589
-JBIL_238_think_pres_sg_Saha01.wav,,1:36:31.080,5791.08,1.15,0,5791.08
-JBIL_239_think_past_sg_Saha01.wav,,1:36:42.818,5802.818,1.399,0,5802.818
-JBIL_240_count_pres_sg_Saha01.wav,,1:37:10.746,5830.746,1.088,0,5830.746
-JBIL_241_count_past_sg_a_Saha01.wav,,1:37:20.863,5840.863,1.136,0,5840.863
-JBIL_241_count_past_sg_b_Saha01.wav,,1:37:28.917,5848.917,1.274,0,5848.917
-JBIL_242_laugh_pres_sg_Saha01.wav,,1:38:13.568,5893.568,1.119,0,5893.568
-JBIL_243_laugh_past_sg_Saha01.wav,,1:38:21.575,5901.575,1.197,0,5901.575
-JBIL_244_cry_pres_sg_Saha01.wav,,1:38:30.777,5910.777,0.963,0,5910.777
-JBIL_245_cry_past_sg_Saha01.wav,,1:38:41.069,5921.069,1.352,0,5921.069
-JBIL_246_say_pres_sg_Saha01.wav,,1:38:58.000,5938.0,0.778,0,5938.0
-JBIL_247_say_past_sg_Saha01.wav,,1:39:10.419,5950.419,0.855,0,5950.419
-JBIL_248_sing_pres_sg_Saha01.wav,,1:39:24.442,5964.442,1.103,0,5964.442
-JBIL_249_sing_past_sg_Saha01.wav,,1:39:36.382,5976.382,0.901,0,5976.382
-JBIL_250_play_pres_sg_Saha01.wav,,1:39:50.303,5990.303,1.181,0,5990.303
-JBIL_251_play_past_sg_Saha01.wav,,1:39:59.725,5999.725,1.259,0,5999.725
-JBIL_252_give_pres_sg_Saha01.wav,,1:40:40.898,6040.898,1.101,0,6040.898
-JBIL_253_give_past_sg_Saha01.wav,,1:40:55.124,6055.124,1.057,0,6055.124
-JBIL_254_fight_pres_sg_Saha01.wav,,1:41:13.114,6073.114,1.259,0,6073.114
-JBIL_255_fight_past_sg_Saha01.wav,,1:41:18.000,6078.0,1.053,0,6078.0
-JBIL_256_kill_pres_sg_Saha01.wav,,1:41:49.759,6109.759,0.901,0,6109.759
-JBIL_257_kill_past_sg_Saha01.wav,,1:41:56.320,6116.32,0.979,0,6116.32
-JBIL_258_take_pres_sg_Saha01.wav,,1:43:42.494,6222.494,0.948,0,6222.494
-JBIL_259_take_past_sg_Saha01.wav,,1:43:56.479,6236.479,0.668,0,6236.479
-JBIL_260_push_pres_sg_Saha01.wav,,1:44:35.264,6275.264,0.948,0,6275.264
-JBIL_261_push_past_sg_Saha01.wav,,1:44:43.785,6283.785,1.15,0,6283.785
-JBIL_262_pull_pres_sg_Saha01.wav,,1:45:13.801,6313.801,0.901,0,6313.801
-JBIL_263_pull_past_sg_Saha01.wav,,1:45:34.474,6334.474,0.963,0,6334.474
-JBIL_264_close_pres_sg_Saha01.wav,,1:46:24.000,6384.0,0.851,0,6384.0
-JBIL_265_close_past_sg_Saha01.wav,,1:46:32.671,6392.671,0.979,0,6392.671
-JBIL_266_tie_pres_sg_Saha01.wav,,1:47:03.602,6423.602,1.088,0,6423.602
-JBIL_267_tie_past_sg_Saha01.wav,,1:47:07.754,6427.754,0.979,0,6427.754
-JBIL_268_carry_pres_sg_Saha01.wav,,1:47:22.520,6442.52,1.072,0,6442.52
-JBIL_269_carry_past_sg_Saha01.wav,,1:47:31.246,6451.246,1.057,0,6451.246
-JBIL_270_hit_pres_sg_Saha01.wav,,1:48:26.264,6506.264,0.59,0,6506.264
-JBIL_271_hit_past_sg_Saha01.wav,,1:48:36.000,6516.0,0.801,0,6516.0
-JBIL_272_cut_pres_sg_Saha01.wav,,1:48:59.263,6539.263,0.87,0,6539.263
-JBIL_273_cut_past_sg_Saha01.wav,,1:49:07.007,6547.007,0.73,0,6547.007
-JBIL_274_scratch_pres_sg_Saha01.wav,,1:49:54.913,6594.913,1.086,0,6594.913
-JBIL_275_scratch_past_sg_Saha01.wav,,1:50:47.160,6647.16,1.041,0,6647.16
-JBIL_276_wash_pres_sg_Saha01.wav,,2:01:08.796,7268.796,0.917,0,7268.796
-JBIL_277_wash_past_sg_Saha01.wav,,2:01:16.322,7276.322,0.917,0,7276.322
-JBIL_278_sew_pres_sg_Saha01.wav,,2:01:45.403,7305.403,0.777,0,7305.403
-JBIL_279_sew_past_sg_Saha01.wav,,2:01:52.703,7312.703,1.041,0,7312.703
-KLQ_280_burn_intr_pres_sg_Saha01.wav,,2:02:08.385,7328.385,1.041,0,7328.385
-KLQ_281_burn_intr_past_sg_Saha01.wav,,2:02:14.000,7334.0,1.133,0,7334.0
-JBIL_282_freeze_pres_sg_Saha01.wav,,2:02:47.863,7367.863,1.026,0,7367.863
-JBIL_283_freeze_past_sg_Saha01.wav,,2:02:54.149,7374.149,0.979,0,7374.149
-JBIL_284_throw_pres_sg_Saha01.wav,,2:03:07.161,7387.161,1.01,0,7387.161
-JBIL_285_throw_past_sg_Saha01.wav,,2:03:18.247,7398.247,1.337,0,7398.247
-JBIL_286_hunt_pres_sg_Saha01.wav,,2:03:29.869,7409.869,1.337,0,7409.869
-JBIL_287_hunt_past_sg_Saha01.wav,,2:03:43.817,7423.817,1.321,0,7423.817
-JBIL_288_pour_pres_sg_Saha01.wav,,2:04:02.000,7442.0,1.019,0,7442.0
-JBIL_289_pour_past_sg_Saha01.wav,,2:04:08.662,7448.662,0.979,0,7448.662
-JBIL_290_grind_pres_sg_Saha01.wav,,2:05:42.829,7542.829,1.17,0,7542.829
-JBIL_291_grind_past_sg_Saha01.wav,,2:05:55.464,7555.464,1.166,0,7555.464
-JBIL_292_dig_pres_sg_Saha01.wav,,2:06:10.120,7570.12,1.197,0,7570.12
-JBIL_293_dig_past_sg_Saha01.wav,,2:06:18.251,7578.251,1.243,0,7578.251
-JBIL_294_hide_pres_sg_Saha01.wav,,2:06:28.275,7588.275,1.119,0,7588.275
-JBIL_295_hide_past_sg_Saha01.wav,,2:06:36.807,7596.807,1.306,0,7596.807
-JBIL_296_sweep_pres_sg_Saha01.wav,,2:07:32.170,7652.17,1.057,0,7652.17
-JBIL_297_sweep_past_sg_Saha01.wav,,2:07:39.368,7659.368,1.057,0,7659.368
-JBIL_298_this_Saha01.wav,this,2:08:20.382,7700.382,0.528,0,7700.382
-JBIL_299_that_Saha01.wav,that,2:08:53.805,7733.805,0.699,0,7733.805
-JBIL_300_here_Saha01.wav,here,2:08:59.698,7739.698,0.948,0,7739.698
-JBIL_301_near_Saha01.wav,near,2:09:08.864,7748.864,1.026,0,7748.864
-JBIL_302_there_Saha01.wav,there,2:09:22.587,7762.587,0.606,0,7762.587
-JBIL_303_far_Saha01.wav,far,2:10:02.212,7802.212,0.528,0,7802.212
-KLQ_304_to_the_right_Saha01.wav,,2:10:12.487,7812.487,0.87,0,7812.487
-KLQ_305_to_the_left_Saha01.wav,,2:10:17.509,7817.509,0.932,0,7817.509
-JBIL_306_under_Saha01.wav,under,2:10:27.551,7827.551,0.777,0,7827.551
-JBIL_307_with_Saha01.wav,with,2:10:37.603,7837.603,0.87,0,7837.603
-JBIL_308_not_Saha01.wav,not,2:11:30.166,7890.166,0.855,0,7890.166
-JBIL_309_today_Saha01.wav,today,2:12:24.325,7944.325,0.917,0,7944.325
-JBIL_310_yesterday_Saha01.wav,yesterday,2:12:36.000,7956.0,0.794,0,7956.0
-JBIL_311_two_days_ago_Saha01.wav,two days ago,2:13:00.484,7980.484,1.197,0,7980.484
-JBIL_312_tomorrow_Saha01.wav,tomorrow,2:13:11.066,7991.066,1.088,0,7991.066
-JBIL_313_the_day_after_tomorrow_Saha01.wav,the day after tomorrow,2:13:27.683,8007.683,1.445,0,8007.683
-JBIL_314_where_Saha01.wav,where,2:13:50.589,8030.589,0.497,0,8030.589
-JBIL_315_when_Saha01.wav,when,2:14:11.557,8051.557,1.088,0,8051.557
-JBIL_316_how_Saha01.wav,how,2:14:31.062,8071.062,0.684,0,8071.062
-JBIL_317_who_Saha01.wav,who,2:14:51.527,8091.527,0.761,0,8091.527
-JBIL_318_what_Saha01.wav,what,2:15:02.000,8102.0,0.831,0,8102.0
-JBIL_319_i_am_teaching_Saha01.wav,i am teaching,2:15:37.204,8137.204,1.259,0,8137.204
-JBIL_320_youre_teaching_Saha01.wav,youre teaching,2:15:59.586,8159.586,0.995,0,8159.586
-KLQ_320_you_sg_Saha01.wav,,2:15:59.586,8159.586,0.995,0,8159.586
-JBIL_321_we_are_teaching_Saha01.wav,we are teaching,2:16:14.773,8174.773,1.226,0,8174.773
-JBIL_321_we_Saha01.wav,we,2:16:20.542,8180.542,0.995,0,8180.542
-JBIL_323_they_are_taching_Saha01.wav,they are taching,2:16:34.000,8194.0,1.35,0,8194.0
-JBIL_323_they_Saha01.wav,they,2:16:39.672,8199.672,1.337,0,8199.672
-JBIL_322_you_are_teaching_Saha01.wav,you are teaching,2:17:30.368,8250.368,1.383,0,8250.368
-JBIL_999_he_sees_me_Saha01.wav,he sees me,2:18:02.800,8282.8,1.199,0,8282.8
-JBIL_999_he_saw_me_Saha01.wav,he saw me,2:18:22.562,8302.562,0.921,0,8302.562
-KLQ_001_1_forehead_Saha01.wav,klq 001 1 forehead,2:19:07.403,8347.403,1.236,0,8347.403
-KLQ_001_3_eyelid_Saha01.wav,klq 001 3 eyelid,2:19:25.439,8365.439,0.664,0,8365.439
-KLQ_001_3_eyebrow_Saha01.wav,klq 001 3 eyebrow,2:19:36.684,8376.684,0.653,0,8376.684
-KLQ_001_6_earlobe_Saha01.wav,klq 001 6 earlobe,2:19:52.371,8392.371,1.143,0,8392.371
-KLQ_001_1_rib_Saha01.wav,klq 001 1 rib,2:20:00.556,8400.556,0.863,0,8400.556
-KLQ_001_8_armpit_Saha01.wav,klq 001 8 armpit,2:20:27.571,8427.571,1.306,0,8427.571
-KLQ_001_1_uterus_Saha01.wav,klq 001 1 uterus,2:20:46.774,8446.774,0.711,0,8446.774
-KLQ_001_1_the_baby_is_in_the_uterus_Saha01.wav,klq 001 1 the baby is in the uterus,2:21:01.526,8461.526,1.318,0,8461.526
-KLQ_001_1_bladder_Saha01.wav,klq 001 1 bladder,2:21:12.000,8472.0,0.777,0,8472.0
-KLQ_001_1_ankle_Saha01.wav,klq 001 1 ankle,2:21:28.000,8488.0,0.953,0,8488.0
-KLQ_002_6_grandfather_Saha01.wav,klq 002 6 grandfather,2:22:37.040,8557.04,0.746,0,8557.04
-KLQ_002_7_baby_Saha01.wav,klq 002 7 baby,2:22:47.049,8567.049,0.723,0,8567.049
-KLQ_002_1_paternal_uncles_son_Saha01.wav,klq 002 1 paternal uncles son,2:23:31.512,8611.512,0.711,0,8611.512
-KLQ_002_9_paternal_uncle_Saha01.wav,klq 002 9 paternal uncle,2:23:31.512,8611.512,0.711,0,8611.512
-KLQ_002_1_maternal_uncle_Saha01.wav,klq 002 1 maternal uncle,2:23:37.813,8617.813,0.851,0,8617.813
-KLQ_002_1_paternal_aunt_Saha01.wav,klq 002 1 paternal aunt,2:23:50.665,8630.665,0.758,0,8630.665
-KLQ_002_1_maternal_aunt_Saha01.wav,klq 002 1 maternal aunt,2:24:04.401,8644.401,0.664,0,8644.401
-KLQ_002_1_maternal_aunts_daughter_Saha01.wav,klq 002 1 maternal aunts daughter,2:24:04.401,8644.401,0.664,0,8644.401
-KLQ_002_1_brother_of_husband_Saha01.wav,klq 002 1 brother of husband,2:24:49.504,8689.504,0.979,0,8689.504
-KLQ_002_1_wife_of_brother_Saha01.wav,klq 002 1 wife of brother,2:25:00.206,8700.206,1.038,0,8700.206
-KLQ_002_1_sister_of_husband_Saha01.wav,klq 002 1 sister of husband,2:25:16.586,8716.586,0.909,0,8716.586
-KLQ_002_1_brother_of_wife_Saha01.wav,klq 002 1 brother of wife,2:26:07.251,8767.251,0.748,0,8767.251
-KLQ_002_1_sister_of_wife_Saha01.wav,klq 002 1 sister of wife,2:26:25.872,8785.872,1.259,0,8785.872
-KLQ_002_2_son_of_sister_Saha01.wav,klq 002 2 son of sister,2:26:48.950,8808.95,1.049,0,8808.95
-KLQ_002_2_daughter_of_sister_Saha01.wav,klq 002 2 daughter of sister,2:26:50.465,8810.465,0.886,0,8810.465
-KLQ_002_2_son_of_brother_Saha01.wav,klq 002 2 son of brother,2:27:12.787,8832.787,0.839,0,8832.787
-KLQ_002_2_daughter_of_brother_Saha01.wav,klq 002 2 daughter of brother,2:27:32.403,8852.403,0.944,0,8852.403
-KLQ_002_2_step-father_Saha01.wav,klq 002 2 step-father,2:27:41.374,8861.374,1.248,0,8861.374
-KLQ_002_2_step-mother_Saha01.wav,klq 002 2 step-mother,2:27:48.315,8868.315,0.991,0,8868.315
-KLQ_002_2_step-son_Saha01.wav,klq 002 2 step-son,2:28:37.064,8917.064,1.294,0,8917.064
-KLQ_002_2_step-daughter_Saha01.wav,klq 002 2 step-daughter,2:28:46.384,8926.384,1.341,0,8926.384
-KLQ_003_2_thunder_Saha01.wav,klq 003 2 thunder,2:30:06.875,9006.875,1.124,0,9006.875
-KLQ_003_2_lightning_Saha01.wav,klq 003 2 lightning,2:30:22.000,9022.0,1.086,0,9022.0
-KLQ_003_6_hail_Saha01.wav,klq 003 6 hail,2:30:52.413,9052.413,0.816,0,9052.413
-KLQ_003_7_storm_Saha01.wav,klq 003 7 storm,2:31:08.456,9068.456,1.049,0,9068.456
-KLQ_003_1_shade_Saha01.wav,klq 003 1 shade,2:31:39.701,9099.701,0.781,0,9099.701
-KLQ_003_1_god_Saha01.wav,klq 003 1 god,2:31:56.000,9116.0,0.878,0,9116.0
-KLQ_003_1_earthquake_Saha01.wav,klq 003 1 earthquake,2:32:23.091,9143.091,1.108,0,9143.091
-KLQ_003_1_hill_Saha01.wav,klq 003 1 hill,2:32:28.329,9148.329,0.443,0,9148.329
-KLQ_004_5_high_Saha01.wav,klq 004 5 high,2:32:40.677,9160.677,0.723,0,9160.677
-KLQ_004_1_strong_Saha01.wav,klq 004 1 strong,2:33:44.627,9224.627,1.038,0,9224.627
-KLQ_004_1_weak_Saha01.wav,klq 004 1 weak,2:34:20.616,9260.616,0.863,0,9260.616
-KLQ_004_1_light_Saha01.wav,klq 004 1 light,2:34:30.969,9270.969,0.758,0,9270.969
-KLQ_004_1_soft_Saha01.wav,klq 004 1 soft,2:34:36.149,9276.149,0.874,0,9276.149
-KLQ_004_2_happy_Saha01.wav,klq 004 2 happy,2:34:46.531,9286.531,0.933,0,9286.531
-KLQ_004_2_sad_Saha01.wav,klq 004 2 sad,2:34:54.433,9294.433,1.108,0,9294.433
-KLQ_004_2_wet_Saha01.wav,klq 004 2 wet,2:35:00.243,9300.243,0.793,0,9300.243
-KLQ_004_2_tired_Saha01.wav,klq 004 2 tired,2:35:07.803,9307.803,0.991,0,9307.803
-KLQ_004_2_deep_Saha01.wav,klq 004 2 deep,2:35:18.089,9318.089,0.629,0,9318.089
-KLQ_004_3_shallow_Saha01.wav,klq 004 3 shallow,2:35:36.597,9336.597,1.061,0,9336.597
-KLQ_004_3_pregnant_a_Saha01.wav,klq 004 3 pregnant a,2:35:44.895,9344.895,1.014,0,9344.895
-KLQ_004_3_pregnant_b_Saha01.wav,klq 004 3 pregnant b,2:35:58.552,9358.552,0.816,0,9358.552
-KLQ_004_3_beautiful_Saha01.wav,klq 004 3 beautiful,2:36:10.332,9370.332,0.851,0,9370.332
-KLQ_004_3_clean_Saha01.wav,klq 004 3 clean,2:36:16.526,9376.526,0.909,0,9376.526
-KLQ_005_7_brown_Saha01.wav,klq 005 7 brown,2:36:42.574,9402.574,1.213,0,9402.574
-KLQ_006_0_to_be_born_Saha01.wav,klq 006 0 to be born,2:37:54.523,9474.523,0.991,0,9474.523
-KLQ_006_2_to_wake_up_Saha01.wav,klq 006 2 to wake up,2:38:11.750,9491.75,1.026,0,9491.75
-KLQ_006_2_to_sleep_a_Saha01.wav,klq 006 2 to sleep a,2:38:18.196,9498.196,1.003,0,9498.196
-KLQ_006_2_to_sleep_b_Saha01.wav,klq 006 2 to sleep b,2:38:30.282,9510.282,0.851,0,9510.282
-KLQ_006_4_to_lie_down_Saha01.wav,klq 006 4 to lie down,2:38:47.697,9527.697,1.353,0,9527.697
-KLQ_006_5_to_rise_Saha01.wav,klq 006 5 to rise,2:39:12.000,9552.0,0.891,0,9552.0
-KLQ_006_7_to_wash_Saha01.wav,klq 006 7 to wash,2:40:17.086,9617.086,1.119,0,9617.086
-KLQ_006_7_to_buy_Saha01.wav,klq 006 7 to buy,2:40:28.356,9628.356,1.014,0,9628.356
-KLQ_006_9_to_sell_Saha01.wav,klq 006 9 to sell,2:40:38.399,9638.399,0.991,0,9638.399
-KLQ_006_0_to_remember_Saha01.wav,klq 006 0 to remember,2:40:53.046,9653.046,1.061,0,9653.046
-KLQ_006_1_to_forget_Saha01.wav,klq 006 1 to forget,2:41:16.168,9676.168,1.329,0,9676.168
-KLQ_006_1_to_search_Saha01.wav,klq 006 1 to search,2:41:32.597,9692.597,0.769,0,9692.597
-KLQ_006_1_to_find_Saha01.wav,klq 006 1 to find,2:41:49.195,9709.195,1.213,0,9709.195
-KLQ_006_1_to_speak_Saha01.wav,klq 006 1 to speak,2:42:01.737,9721.737,1.201,0,9721.737
-KLQ_006_1_to_grow_up_Saha01.wav,klq 006 1 to grow up,2:42:18.000,9738.0,0.841,0,9738.0
-KLQ_007_0_to_go_Saha01.wav,klq 007 0 to go,2:42:36.563,9756.563,0.804,0,9756.563
-KLQ_007_2_to_come_Saha01.wav,klq 007 2 to come,2:42:41.299,9761.299,0.874,0,9761.299
-KLQ_007_5_to_return_Saha01.wav,klq 007 5 to return,2:43:38.000,9818.0,0.94,0,9818.0
-KLQ_007_5_to_stand_Saha01.wav,klq 007 5 to stand,2:44:23.543,9863.543,0.933,0,9863.543
-KLQ_007_5_to_stop_Saha01.wav,klq 007 5 to stop,2:44:29.731,9869.731,0.542,0,9869.731
-KLQ_007_7_to_enter_Saha01.wav,klq 007 7 to enter,2:45:15.278,9915.278,0.488,0,9915.278
-KLQ_007_9_to_run_Saha01.wav,klq 007 9 to run,2:45:37.833,9937.833,1.442,0,9937.833
-KLQ_007_0_to_walk_Saha01.wav,klq 007 0 to walk,2:46:01.730,9961.73,1.675,0,9961.73
-KLQ_007_1_to_approach_Saha01.wav,klq 007 1 to approach,2:46:22.119,9982.119,0.993,0,9982.119
-KLQ_007_1_to_fly_Saha01.wav,klq 007 1 to fly,2:46:45.624,10005.624,1.132,0,10005.624
-KLQ_007_1_to_jump_Saha01.wav,klq 007 1 to jump,2:46:59.235,10019.235,0.765,0,10019.235
-KLQ_007_1_to_pull_Saha01.wav,klq 007 1 to pull,2:47:14.154,10034.154,0.899,0,10034.154
-KLQ_007_1_to_push_Saha01.wav,klq 007 1 to push,2:47:23.060,10043.06,1.365,0,10043.06
-KLQ_008_0_to_see_Saha01.wav,klq 008 0 to see,2:47:41.843,10061.843,0.884,0,10061.843
-KLQ_008_1_to_look_at_Saha01.wav,klq 008 1 to look at,2:47:49.074,10069.074,1.272,0,10069.074
-KLQ_008_3_to_hear_Saha01.wav,klq 008 3 to hear,2:48:01.409,10081.409,1.07,0,10081.409
-KLQ_008_4_to_listen_to_Saha01.wav,klq 008 4 to listen to,2:48:11.681,10091.681,0.993,0,10091.681
-KLQ_008_5_to_understand_Saha01.wav,klq 008 5 to understand,2:48:25.300,10105.3,1.396,0,10105.3
-KLQ_009_0_to_kill_Saha01.wav,klq 009 0 to kill,2:48:54.140,10134.14,1.117,0,10134.14
-KLQ_009_1_to_hit_Saha01.wav,klq 009 1 to hit,2:49:22.911,10162.911,1.088,0,10162.911
-KLQ_009_3_to_cut_Saha01.wav,klq 009 3 to cut,2:49:29.025,10169.025,0.775,0,10169.025
-KLQ_009_5_to_slap_Saha01.wav,klq 009 5 to slap,2:50:35.617,10235.617,0.993,0,10235.617
-KLQ_009_6_to_bite_Saha01.wav,klq 009 6 to bite,2:50:56.937,10256.937,1.287,0,10256.937
-KLQ_010_3_inside_the_box_Saha01.wav,klq 010 3 inside the box,2:52:38.558,10358.558,1.241,0,10358.558
-KLQ_010_4_outside_Saha01.wav,klq 010 4 outside,2:52:58.220,10378.22,1.086,0,10378.22
-KLQ_010_1_last_year_Saha01.wav,klq 010 1 last year,2:54:29.696,10469.696,0.791,0,10469.696
-KLQ_010_1_two_years_ago_Saha01.wav,klq 010 1 two years ago,2:54:38.000,10478.0,1.317,0,10478.0
-JBIL_005_1_i_eat_apples_in_the_morning_Saha01.wav,1 i eat apples in the morning,2:54:52.068,10492.068,1.008,0,10492.068
-KLQ_010_1_morning_Saha01.wav,klq 010 1 morning,2:54:52.068,10492.068,1.008,0,10492.068
-KLQ_010_1_midday_Saha01.wav,klq 010 1 midday,2:54:59.237,10499.237,1.163,0,10499.237
-KLQ_010_1_afternoon_Saha01.wav,klq 010 1 afternoon,2:55:08.929,10508.929,1.38,0,10508.929
-KLQ_010_1_evening_Saha01.wav,klq 010 1 evening,2:55:17.152,10517.152,1.07,0,10517.152
-KLQ_011_0_monday_Saha01.wav,klq 011 0 monday,2:55:35.692,10535.692,0.977,0,10535.692
-KLQ_011_1_tuesday_Saha01.wav,klq 011 1 tuesday,2:55:46.520,10546.52,1.055,0,10546.52
-KLQ_011_3_wednesday_Saha01.wav,klq 011 3 wednesday,2:55:53.439,10553.439,1.117,0,10553.439
-KLQ_011_4_thursday_Saha01.wav,klq 011 4 thursday,2:55:59.816,10559.816,1.086,0,10559.816
-KLQ_011_5_friday_Saha01.wav,klq 011 5 friday,2:56:08.000,10568.0,0.986,0,10568.0
-KLQ_011_5_saturday_Saha01.wav,klq 011 5 saturday,2:56:15.559,10575.559,0.961,0,10575.559
-KLQ_011_6_sunday_Saha01.wav,klq 011 6 sunday,2:56:22.000,10582.0,0.991,0,10582.0
-KLQ_012_1_why_Saha01.wav,klq 012 1 why,2:56:41.857,10601.857,0.946,0,10601.857
-KLQ_012_6_how_many_Saha01.wav,klq 012 6 how many,2:57:34.742,10654.742,0.636,0,10654.742
-KLQ_012_6_how_many_boys_are_in_the_class_Saha01.wav,klq 012 6 how many boys are in the class,2:57:34.742,10654.742,0.636,0,10654.742
+concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
+1,one,1107.232,0.9100000000000819,audio/Saha01/JBIL_1_A_one_Saha01.wav,jɛk,یەک
+102,leaf,2739.48,0.7559999999998581,audio/Saha01/JBIL_102_A_leaf_Saha01.wav,dola,گەلە
+103,bark,2779.195,0.9859999999998763,audio/Saha01/JBIL_103_A_bark_Saha01.wav,pusedari,پوسدار
+104,root,2795.918,0.7799999999997453,audio/Saha01/JBIL_104_A_root_Saha01.wav,riːʃa,ڕیشێ
+106,seed,2887.275,0.9079999999999018,audio/Saha01/JBIL_106_A_seed_Saha01.wav,dɑna,دانە
+109,cloud,3157.6,0.7429999999999382,audio/Saha01/JBIL_109_A_cloud_Saha01.wav,oːr,ئەورە
+111,sun,3191.49,1.012000000000171,audio/Saha01/JBIL_111_A_sun_Saha01.wav,xwar,خوار
+113,moon,3223.039,0.9599999999995816,audio/Saha01/JBIL_113_A_moon_Saha01.wav,mɑŋ,مانە
+114,night,3242.745,0.805000000000291,audio/Saha01/JBIL_114_A_night_Saha01.wav,ʃoʊ,شەو
+115,star,3266.382,1.0740000000000691,audio/Saha01/JBIL_115_A_star_Saha01.wav,hesɑrahes,هسارە هەسە
+118,mountain,3314.32,0.7640000000001237,audio/Saha01/JBIL_118_A_mountain_Saha01.wav,ʃɑx,شاخ
+119,stone,3336.746,1.2530000000001564,audio/Saha01/JBIL_119_A_stone_Saha01.wav,kitʃɛk,کەو چک
+120,sand,3348.21,0.8670000000001892,audio/Saha01/JBIL_120_A_sand_Saha01.wav,mɑsa,مەسە
+122,water,3375.434,0.6999999999998181,audio/Saha01/JBIL_122_A_water_Saha01.wav,aʊ,ئەو
+124,snow,3393.751,1.1769999999996799,audio/Saha01/JBIL_124_A_snow_Saha01.wav,bafər,بەفر
+126,rain,3421.371,1.1149999999997817,audio/Saha01/JBIL_126_A_rain_Saha01.wav,worom,
+130,fire,3470.758,1.2409999999999854,audio/Saha01/JBIL_130_A_fire_Saha01.wav,ɑlɡər,ەگەر
+131,smoke,3481.231,0.7679999999995744,audio/Saha01/JBIL_131_A_smoke_Saha01.wav,duːkɛl,دۊ کەرلە
+132,ash,3493.321,0.88799999999992,audio/Saha01/JBIL_132_A_ash_Saha01.wav,boːrʌk,بەورک
+142,milk,3624.0,1.0140000000001237,audio/Saha01/JBIL_142_A_milk_Saha01.wav,ʃiːd,
+143,honey,3647.551,1.2699999999999818,audio/Saha01/JBIL_143_A_honey_Saha01.wav,haŋɡin,هەنگوین
+144,walnut,3668.221,1.1599999999998545,audio/Saha01/JBIL_144_A_walnut_Saha01.wav,ɡeːrdɛkɑn,گردە کان
+150,good,3777.756,1.2260000000001128,audio/Saha01/JBIL_150_A_good_Saha01.wav,fedaxɔsfraɔ,فرەخاس فرەخاس
+154,new,3853.388,1.3530000000000655,audio/Saha01/JBIL_154_A_new_Saha01.wav,nu,نو
+156,hot,3880.944,0.7220000000002074,audio/Saha01/JBIL_156_A_hot_Saha01.wav,ɡɛrʌm,گەرم
+157,cold,3891.831,1.3139999999998508,audio/Saha01/JBIL_157_A_cold_Saha01.wav,sart,سەرت
+165,full,3969.52,0.7440000000001419,audio/Saha01/JBIL_165_A_full_Saha01.wav,pʌr,پەر
+167,dry,3994.0,0.9830000000001746,audio/Saha01/JBIL_167_A_dry_Saha01.wav,woʃk,وەشک
+169,big,4025.524,1.762000000000171,audio/Saha01/JBIL_169_A_big_Saha01.wav,bikalan,کەلەم
+170,small,4069.286,0.7130000000001928,audio/Saha01/JBIL_170_A_small_Saha01.wav,buːtʃɛk,بۊچک
+171,round,4092.729,1.3949999999999818,audio/Saha01/JBIL_171_A_round_Saha01.wav,xʌr,خەر
+177,green,4195.338,1.0070000000005166,audio/Saha01/JBIL_177_A_green_Saha01.wav,soʊz,سەوز
+178,yellow,4202.326,1.181999999999789,audio/Saha01/JBIL_178_A_yellow_Saha01.wav,zart,زەرت
+179,red,4213.782,0.8980000000001382,audio/Saha01/JBIL_179_A_red_Saha01.wav,sur, سور
+180,black,4224.0,0.9970000000002983,audio/Saha01/JBIL_180_A_black_Saha01.wav,seː,سی
+181,white,4233.483,1.1390000000001237,audio/Saha01/JBIL_181_A_white_Saha01.wav,səfeːd,سفێد
+2,two,1140.471,0.6639999999999873,audio/Saha01/JBIL_2_A_two_Saha01.wav,to,دو
+298,this,7700.382,0.5280000000002474,audio/Saha01/JBIL_298_A_this_Saha01.wav,ava,ئەوە
+299,that,7733.805,0.6989999999996144,audio/Saha01/JBIL_299_A_that_Saha01.wav,oʊ,ئەو
+3,three,1147.17,0.8289999999999509,audio/Saha01/JBIL_3_A_three_Saha01.wav,se,سێ
+31,head,1468.0,0.5709999999999127,audio/Saha01/JBIL_31_A_head_Saha01.wav,sɛr,سەر
+319,i,8151.874,0.6680000000005748,audio/Saha01/JBIL_319_A_i_Saha01.wav,mɛn,من
+32,hair,1524.743,0.8400000000001455,audio/Saha01/JBIL_32_A_hair_Saha01.wav,muːsɛr,میسەر
+321,we,8180.542,0.9949999999998909,audio/Saha01/JBIL_321_A_we_Saha01.wav,ima,ئیمە
+33,eye,1586.632,0.6649999999999636,audio/Saha01/JBIL_33_A_eye_Saha01.wav,tʃɔ,چەو
+34,nose,1591.915,0.6649999999999636,audio/Saha01/JBIL_34_A_nose_Saha01.wav,lyt,لۊت
+35,ear,1598.618,0.6300000000001091,audio/Saha01/JBIL_35_A_ear_Saha01.wav,ɡuʃ,گووش
+36,mouth,1604.145,0.4780000000000655,audio/Saha01/JBIL_36_A_mouth_Saha01.wav,dɛm,دم
+37,tooth,1615.027,0.65300000000002,audio/Saha01/JBIL_37_A_tooth_Saha01.wav,deɑn,دیان
+38,tongue,1643.538,0.9100000000000819,audio/Saha01/JBIL_38_A_tongue_Saha01.wav,zuaːn,زوان
+39,neck,1651.657,0.51299999999992,audio/Saha01/JBIL_39_A_neck_Saha01.wav,mɛl,مەل
+4,four,1154.439,0.77800000000002,audio/Saha01/JBIL_4_A_four_Saha01.wav,tʃuːr,چوارە
+42,hand,1669.769,0.5950000000000273,audio/Saha01/JBIL_42_A_hand_Saha01.wav,dɛs,دەس
+44,finger,1720.954,0.8399999999999181,audio/Saha01/JBIL_44_A_finger_Saha01.wav,pɛndʒə,پەنجە
+5,five,1163.225,0.7739999999998872,audio/Saha01/JBIL_5_A_five_Saha01.wav,pɛnt,پەنچ
+54,knee,1957.76,0.6890000000000782,audio/Saha01/JBIL_54_A_knee_Saha01.wav,zedoni,زەرانی
+55,foot,1982.902,0.6299999999998818,audio/Saha01/JBIL_55_A_foot_Saha01.wav,pɑ,پا
+56,skin,1989.604,0.7119999999999891,audio/Saha01/JBIL_56_A_skin_Saha01.wav,pus,بوس
+57,bone,1998.777,0.9099999999998545,audio/Saha01/JBIL_57_A_bone_Saha01.wav,suːxɑn,سخان
+58,blood,2010.482,0.5370000000000346,audio/Saha01/JBIL_58_A_blood_Saha01.wav,xyn,خۆن
+60,heart,2027.392,0.5019999999999527,audio/Saha01/JBIL_60_A_heart_Saha01.wav,kalp,قەمپە
+61,liver,2034.989,0.6769999999999072,audio/Saha01/JBIL_61_A_liver_Saha01.wav,tʃɡɛr,چگر
+62,person,2050.0,0.7970000000000255,audio/Saha01/JBIL_62_A_person_Saha01.wav,ʃaʁsʃ,شەخس
+63,man,2055.779,0.5720000000001164,audio/Saha01/JBIL_63_A_man_Saha01.wav,pi,پیە
+65,woman,2084.707,0.7240000000001601,audio/Saha01/JBIL_65_A_woman_Saha01.wav,ʒɛn,جەن
+75,sister,2226.344,0.887000000000171,audio/Saha01/JBIL_75_A_sister_Saha01.wav,xuːʃek,ەیشک
+77,bride,2240.968,0.887000000000171,audio/Saha01/JBIL_77_A_bride_Saha01.wav,adus,ئەروس
+78,name,2255.506,0.7820000000001528,audio/Saha01/JBIL_78_A_name_Saha01.wav,nɔn,ناو
+79,dog,2259.36,0.7590000000000146,audio/Saha01/JBIL_79_A_dog_Saha01.wav,sɛk,سەگ
+81,horn,2320.0,0.6210000000000946,audio/Saha01/JBIL_81_A_horn_Saha01.wav,buq,بووک
+82,tail,2333.577,0.7469999999998436,audio/Saha01/JBIL_82_A_tail_Saha01.wav,dʒadum,دوم
+83,claw,2361.902,0.8519999999998618,audio/Saha01/JBIL_83_A_claw_Saha01.wav,tʃɛŋ,چەن
+84,feather,2380.616,0.5369999999998072,audio/Saha01/JBIL_84_A_feather_Saha01.wav,par,پەر
+91,fish,2483.735,0.781999999999698,audio/Saha01/JBIL_91_A_fish_Saha01.wav,mɑsi,ماسی
+92,bird,2507.284,0.95699999999988,audio/Saha01/JBIL_92_A_bird_Saha01.wav,plɛʁar,پەلەوەر
+96,louse,2625.82,0.8519999999998618,audio/Saha01/JBIL_96_A_louse_Saha01.wav,ʃʌpəʃ,شەپش
+97,tree,2634.612,0.781999999999698,audio/Saha01/JBIL_97_A_tree_Saha01.wav,dɔr,دار

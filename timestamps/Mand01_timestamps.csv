@@ -1,512 +1,77 @@
-filename,concept,start_time,start_sec,duration_sec,offset,csv_start_sec
-JBIL_001_one_Mand01.wav,one,0:00:07.617,7.617,0.993,0,7.617
-JBIL_002_two_Mand01.wav,two,0:00:23.431,23.431,0.89,0,23.431
-KLQ_002_2_child_of_ones_daughter_Mand01.wav,,0:00:23.431,23.431,0.89,0,23.431
-KLQ_002_2_child_of_ones_son-_Mand01.wav,,0:00:23.431,23.431,0.89,0,23.431
-KLQ_002_2_father_vocative_Mand01.wav,,0:00:23.431,23.431,0.89,0,23.431
-KLQ_002_3_mother_vocative_Mand01.wav,,0:00:23.431,23.431,0.89,0,23.431
-KLQ_002_7_a_day_old_baby_Mand01.wav,,0:00:23.431,23.431,0.89,0,23.431
-JBIL_003_three_Mand01.wav,three,0:00:29.826,29.826,0.89,0,29.826
-JBIL_004_four_Mand01.wav,four,0:00:34.463,34.463,0.827,0,34.463
-KLQ_004_0_thin_man_Mand01.wav,,0:00:34.463,34.463,0.827,0,34.463
-KLQ_004_2_dry_land_Mand01.wav,,0:00:34.463,34.463,0.827,0,34.463
-KLQ_004_5_low_wall_Mand01.wav,,0:00:34.463,34.463,0.827,0,34.463
-KLQ_004_9_fat_man_Mand01.wav,,0:00:34.463,34.463,0.827,0,34.463
-JBIL_005_0_sorush_is_going__to_the_market_with_hasan_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_0_the_boy_cut_the_rope_with_a_knife_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_ali_went_to_the_village_with_him_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_i_am_coming_from_the_market_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_i_am_eating_the_apple_now_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_i_have_one_car_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_i_have_one_daughter_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_maryam_went_to_the_village_with_her_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_this_is_mine_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_1_we_didnt_see_ali_at_the_market_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_2_as_reza_was_crossing_the_road_a_car_hit_him_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_2_he_gave_the_stick_to_the_girl_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_2_sahar_was_coming_down_the_mountain_with_the_mule_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_2_the_girl_cut_the_ropes_with_a_knife_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_2_when_i_was_cutting_up_vegetables_i_cut_my_hand_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_4_that_stick_-_peyman_gave_it_to_the_women_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_5_maryam_gave_the_bread_to_me_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_5_the_women_gave_the_bread_to_the_man_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_7_ali_speaks_persian_to_his_mother_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_7_the_boys_are_not_in_shiraz_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_9_the_children_are_in_the_kitchen_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_005_five_Mand01.wav,five,0:00:40.257,40.257,0.827,0,40.257
-KLQ_005_5_blue_sky_Mand01.wav,,0:00:40.257,40.257,0.827,0,40.257
-JBIL_006_six_Mand01.wav,six,0:00:45.286,45.286,1.055,0,45.286
-JBIL_319_i_Mand01.wav,i,0:00:45.286,45.286,1.055,0,45.286
-KLQ_006_5_to_bathe_immerse_the_whole_body_Mand01.wav,,0:00:45.286,45.286,1.055,0,45.286
-JBIL_007_seven_Mand01.wav,seven,0:00:56.280,56.28,0.91,0,56.28
-KLQ_007_2_go_Mand01.wav,,0:00:56.280,56.28,0.91,0,56.28
-KLQ_007_4_come_here_Mand01.wav,,0:00:56.280,56.28,0.91,0,56.28
-KLQ_007_5_to_stand_to_stop_Mand01.wav,,0:00:56.280,56.28,0.91,0,56.28
-KLQ_007_7_to_reach_arrive_Mand01.wav,,0:00:56.280,56.28,0.91,0,56.28
-JBIL_008_eight_Mand01.wav,eight,0:01:03.193,63.193,1.034,0,63.193
-KLQ_008_5_to_smell_eg_i_can_smell_the_food_that_is_cooking_Mand01.wav,,0:01:03.193,63.193,1.034,0,63.193
-JBIL_009_nine_Mand01.wav,nine,0:01:10.000,70.0,1.1,0,70.0
-KLQ_009_0_to_destroy_the_police_destroyed_the_house_Mand01.wav,,0:01:10.000,70.0,1.1,0,70.0
-KLQ_009_4_to_scratch_your_own_body_Mand01.wav,,0:01:10.000,70.0,1.1,0,70.0
-KLQ_009_5_to_knock_at_the_door_Mand01.wav,,0:01:10.000,70.0,1.1,0,70.0
-KLQ_009_8_to_sting_a_bee_stung_the_child_Mand01.wav,,0:01:10.000,70.0,1.1,0,70.0
-KLQ_009_9_to_tear_the_child_will_tear_the_paper_Mand01.wav,,0:01:10.000,70.0,1.1,0,70.0
-JBIL_011_eleven_Mand01.wav,eleven,0:01:15.811,75.811,1.236,0,75.811
-JBIL_012_twelve_Mand01.wav,twelve,0:01:21.387,81.387,1.003,0,81.387
-JBIL_013_thirteen_Mand01.wav,thirteen,0:01:26.532,86.532,0.793,0,86.532
-JBIL_014_fourteen_Mand01.wav,fourteen,0:01:37.132,97.132,0.867,0,97.132
-JBIL_015_fifteen_Mand01.wav,fifteen,0:01:42.417,102.417,0.98,0,102.417
-JBIL_016_sixteen_Mand01.wav,sixteen,0:01:47.550,107.55,1.178,0,107.55
-JBIL_017_seventeen_Mand01.wav,seventeen,0:01:53.476,113.476,0.851,0,113.476
-JBIL_018_eighteen_Mand01.wav,eighteen,0:02:00.251,120.251,0.874,0,120.251
-JBIL_019_nineteen_Mand01.wav,nineteen,0:02:05.347,125.347,0.98,0,125.347
-JBIL_020_twenty_Mand01.wav,twenty,0:02:10.748,130.748,0.84,0,130.748
-JBIL_021_twenty-one_Mand01.wav,twenty-one,0:02:17.073,137.073,0.926,0,137.073
-JBIL_022_thirty_Mand01.wav,thirty,0:02:23.455,143.455,0.816,0,143.455
-JBIL_023_forty_Mand01.wav,forty,0:02:28.247,148.247,0.746,0,148.247
-JBIL_024_fifty_Mand01.wav,fifty,0:02:32.786,152.786,0.933,0,152.786
-JBIL_025_sixty_Mand01.wav,sixty,0:02:42.979,162.979,0.851,0,162.979
-JBIL_026_seventy_Mand01.wav,seventy,0:02:49.180,169.18,0.956,0,169.18
-JBIL_027_eighty_Mand01.wav,eighty,0:02:54.395,174.395,0.968,0,174.395
-JBIL_028_ninety_Mand01.wav,ninety,0:02:59.843,179.843,0.909,0,179.843
-JBIL_029_one_hundred_Mand01.wav,one hundred,0:03:05.106,185.106,0.893,0,185.106
-JBIL_030_two_hundred_Mand01.wav,two hundred,0:03:11.222,191.222,0.863,0,191.222
-JBIL_031_head_Mand01.wav,head,0:03:28.804,208.804,0.723,0,208.804
-JBIL_032_hair_Mand01.wav,hair,0:03:34.000,214.0,0.696,0,214.0
-JBIL_033_eye_Mand01.wav,eye,0:03:42.124,222.124,0.804,0,222.124
-JBIL_034_nose_Mand01.wav,nose,0:03:49.898,229.898,0.758,0,229.898
-JBIL_035_ear_Mand01.wav,ear,0:04:07.386,247.386,0.91,0,247.386
-JBIL_036_mouth_Mand01.wav,mouth,0:04:20.291,260.291,0.758,0,260.291
-JBIL_037_tooth_Mand01.wav,tooth,0:04:26.000,266.0,0.869,0,266.0
-JBIL_038_tongue_Mand01.wav,tongue,0:04:33.436,273.436,0.909,0,273.436
-JBIL_039_neck_Mand01.wav,neck,0:04:43.259,283.259,0.741,0,283.259
-JBIL_041_arm_Mand01.wav,arm,0:05:50.990,350.99,0.769,0,350.99
-JBIL_042_hand_Mand01.wav,hand,0:05:51.886,351.886,0.676,0,351.886
-JBIL_043_elbow_Mand01.wav,elbow,0:05:52.685,352.685,0.641,0,352.685
-JBIL_044_finger_Mand01.wav,finger,0:06:13.208,373.208,0.664,0,373.208
-JBIL_045_nail_Mand01.wav,nail,0:06:26.490,386.49,0.851,0,386.49
-JBIL_046_chest_Mand01.wav,chest,0:06:35.797,395.797,0.898,0,395.797
-KLQ_047_stomach_belly_Mand01.wav,,0:07:07.123,427.123,0.665,0,427.123
-KLQ_048_stomach_organ_Mand01.wav,,0:07:30.265,450.265,0.642,0,450.265
-JBIL_049_guts_a_Mand01.wav,guts a,0:07:51.337,471.337,0.758,0,471.337
-JBIL_049_guts_b_Mand01.wav,guts b,0:07:57.847,477.847,0.828,0,477.847
-JBIL_050_navel_Mand01.wav,navel,0:08:29.640,509.64,0.665,0,509.64
-JBIL_051_back_Mand01.wav,back,0:08:38.799,518.799,0.525,0,518.799
-JBIL_052_leg_Mand01.wav,leg,0:08:53.326,533.326,0.673,0,533.326
-JBIL_053_thigh_Mand01.wav,thigh,0:08:54.166,534.166,0.559,0,534.166
-JBIL_054_knee_Mand01.wav,knee,0:08:54.820,534.82,0.443,0,534.82
-JBIL_055_foot_Mand01.wav,foot,0:08:54.820,534.82,0.443,0,534.82
-JBIL_056_skin_Mand01.wav,skin,0:11:14.825,674.825,0.571,0,674.825
-JBIL_057_bone_Mand01.wav,bone,0:11:23.213,683.213,0.874,0,683.213
-JBIL_058_blood_Mand01.wav,blood,0:11:38.361,698.361,0.618,0,698.361
-JBIL_059_urine_Mand01.wav,urine,0:11:53.250,713.25,0.629,0,713.25
-JBIL_060_heart_Mand01.wav,heart,0:12:01.622,721.622,0.559,0,721.622
-JBIL_061_liver_Mand01.wav,liver,0:12:20.687,740.687,0.52,0,740.687
-JBIL_062_person_a_Mand01.wav,person a,0:13:25.794,805.794,0.466,0,805.794
-JBIL_063_person_b_Mand01.wav,person b,0:13:27.217,807.217,0.614,0,807.217
-JBIL_064_husband_Mand01.wav,husband,0:13:53.314,833.314,0.685,0,833.314
-JBIL_066_wife_Mand01.wav,wife,0:13:59.693,839.693,0.712,0,839.693
-JBIL_065_woman_Mand01.wav,woman,0:14:28.000,868.0,0.758,0,868.0
-JBIL_067_child_a_Mand01.wav,child a,0:14:44.223,884.223,0.776,0,884.223
-JBIL_067_child_b_Mand01.wav,child b,0:14:47.000,887.0,0.876,0,887.0
-JBIL_068_boy_Mand01.wav,boy,0:15:08.726,908.726,0.515,0,908.726
-JBIL_069_son_Mand01.wav,son,0:15:16.170,916.17,0.603,0,916.17
-JBIL_070_girl_Mand01.wav,girl,0:15:34.795,934.795,0.69,0,934.795
-JBIL_071_daughter_Mand01.wav,daughter,0:15:41.546,941.546,0.767,0,941.546
-JBIL_072_father_Mand01.wav,father,0:15:52.375,952.375,0.954,0,952.375
-JBIL_073_mother_Mand01.wav,mother,0:16:00.824,960.824,0.998,0,960.824
-JBIL_074_brother_Mand01.wav,brother,0:16:08.630,968.63,0.811,0,968.63
-JBIL_075_sister_Mand01.wav,sister,0:16:12.886,972.886,0.877,0,972.886
-JBIL_076_groom_Mand01.wav,groom,0:16:32.726,992.726,0.615,0,992.726
-JBIL_077_bride_a_Mand01.wav,bride a,0:17:07.356,1027.356,0.606,0,1027.356
-JBIL_077_bride_b_Mand01.wav,bride b,0:17:09.799,1029.799,0.644,0,1029.799
-JBIL_078_name_Mand01.wav,name,0:17:25.085,1045.085,0.564,0,1045.085
-JBIL_079_dog_a_Mand01.wav,dog a,0:17:34.000,1054.0,0.615,0,1054.0
-JBIL_079_dog_b_Mand01.wav,dog b,0:17:59.351,1079.351,0.737,0,1079.351
-JBIL_080_cat_a_Mand01.wav,cat a,0:18:38.702,1118.702,0.849,0,1118.702
-JBIL_080_cat_b_Mand01.wav,cat b,0:18:43.130,1123.13,0.62,0,1123.13
-KLQ_081_horn_cow_Mand01.wav,,0:18:55.313,1135.313,0.686,0,1135.313
-JBIL_082_tail_Mand01.wav,tail,0:19:07.236,1147.236,0.545,0,1147.236
-JBIL_083_claw_Mand01.wav,claw,0:19:32.554,1172.554,0.651,0,1172.554
-JBIL_084_feather_Mand01.wav,feather,0:19:49.915,1189.915,0.713,0,1189.915
-JBIL_085_wing_Mand01.wav,wing,0:20:17.525,1217.525,0.682,0,1217.525
-JBIL_086_lion_Mand01.wav,lion,0:20:28.476,1228.476,0.446,0,1228.476
-JBIL_087_wolf_Mand01.wav,wolf,0:20:43.725,1243.725,0.551,0,1243.725
-JBIL_088_fox_Mand01.wav,fox,0:20:57.125,1257.125,0.644,0,1257.125
-JBIL_089_snake_Mand01.wav,snake,0:21:06.707,1266.707,0.514,0,1266.707
-JBIL_090_worm_a_Mand01.wav,worm a,0:21:31.116,1291.116,0.948,0,1291.116
-JBIL_090_worm_b_Mand01.wav,worm b,0:21:34.827,1294.827,0.717,0,1294.827
-JBIL_091_fish_Mand01.wav,fish,0:21:43.423,1303.423,0.915,0,1303.423
-JBIL_092_bird_Mand01.wav,bird,0:22:01.440,1321.44,0.742,0,1321.44
-JBIL_093_ant_Mand01.wav,ant,0:22:51.000,1371.0,0.915,0,1371.0
-JBIL_095_scorpion_Mand01.wav,scorpion,0:23:25.472,1405.472,0.791,0,1405.472
-JBIL_096_louse_Mand01.wav,louse,0:23:57.422,1437.422,0.692,0,1437.422
-JBIL_097_tree_Mand01.wav,tree,0:25:19.112,1519.112,0.56,0,1519.112
-JBIL_098_forest_Mand01.wav,forest,0:26:31.665,1591.665,0.733,0,1591.665
-KLQ_099_wood_substance_Mand01.wav,,0:26:50.454,1610.454,0.692,0,1610.454
-JBIL_100_branch_Mand01.wav,branch,0:27:27.930,1647.93,0.824,0,1647.93
-JBIL_100_tree_branch_Mand01.wav,tree branch,0:27:32.736,1652.736,1.088,0,1652.736
-JBIL_101_stick_Mand01.wav,stick,0:28:59.783,1739.783,0.601,0,1739.783
-JBIL_102_leaf_a_Mand01.wav,leaf a,0:29:08.557,1748.557,0.593,0,1748.557
-JBIL_102_leaf_b_Mand01.wav,leaf b,0:29:10.893,1750.893,0.808,0,1750.893
-JBIL_103_bark_Mand01.wav,bark,0:29:43.000,1783.0,0.916,0,1783.0
-JBIL_105_flower_Mand01.wav,flower,0:30:24.000,1824.0,0.672,0,1824.0
-JBIL_106_seed_Mand01.wav,seed,0:30:42.262,1842.262,0.737,0,1842.262
-JBIL_107_grass_Mand01.wav,grass,0:30:52.710,1852.71,0.799,0,1852.71
-JBIL_108_sky_Mand01.wav,sky,0:31:02.730,1862.73,0.626,0,1862.73
-JBIL_109_cloud_Mand01.wav,cloud,0:31:07.407,1867.407,0.592,0,1867.407
-JBIL_110_shadow_Mand01.wav,shadow,0:31:12.910,1872.91,0.874,0,1872.91
-JBIL_111_sun_Mand01.wav,sun,0:31:24.606,1884.606,0.766,0,1884.606
-JBIL_112_day_Mand01.wav,day,0:31:31.802,1891.802,0.742,0,1891.802
-JBIL_104_root_Mand01.wav,root,0:32:18.079,1938.079,0.981,0,1938.079
-JBIL_113_moon_Mand01.wav,moon,0:32:32.542,1952.542,0.742,0,1952.542
-JBIL_114_night_Mand01.wav,night,0:32:38.092,1958.092,0.775,0,1958.092
-JBIL_115_star_Mand01.wav,star,0:32:46.282,1966.282,0.865,0,1966.282
-JBIL_116_wind_Mand01.wav,wind,0:32:55.749,1975.749,0.733,0,1975.749
-JBIL_117_dirt_earth_a_Mand01.wav,,0:34:16.522,2056.522,0.742,0,2056.522
-JBIL_117_dirt_earth_b_Mand01.wav,,0:34:19.755,2059.755,0.857,0,2059.755
-JBIL_118_mountain_Mand01.wav,mountain,0:34:34.906,2074.906,0.742,0,2074.906
-JBIL_119_stone_Mand01.wav,stone,0:34:46.263,2086.263,0.736,0,2086.263
-JBIL_120_sand_Mand01.wav,sand,0:35:33.784,2133.784,0.577,0,2133.784
-JBIL_121_dust_Mand01.wav,dust,0:35:55.939,2155.939,0.362,0,2155.939
-JBIL_126_water_Mand01.wav,water,0:36:08.410,2168.41,0.589,0,2168.41
-JBIL_127_river_Mand01.wav,river,0:36:09.297,2169.297,0.544,0,2169.297
-JBIL_128_lake_Mand01.wav,lake,0:36:09.297,2169.297,0.544,0,2169.297
-JBIL_129_sea_Mand01.wav,sea,0:36:09.297,2169.297,0.544,0,2169.297
-JBIL_122_ice_Mand01.wav,ice,0:36:20.090,2180.09,0.775,0,2180.09
-JBIL_123_snow_Mand01.wav,snow,0:36:34.135,2194.135,0.544,0,2194.135
-JBIL_124_fog_Mand01.wav,fog,0:36:41.271,2201.271,0.569,0,2201.271
-JBIL_125_rain_Mand01.wav,rain,0:36:46.764,2206.764,0.989,0,2206.764
-JBIL_130_fire_Mand01.wav,fire,0:37:28.750,2248.75,0.684,0,2248.75
-JBIL_131_smoke_Mand01.wav,smoke,0:37:33.000,2253.0,0.643,0,2253.0
-JBIL_132_ash_Mand01.wav,ash,0:38:07.833,2287.833,0.75,0,2287.833
-JBIL_040_throat_Mand01.wav,throat,0:39:41.400,2381.4,0.742,0,2381.4
-JBIL_133_year_Mand01.wav,year,0:39:58.870,2398.87,0.659,0,2398.87
-JBIL_134_summer_Mand01.wav,summer,0:40:07.245,2407.245,0.948,0,2407.245
-JBIL_135_winter_Mand01.wav,winter,0:40:17.279,2417.279,0.874,0,2417.279
-JBIL_136_house_Mand01.wav,house,0:40:21.098,2421.098,0.742,0,2421.098
-JBIL_137_meat_Mand01.wav,meat,0:40:27.346,2427.346,0.653,0,2427.346
-JBIL_138_rice_Mand01.wav,rice,0:40:33.671,2433.671,0.733,0,2433.671
-KLQ_139_salt_eating_a_Mand01.wav,,0:40:42.000,2442.0,0.702,0,2442.0
-KLQ_139_salt_eating_b_Mand01.wav,,0:40:48.514,2448.514,0.841,0,2448.514
-KLQ_141_egg_eg_chicken_Mand01.wav,,0:41:58.313,2518.313,0.874,0,2518.313
-JBIL_142_milk_Mand01.wav,milk,0:42:13.306,2533.306,0.693,0,2533.306
-JBIL_143_honey_Mand01.wav,honey,0:42:21.000,2541.0,0.763,0,2541.0
-JBIL_144_walnut_Mand01.wav,walnut,0:42:26.651,2546.651,0.948,0,2546.651
-JBIL_145_fruit_Mand01.wav,fruit,0:42:35.254,2555.254,0.857,0,2555.254
-JBIL_146_hungry_Mand01.wav,hungry,0:42:42.000,2562.0,0.837,0,2562.0
-JBIL_147_thirsty_Mand01.wav,thirsty,0:42:55.760,2575.76,0.841,0,2575.76
-JBIL_148_bitter_Mand01.wav,bitter,0:43:13.685,2593.685,0.667,0,2593.685
-JBIL_149_fresh_Mand01.wav,fresh,0:43:45.618,2625.618,0.857,0,2625.618
-JBIL_150_good_Mand01.wav,good,0:44:01.258,2641.258,0.799,0,2641.258
-JBIL_151_bad_a_Mand01.wav,bad a,0:44:06.111,2646.111,0.783,0,2646.111
-JBIL_151_bad_b_Mand01.wav,bad b,0:44:11.328,2651.328,0.849,0,2651.328
-JBIL_152_rotten_Mand01.wav,rotten,0:45:10.115,2710.115,0.884,0,2710.115
-KLQ_153_old_thing_Mand01.wav,,0:45:35.554,2735.554,0.552,0,2735.554
-JBIL_154_new_Mand01.wav,new,0:45:41.287,2741.287,0.824,0,2741.287
-JBIL_155_sweet_Mand01.wav,sweet,0:45:46.724,2746.724,0.94,0,2746.724
-KLQ_156_hot_fire_Mand01.wav,,0:45:53.534,2753.534,0.89,0,2753.534
-JBIL_157_cold_Mand01.wav,cold,0:45:58.218,2758.218,0.882,0,2758.218
-KLQ_158_long_thing_Mand01.wav,,0:46:04.461,2764.461,0.75,0,2764.461
-KLQ_159_short_length_Mand01.wav,,0:47:15.374,2835.374,0.709,0,2835.374
-JBIL_160_wide_Mand01.wav,wide,0:47:25.699,2845.699,0.717,0,2845.699
-JBIL_161_narrow_Mand01.wav,narrow,0:47:33.166,2853.166,0.667,0,2853.166
-JBIL_162_thick_Mand01.wav,thick,0:48:17.728,2897.728,0.791,0,2897.728
-JBIL_163_thin_Mand01.wav,thin,0:48:48.883,2928.883,0.626,0,2928.883
-JBIL_164_heavy_a_Mand01.wav,heavy a,0:48:56.232,2936.232,0.602,0,2936.232
-JBIL_164_heavy_b_Mand01.wav,heavy b,0:49:03.779,2943.779,0.849,0,2943.779
-JBIL_165_full_Mand01.wav,full,0:49:20.934,2960.934,0.585,0,2960.934
-JBIL_166_dirty_a_Mand01.wav,dirty a,0:49:27.098,2967.098,0.684,0,2967.098
-JBIL_166_dirty_b_Mand01.wav,dirty b,0:49:31.905,2971.905,0.585,0,2971.905
-JBIL_167_dry_Mand01.wav,dry,0:49:42.382,2982.382,0.47,0,2982.382
-JBIL_168_wet_Mand01.wav,wet,0:49:48.619,2988.619,0.494,0,2988.619
-JBIL_169_big_Mand01.wav,big,0:49:54.287,2994.287,0.712,0,2994.287
-JBIL_170_small_Mand01.wav,small,0:50:02.106,3002.106,0.634,0,3002.106
-JBIL_171_round_Mand01.wav,round,0:50:16.592,3016.592,0.593,0,3016.592
-JBIL_172_hard_a_Mand01.wav,hard a,0:50:28.465,3028.465,0.618,0,3028.465
-JBIL_172_hard_b_Mand01.wav,hard b,0:50:30.725,3030.725,0.659,0,3030.725
-JBIL_173_sharp_Mand01.wav,sharp,0:50:47.806,3047.806,0.766,0,3047.806
-JBIL_174_smooth_Mand01.wav,smooth,0:51:22.397,3082.397,0.816,0,3082.397
-JBIL_175_straight_Mand01.wav,straight,0:51:32.457,3092.457,0.667,0,3092.457
-JBIL_176_true_Mand01.wav,true,0:51:50.308,3110.308,0.75,0,3110.308
-JBIL_177_green_Mand01.wav,green,0:52:02.453,3122.453,0.791,0,3122.453
-JBIL_178_yellow_Mand01.wav,yellow,0:52:27.528,3147.528,0.717,0,3147.528
-JBIL_179_red_Mand01.wav,red,0:52:31.373,3151.373,0.75,0,3151.373
-JBIL_180_black_Mand01.wav,black,0:52:35.461,3155.461,0.799,0,3155.461
-JBIL_181_white_a_Mand01.wav,white a,0:52:40.186,3160.186,0.733,0,3160.186
-JBIL_181_white_b_Mand01.wav,white b,0:52:42.547,3162.547,0.692,0,3162.547
-JBIL_182_go_pres_sg_Mand01.wav,,0:53:52.214,3232.214,0.89,0,3232.214
-JBIL_183_go_past_sg_Mand01.wav,,0:55:04.509,3304.509,0.692,0,3304.509
-JBIL_184_come_pres_sg_Mand01.wav,,0:55:43.875,3343.875,0.667,0,3343.875
-JBIL_185_come_past_sg_Mand01.wav,,0:56:07.606,3367.606,0.832,0,3367.606
-KLQ_186_turn_tr__pres_sg_Mand01.wav,,1:01:28.424,3688.424,0.961,0,3688.424
-KLQ_187_turn_tr_past_sg_Mand01.wav,,1:01:35.645,3695.645,0.961,0,3695.645
-JBIL_189_stand_past_sg_Mand01.wav,,1:02:22.631,3742.631,1.029,0,3742.631
-JBIL_188_stand_pres_sg_Mand01.wav,,1:02:44.457,3764.457,0.917,0,3764.457
-JBIL_191_sit_past_sg_Mand01.wav,,1:03:02.642,3782.642,0.985,0,3782.642
-JBIL_190_sit_pres_sg_Mand01.wav,,1:03:26.563,3806.563,0.756,0,3806.563
-JBIL_192_lie_down_pres_sg_Mand01.wav,,1:04:03.000,3843.0,0.893,0,3843.0
-JBIL_193_lie_down_past_sg_Mand01.wav,,1:04:15.422,3855.422,0.911,0,3855.422
-JBIL_194_fall_pres_sg_Mand01.wav,,1:05:12.696,3912.696,0.502,0,3912.696
-JBIL_195_fall_past_sg_Mand01.wav,,1:05:18.421,3918.421,0.905,0,3918.421
-JBIL_197_walk_past_sg_Mand01.wav,,1:06:08.056,3968.056,0.799,0,3968.056
-JBIL_196_walk_pres_sg_Mand01.wav,,1:06:12.461,3972.461,0.936,0,3972.461
-JBIL_198_run_pres_sg_Mand01.wav,,1:07:19.792,4039.792,0.682,0,4039.792
-JBIL_199_run_past_sg_Mand01.wav,,1:07:29.225,4049.225,0.675,0,4049.225
-JBIL_200_swim_pres_sg_Mand01.wav,,1:08:11.077,4091.077,0.694,0,4091.077
-JBIL_201_swim_past_sg_Mand01.wav,,1:08:17.702,4097.702,0.812,0,4097.702
-JBIL_202_fly_pres_sg_Mand01.wav,,1:08:50.701,4130.701,0.948,0,4130.701
-JBIL_203_fly_past_sg_Mand01.wav,,1:09:03.211,4143.211,0.892,0,4143.211
-JBIL_204_see_pres_sg_Mand01.wav,,1:09:20.604,4160.604,0.756,0,4160.604
-JBIL_205_see_past_sg_Mand01.wav,,1:09:39.631,4179.631,0.812,0,4179.631
-JBIL_206_hear_pres_sg_Mand01.wav,,1:11:30.331,4290.331,0.818,0,4290.331
-JBIL_207_hear_past_sg_Mand01.wav,,1:11:44.392,4304.392,0.911,0,4304.392
-JBIL_208_smell_pres_sg_Mand01.wav,,1:12:57.398,4377.398,0.682,0,4377.398
-JBIL_209_smell__past_sg_Mand01.wav,,1:13:06.193,4386.193,0.961,0,4386.193
-JBIL_210_do_pres_sg_Mand01.wav,,1:14:00.305,4440.305,0.39,0,4440.305
-JBIL_211_do_past_sg_Mand01.wav,,1:14:07.000,4447.0,0.481,0,4447.0
-JBIL_212_live_pres_sg_Mand01.wav,,1:15:24.136,4524.136,0.744,0,4524.136
-JBIL_213_live_past_sg_Mand01.wav,,1:15:27.928,4527.928,0.706,0,4527.928
-JBIL_214_die_pres_sg_Mand01.wav,,1:15:42.795,4542.795,0.595,0,4542.795
-JBIL_215_die_past_sg_Mand01.wav,,1:15:48.719,4548.719,0.75,0,4548.719
-JBIL_216_sleep_pres_sg_Mand01.wav,,1:16:06.088,4566.088,0.607,0,4566.088
-JBIL_217_sleep_past_sg_Mand01.wav,,1:16:10.939,4570.939,0.527,0,4570.939
-JBIL_218_breathe_pres_sg_Mand01.wav,,1:16:18.529,4578.529,0.874,0,4578.529
-JBIL_219_breathe_past_sg_Mand01.wav,,1:16:24.058,4584.058,0.837,0,4584.058
-JBIL_220_blow_pres_sg_Mand01.wav,,1:16:48.823,4608.823,0.601,0,4608.823
-JBIL_221_blow_past_sg_Mand01.wav,,1:16:55.785,4615.785,0.793,0,4615.785
-JBIL_222_swell_pres_sg_Mand01.wav,,1:17:19.391,4639.391,0.837,0,4639.391
-JBIL_223_swell_past_sg_Mand01.wav,,1:17:24.452,4644.452,0.781,0,4644.452
-JBIL_224_spit_pres_sg_Mand01.wav,,1:17:49.732,4669.732,0.868,0,4669.732
-JBIL_225_spit_past_sg_Mand01.wav,,1:17:55.000,4675.0,0.738,0,4675.0
-JBIL_226_vomit_pres_sg_Mand01.wav,,1:18:14.340,4694.34,0.936,0,4694.34
-JBIL_227_vomit_past_sg_Mand01.wav,,1:18:21.439,4701.439,0.874,0,4701.439
-JBIL_228_bite_pres_sg_Mand01.wav,,1:19:00.390,4740.39,0.719,0,4740.39
-JBIL_229_bite_past_sg_Mand01.wav,,1:19:05.726,4745.726,0.731,0,4745.726
-JBIL_230_eat_pres_sg_Mand01.wav,,1:19:22.882,4762.882,0.514,0,4762.882
-JBIL_231_eat_past_sg_Mand01.wav,,1:19:46.246,4786.246,0.626,0,4786.246
-JBIL_234_fear_pres_sg_Mand01.wav,,1:28:21.139,5301.139,0.734,0,5301.139
-JBIL_235_fear_past_sg_Mand01.wav,,1:28:30.000,5310.0,0.895,0,5310.0
-JBIL_236_know_pres_sg_Mand01.wav,,1:28:42.640,5322.64,0.811,0,5322.64
-JBIL_237_know_past_sg_Mand01.wav,,1:28:49.174,5329.174,0.954,0,5329.174
-JBIL_238_think_pres_sg_Mand01.wav,,1:29:19.126,5359.126,0.873,0,5359.126
-JBIL_239_think_past_sg_Mand01.wav,,1:29:25.369,5365.369,0.789,0,5365.369
-JBIL_240_count_pres_sg_Mand01.wav,,1:30:45.266,5445.266,0.888,0,5445.266
-JBIL_241_count_past_sg_Mand01.wav,,1:30:52.425,5452.425,0.921,0,5452.425
-JBIL_242_laugh_pres_sg_Mand01.wav,,1:31:35.887,5495.887,0.987,0,5495.887
-JBIL_243_laugh_past_sg_Mand01.wav,,1:31:42.095,5502.095,0.904,0,5502.095
-JBIL_244_cry_pres_sg_Mand01.wav,,1:31:55.770,5515.77,0.833,0,5515.77
-JBIL_245_cry_past_sg_a_Mand01.wav,,1:32:09.443,5529.443,0.712,0,5529.443
-JBIL_245_cry_past_sg_b_Mand01.wav,,1:32:16.681,5536.681,0.613,0,5536.681
-JBIL_246_say_pres_sg_Mand01.wav,,1:32:33.000,5553.0,0.614,0,5553.0
-JBIL_247_say_past_sg_Mand01.wav,,1:32:39.251,5559.251,0.748,0,5559.251
-JBIL_248_sing_pres_sg_Mand01.wav,,1:33:13.273,5593.273,0.933,0,5593.273
-JBIL_249_sing_past_sg_Mand01.wav,,1:33:28.826,5608.826,1.122,0,5608.826
-JBIL_250_play_pres_sg_Mand01.wav,,1:33:40.380,5620.38,0.962,0,5620.38
-JBIL_251_play_past_sg_Mand01.wav,,1:33:47.571,5627.571,0.977,0,5627.571
-JBIL_252_give_pres_sg_Mand01.wav,,1:34:20.678,5660.678,0.769,0,5660.678
-JBIL_253_give_past_sg_Mand01.wav,,1:34:26.729,5666.729,1.088,0,5666.729
-JBIL_254_fight_pres_sg_Mand01.wav,,1:35:03.206,5703.206,0.793,0,5703.206
-JBIL_255_fight_past_sg_Mand01.wav,,1:35:10.137,5710.137,1.006,0,5710.137
-JBIL_256_kill_pres_sg_Mand01.wav,,1:35:25.173,5725.173,0.826,0,5725.173
-JBIL_257_kill_past_sg_Mand01.wav,,1:35:31.322,5731.322,0.846,0,5731.322
-JBIL_258_take_pres_sg_Mand01.wav,,1:35:48.768,5748.768,1.064,0,5748.768
-JBIL_259_take_past_sg_Mand01.wav,,1:35:53.626,5753.626,0.977,0,5753.626
-JBIL_260_push_pres_sg_a_Mand01.wav,,1:36:15.857,5775.857,0.627,0,5775.857
-JBIL_261_push_past_sg_a_Mand01.wav,,1:36:19.576,5779.576,0.875,0,5779.576
-JBIL_260_push_pres_sg_b_Mand01.wav,,1:37:02.276,5822.276,0.61,0,5822.276
-JBIL_261_push_past_sg_b_Mand01.wav,,1:37:21.544,5841.544,0.832,0,5841.544
-JBIL_262_pull_pres_sg_Mand01.wav,,1:38:07.371,5887.371,0.75,0,5887.371
-JBIL_263_pull_past_sg_Mand01.wav,,1:38:12.688,5892.688,0.816,0,5892.688
-JBIL_264_close_pres_sg_Mand01.wav,,1:39:33.000,5973.0,0.785,0,5973.0
-JBIL_265_close_past_sg_Mand01.wav,,1:39:38.107,5978.107,0.892,0,5978.107
-JBIL_266_tie_pres_sg_a_Mand01.wav,,1:40:58.919,6058.919,0.956,0,6058.919
-JBIL_266_tie_pres_sg_b_Mand01.wav,,1:41:09.559,6069.559,0.898,0,6069.559
-JBIL_267_tie_past_sg_a_Mand01.wav,,1:41:40.748,6100.748,0.973,0,6100.748
-JBIL_267_tie_past_sg_b_Mand01.wav,,1:41:47.764,6107.764,0.898,0,6107.764
-JBIL_268_carry_pres_sg_a_Mand01.wav,,1:42:04.573,6124.573,0.849,0,6124.573
-JBIL_268_carry_pres_sg_b_Mand01.wav,,1:42:18.000,6138.0,0.829,0,6138.0
-JBIL_269_carry_past_sg_a_Mand01.wav,,1:42:46.802,6166.802,0.709,0,6166.802
-JBIL_269_carry_past_sg_b_Mand01.wav,,1:42:54.367,6174.367,0.907,0,6174.367
-JBIL_270_hit_pres_sg_Mand01.wav,,1:43:14.078,6194.078,0.766,0,6194.078
-JBIL_271_hit_past_sg_Mand01.wav,,1:43:26.218,6206.218,0.964,0,6206.218
-JBIL_272_cut_pres_sg_Mand01.wav,,1:43:43.646,6223.646,0.931,0,6223.646
-JBIL_273_cut_past_sg_Mand01.wav,,1:43:52.156,6232.156,0.742,0,6232.156
-JBIL_274_scratch_pres_sg_a_Mand01.wav,,1:44:19.813,6259.813,0.94,0,6259.813
-JBIL_274_scratch_pres_sg_b_Mand01.wav,,1:44:29.204,6269.204,0.795,0,6269.204
-JBIL_275_scratch_past_sg_a_Mand01.wav,,1:44:48.308,6288.308,0.824,0,6288.308
-JBIL_275_scratch_past_sg_b_Mand01.wav,,1:44:56.126,6296.126,0.873,0,6296.126
-JBIL_276_wash_pres_sg_a_Mand01.wav,,1:45:20.785,6320.785,0.923,0,6320.785
-JBIL_276_wash_pres_sg_b_Mand01.wav,,1:45:30.622,6330.622,0.898,0,6330.622
-JBIL_277_wash_past_sg_a_Mand01.wav,,1:45:42.000,6342.0,0.881,0,6342.0
-JBIL_277_wash_past_sg_b_Mand01.wav,,1:45:47.794,6347.794,1.014,0,6347.794
-JBIL_278_sew_pres_sg_Mand01.wav,,1:46:05.164,6365.164,1.047,0,6365.164
-JBIL_279_sew_past_sg_Mand01.wav,,1:46:18.182,6378.182,0.931,0,6378.182
-KLQ_280_burn_intr_pres_sg_Mand01.wav,,1:46:38.140,6398.14,0.859,0,6398.14
-KLQ_281_burn_intr_past_sg_Mand01.wav,,1:46:44.220,6404.22,1.039,0,6404.22
-JBIL_282_freeze_pres_sg_a_Mand01.wav,,1:48:48.940,6528.94,1.059,0,6528.94
-JBIL_283_freeze_past_sg_a_Mand01.wav,,1:48:59.416,6539.416,0.915,0,6539.416
-JBIL_282_freeze_pres_sg_b_Mand01.wav,,1:50:03.628,6603.628,1.006,0,6603.628
-JBIL_283_freeze_past_sg_b_Mand01.wav,,1:50:11.177,6611.177,0.94,0,6611.177
-JBIL_284_throw_pres_sg_a_Mand01.wav,,1:51:02.236,6662.236,0.882,0,6662.236
-JBIL_285_throw_past_sg_a_Mand01.wav,,1:51:09.485,6669.485,1.039,0,6669.485
-JBIL_284_throw_pres_sg_b_Mand01.wav,,1:51:18.512,6678.512,1.022,0,6678.512
-JBIL_285_throw_past_sg_b_Mand01.wav,,1:51:23.449,6683.449,0.89,0,6683.449
-JBIL_286_hunt_pres_sg_a_Mand01.wav,,1:53:33.057,6813.057,0.725,0,6813.057
-JBIL_287_hunt_past_sg_b_Mand01.wav,,1:53:38.698,6818.698,0.634,0,6818.698
-JBIL_286_hunt_pres_sg_b_Mand01.wav,,1:54:33.000,6873.0,1.487,0,6873.0
-JBIL_287_hunt_past_sg_a_Mand01.wav,,1:54:45.346,6885.346,1.022,0,6885.346
-JBIL_288_pour_pres_sg_Mand01.wav,,1:56:12.382,6972.382,0.799,0,6972.382
-JBIL_289_pour_past_sg_Mand01.wav,,1:56:19.753,6979.753,0.907,0,6979.753
-JBIL_290_grind_pres_sg_Mand01.wav,,1:56:43.439,7003.439,0.742,0,7003.439
-JBIL_291_grind_past_sg_Mand01.wav,,1:56:51.121,7011.121,0.878,0,7011.121
-JBIL_292_dig_pres_sg_Mand01.wav,,1:57:24.450,7044.45,0.898,0,7044.45
-JBIL_293_dig_past_sg_Mand01.wav,,1:57:31.629,7051.629,0.89,0,7051.629
-JBIL_295_hide_past_sg_Mand01.wav,,1:58:09.784,7089.784,0.94,0,7089.784
-JBIL_294_hide_pres_sg_Mand01.wav,,1:58:26.349,7106.349,0.907,0,7106.349
-JBIL_296_sweep_pres_sg_Mand01.wav,,1:58:51.528,7131.528,0.824,0,7131.528
-JBIL_297_sweep_past_sg_Mand01.wav,,1:59:02.368,7142.368,0.989,0,7142.368
-JBIL_298_this_Mand01.wav,this,1:59:19.562,7159.562,0.667,0,7159.562
-JBIL_299_that_Mand01.wav,that,1:59:25.163,7165.163,0.709,0,7165.163
-JBIL_300_here_Mand01.wav,here,1:59:33.140,7173.14,0.859,0,7173.14
-JBIL_301_near_Mand01.wav,near,1:59:40.639,7180.639,0.569,0,7180.639
-JBIL_302_there_Mand01.wav,there,1:59:50.105,7190.105,0.808,0,7190.105
-JBIL_303_far_a_Mand01.wav,far a,1:59:58.589,7198.589,0.75,0,7198.589
-JBIL_303_far_b_Mand01.wav,far b,2:00:31.000,7231.0,0.668,0,7231.0
-KLQ_304_to_the_right_Mand01.wav,,2:00:44.497,7244.497,1.162,0,7244.497
-KLQ_305_to_the_left_Mand01.wav,,2:00:56.130,7256.13,1.072,0,7256.13
-JBIL_306_under_Mand01.wav,under,2:01:03.641,7263.641,0.834,0,7263.641
-JBIL_307_with_Mand01.wav,with,2:01:12.197,7272.197,0.989,0,7272.197
-JBIL_308_not_Mand01.wav,not,2:01:34.158,7294.158,0.989,0,7294.158
-JBIL_309_today_Mand01.wav,today,2:01:46.498,7306.498,0.892,0,7306.498
-JBIL_310_yesterday_Mand01.wav,yesterday,2:01:57.132,7317.132,0.867,0,7317.132
-JBIL_311_two_days_ago_Mand01.wav,two days ago,2:02:10.984,7330.984,0.834,0,7330.984
-JBIL_312_tomorrow_Mand01.wav,tomorrow,2:02:19.016,7339.016,0.776,0,7339.016
-JBIL_313_the_day_after_tomorrow_Mand01.wav,the day after tomorrow,2:02:22.295,7342.295,0.911,0,7342.295
-JBIL_314_where_Mand01.wav,where,2:02:27.734,7347.734,1.05,0,7347.734
-JBIL_315_when_Mand01.wav,when,2:02:33.700,7353.7,0.729,0,7353.7
-JBIL_316_how_Mand01.wav,how,2:02:39.622,7359.622,0.758,0,7359.622
-JBIL_317_who_Mand01.wav,who,2:02:55.854,7375.854,0.729,0,7375.854
-JBIL_318_what_Mand01.wav,what,2:03:26.337,7406.337,0.656,0,7406.337
-JBIL_319_i_see_you_Mand01.wav,i see you,2:07:39.553,7659.553,1.662,0,7659.553
-JBIL_320_you_see_me_Mand01.wav,you see me,2:08:06.856,7686.856,1.721,0,7686.856
-KLQ_320_you_sg_Mand01.wav,,2:08:06.856,7686.856,1.721,0,7686.856
-JBIL_320_you_saw_me_Mand01.wav,you saw me,2:09:08.689,7748.689,1.867,0,7748.689
-JBIL_319_i_saw_you_Mand01.wav,i saw you,2:09:16.658,7756.658,1.75,0,7756.658
-JBIL_321_we_Mand01.wav,we,2:10:48.905,7848.905,0.758,0,7848.905
-KLQ_322_you_pl_Mand01.wav,,2:10:54.392,7854.392,0.7,0,7854.392
-JBIL_323_they_Mand01.wav,they,2:11:01.788,7861.788,0.904,0,7861.788
-KLQ_001_1_forehead_Mand01.wav,klq 001 1 forehead,2:12:01.698,7921.698,0.831,0,7921.698
-KLQ_001_3_eyelid_Mand01.wav,klq 001 3 eyelid,2:12:52.000,7972.0,1.694,0,7972.0
-KLQ_001_3_eyebrow_Mand01.wav,klq 001 3 eyebrow,2:13:40.421,8020.421,0.918,0,8020.421
-KLQ_001_6_earlobe_Mand01.wav,klq 001 6 earlobe,2:14:02.276,8042.276,0.773,0,8042.276
-KLQ_001_8_armpit_Mand01.wav,klq 001 8 armpit,2:18:17.862,8297.862,0.962,0,8297.862
-KLQ_001_1_uterus_Mand01.wav,klq 001 1 uterus,2:19:43.146,8383.146,0.61,0,8383.146
-KLQ_001_1_bladder_Mand01.wav,klq 001 1 bladder,2:19:56.554,8396.554,0.634,0,8396.554
-KLQ_001_1_ankle_Mand01.wav,klq 001 1 ankle,2:21:34.869,8494.869,1.13,0,8494.869
-KLQ_002_6_grandfather_Mand01.wav,klq 002 6 grandfather,2:22:00.424,8520.424,0.831,0,8520.424
-KLQ_002_7_baby_a_Mand01.wav,klq 002 7 baby a,2:22:29.333,8549.333,1.152,0,8549.333
-KLQ_002_7_baby_b_Mand01.wav,klq 002 7 baby b,2:24:55.865,8695.865,0.685,0,8695.865
-KLQ_002_1_paternal_uncles_son_a_Mand01.wav,klq 002 1 paternal uncles son a,2:25:06.458,8706.458,1.094,0,8706.458
-KLQ_002_1_paternal_uncles_son_b_Mand01.wav,klq 002 1 paternal uncles son b,2:25:06.458,8706.458,1.094,0,8706.458
-KLQ_002_9_paternal_uncle_Mand01.wav,klq 002 9 paternal uncle,2:25:06.458,8706.458,1.094,0,8706.458
-KLQ_002_1_maternal_uncle_Mand01.wav,klq 002 1 maternal uncle,2:25:11.389,8711.389,0.831,0,8711.389
-KLQ_002_1_paternal_aunt_Mand01.wav,klq 002 1 paternal aunt,2:25:16.805,8716.805,1.194,0,8716.805
-KLQ_002_1_maternal_aunt_Mand01.wav,klq 002 1 maternal aunt,2:25:24.143,8724.143,0.671,0,8724.143
-KLQ_002_1_maternal_aunts_daughter_Mand01.wav,klq 002 1 maternal aunts daughter,2:25:24.143,8724.143,0.671,0,8724.143
-KLQ_002_1_brother_of_husband_a_Mand01.wav,klq 002 1 brother of husband a,2:26:22.558,8782.558,1.108,0,8782.558
-KLQ_002_1_brother_of_husband_b_Mand01.wav,klq 002 1 brother of husband b,2:26:39.055,8799.055,1.662,0,8799.055
-KLQ_002_1_wife_of_brother_Mand01.wav,klq 002 1 wife of brother,2:28:04.250,8884.25,0.889,0,8884.25
-KLQ_002_1_sister_of_husband_a_Mand01.wav,klq 002 1 sister of husband a,2:28:25.773,8905.773,1.298,0,8905.773
-KLQ_002_1_sister_of_husband_b_Mand01.wav,klq 002 1 sister of husband b,2:28:34.919,8914.919,1.342,0,8914.919
-KLQ_002_1_brother_of_wife_a_Mand01.wav,klq 002 1 brother of wife a,2:29:06.858,8946.858,0.889,0,8946.858
-KLQ_002_1_brother_of_wife_b_Mand01.wav,klq 002 1 brother of wife b,2:29:11.803,8951.803,1.094,0,8951.803
-KLQ_002_1_sister_of_wife_a_Mand01.wav,klq 002 1 sister of wife a,2:29:42.730,8982.73,1.269,0,8982.73
-KLQ_002_1_sister_of_wife_b_Mand01.wav,klq 002 1 sister of wife b,2:29:50.243,8990.243,1.254,0,8990.243
-KLQ_002_2_son_of_sister_Mand01.wav,klq 002 2 son of sister,2:30:05.599,9005.599,0.948,0,9005.599
-KLQ_002_2_daughter_of_sister_Mand01.wav,klq 002 2 daughter of sister,2:30:31.758,9031.758,1.152,0,9031.758
-KLQ_002_2_son_of_brother_Mand01.wav,klq 002 2 son of brother,2:30:44.519,9044.519,1.21,0,9044.519
-KLQ_002_2_daughter_of_brother_Mand01.wav,klq 002 2 daughter of brother,2:31:05.172,9065.172,1.123,0,9065.172
-KLQ_002_2_step-father_Mand01.wav,klq 002 2 step-father,2:31:59.339,9119.339,1.152,0,9119.339
-KLQ_002_2_step-mother_Mand01.wav,klq 002 2 step-mother,2:32:11.770,9131.77,1.196,0,9131.77
-KLQ_002_2_step-son_Mand01.wav,klq 002 2 step-son,2:32:43.494,9163.494,1.064,0,9163.494
-KLQ_002_2_step-daughter_Mand01.wav,klq 002 2 step-daughter,2:32:56.797,9176.797,0.802,0,9176.797
-KLQ_003_2_thunder_Mand01.wav,klq 003 2 thunder,2:34:26.000,9266.0,0.881,0,9266.0
-KLQ_003_2_lightning_Mand01.wav,klq 003 2 lightning,2:34:30.207,9270.207,0.86,0,9270.207
-KLQ_003_6_hail_Mand01.wav,klq 003 6 hail,2:36:52.815,9412.815,0.962,0,9412.815
-KLQ_003_7_storm_Mand01.wav,klq 003 7 storm,2:39:07.084,9547.084,0.915,0,9547.084
-KLQ_003_1_shade_Mand01.wav,klq 003 1 shade,2:39:13.283,9553.283,0.948,0,9553.283
-KLQ_003_1_god_Mand01.wav,klq 003 1 god,2:39:23.275,9563.275,0.724,0,9563.275
-KLQ_003_1_earthquake_Mand01.wav,klq 003 1 earthquake,2:39:30.810,9570.81,0.948,0,9570.81
-KLQ_003_1_hill_Mand01.wav,klq 003 1 hill,2:39:49.720,9589.72,0.554,0,9589.72
-KLQ_004_5_high_Mand01.wav,klq 004 5 high,2:39:56.336,9596.336,0.663,0,9596.336
-KLQ_004_1_strong_Mand01.wav,klq 004 1 strong,2:40:24.648,9624.648,0.68,0,9624.648
-KLQ_004_1_weak_Mand01.wav,klq 004 1 weak,2:40:33.000,9633.0,0.65,0,9633.0
-KLQ_004_1_light_Mand01.wav,klq 004 1 light,2:40:38.843,9638.843,0.723,0,9638.843
-KLQ_004_1_soft_Mand01.wav,klq 004 1 soft,2:40:43.373,9643.373,0.723,0,9643.373
-KLQ_004_2_happy_Mand01.wav,klq 004 2 happy,2:40:50.598,9650.598,0.822,0,9650.598
-KLQ_004_2_sad_Mand01.wav,klq 004 2 sad,2:40:55.856,9655.856,0.767,0,9655.856
-KLQ_004_2_tired_Mand01.wav,klq 004 2 tired,2:41:12.852,9672.852,0.723,0,9672.852
-KLQ_004_2_deep_Mand01.wav,klq 004 2 deep,2:41:28.000,9688.0,0.712,0,9688.0
-KLQ_004_3_shallow_Mand01.wav,klq 004 3 shallow,2:41:53.433,9713.433,0.566,0,9713.433
-KLQ_004_3_pregnant_Mand01.wav,klq 004 3 pregnant,2:42:00.648,9720.648,0.778,0,9720.648
-KLQ_004_3_beautiful_Mand01.wav,klq 004 3 beautiful,2:42:09.524,9729.524,0.756,0,9729.524
-KLQ_004_3_clean_Mand01.wav,klq 004 3 clean,2:42:19.746,9739.746,0.603,0,9739.746
-KLQ_005_7_brown_Mand01.wav,klq 005 7 brown,2:42:31.482,9751.482,0.8,0,9751.482
-KLQ_006_2_to_sleep_Mand01.wav,klq 006 2 to sleep,2:46:01.102,9961.102,0.791,0,9961.102
-KLQ_006_0_to_be_born_Mand01.wav,klq 006 0 to be born,2:47:53.133,10073.133,0.964,0,10073.133
-KLQ_006_2_to_wake_up_Mand01.wav,klq 006 2 to wake up,2:48:49.879,10129.879,0.931,0,10129.879
-KLQ_006_4_to_lie_down_Mand01.wav,klq 006 4 to lie down,2:49:25.147,10165.147,0.94,0,10165.147
-KLQ_006_5_to_rise_Mand01.wav,klq 006 5 to rise,2:49:35.131,10175.131,0.799,0,10175.131
-KLQ_006_7_to_wash_Mand01.wav,klq 006 7 to wash,2:49:56.068,10196.068,0.791,0,10196.068
-KLQ_006_7_to_buy_Mand01.wav,klq 006 7 to buy,2:50:03.084,10203.084,0.915,0,10203.084
-KLQ_006_9_to_sell_Mand01.wav,klq 006 9 to sell,2:50:24.259,10224.259,0.832,0,10224.259
-KLQ_006_0_to_remember_Mand01.wav,klq 006 0 to remember,2:50:35.786,10235.786,1.377,0,10235.786
-KLQ_006_1_to_forget_Mand01.wav,klq 006 1 to forget,2:51:28.505,10288.505,1.022,0,10288.505
-KLQ_006_1_to_search_Mand01.wav,klq 006 1 to search,2:51:39.462,10299.462,1.113,0,10299.462
-KLQ_006_1_to_find_Mand01.wav,klq 006 1 to find,2:52:11.381,10331.381,1.245,0,10331.381
-KLQ_006_1_to_speak_Mand01.wav,klq 006 1 to speak,2:52:31.713,10351.713,0.791,0,10351.713
-KLQ_006_1_to_grow_up_Mand01.wav,klq 006 1 to grow up,2:52:38.287,10358.287,0.824,0,10358.287
-KLQ_007_0_to_go_Mand01.wav,klq 007 0 to go,2:52:47.329,10367.329,0.569,0,10367.329
-KLQ_007_2_to_come_Mand01.wav,klq 007 2 to come,2:53:05.275,10385.275,0.651,0,10385.275
-KLQ_007_5_to_return_Mand01.wav,klq 007 5 to return,2:53:40.910,10420.91,0.981,0,10420.91
-KLQ_007_7_to_enter_Mand01.wav,klq 007 7 to enter,2:54:21.715,10461.715,1.195,0,10461.715
-KLQ_007_9_to_run_Mand01.wav,klq 007 9 to run,2:54:34.871,10474.871,0.956,0,10474.871
-KLQ_007_0_to_walk_Mand01.wav,klq 007 0 to walk,2:54:46.262,10486.262,0.931,0,10486.262
-KLQ_007_1_to_approach_Mand01.wav,klq 007 1 to approach,2:54:54.204,10494.204,1.03,0,10494.204
-KLQ_007_1_to_fly_Mand01.wav,klq 007 1 to fly,2:55:20.142,10520.142,0.94,0,10520.142
-KLQ_007_1_to_pull_Mand01.wav,klq 007 1 to pull,2:55:26.816,10526.816,0.865,0,10526.816
-KLQ_007_1_to_push_Mand01.wav,klq 007 1 to push,2:55:44.131,10544.131,0.868,0,10544.131
-KLQ_007_1_to_jump_Mand01.wav,klq 007 1 to jump,2:56:08.496,10568.496,0.718,0,10568.496
-KLQ_008_0_to_see_Mand01.wav,klq 008 0 to see,2:56:30.000,10590.0,0.716,0,10590.0
-KLQ_008_1_to_look_at_Mand01.wav,klq 008 1 to look at,2:56:37.852,10597.852,0.931,0,10597.852
-KLQ_008_3_to_hear_Mand01.wav,klq 008 3 to hear,2:57:26.000,10646.0,0.781,0,10646.0
-KLQ_008_4_to_listen_to_Mand01.wav,klq 008 4 to listen to,2:58:22.132,10702.132,0.808,0,10702.132
-KLQ_008_5_to_understand_Mand01.wav,klq 008 5 to understand,2:58:35.495,10715.495,0.832,0,10715.495
-KLQ_009_0_to_kill_Mand01.wav,klq 009 0 to kill,2:59:00.423,10740.423,0.651,0,10740.423
-KLQ_009_1_to_hit_a_Mand01.wav,klq 009 1 to hit a,3:01:13.118,10873.118,0.799,0,10873.118
-KLQ_009_1_to_hit_b_Mand01.wav,klq 009 1 to hit b,3:01:21.253,10881.253,0.931,0,10881.253
-KLQ_009_3_to_cut_Mand01.wav,klq 009 3 to cut,3:01:30.523,10890.523,0.643,0,10890.523
-KLQ_009_5_to_slap_Mand01.wav,klq 009 5 to slap,3:02:35.267,10955.267,0.931,0,10955.267
-KLQ_009_6_to_bite_Mand01.wav,klq 009 6 to bite,3:03:24.787,11004.787,0.874,0,11004.787
-KLQ_010_3_inside_the_box_Mand01.wav,klq 010 3 inside the box,3:05:03.266,11103.266,0.935,0,11103.266
-KLQ_010_4_outside_Mand01.wav,klq 010 4 outside,3:05:09.353,11109.353,0.798,0,11109.353
-KLQ_010_1_last_year_Mand01.wav,klq 010 1 last year,3:06:58.226,11218.226,0.773,0,11218.226
-KLQ_010_1_two_years_ago_Mand01.wav,klq 010 1 two years ago,3:07:04.124,11224.124,0.945,0,11224.124
-JBIL_005_1_i_eat_apples_in_the_morning_Mand01.wav,1 i eat apples in the morning,3:07:14.000,11234.0,0.742,0,11234.0
-KLQ_010_1_morning_Mand01.wav,klq 010 1 morning,3:07:14.000,11234.0,0.742,0,11234.0
-KLQ_010_1_midday_Mand01.wav,klq 010 1 midday,3:07:20.370,11240.37,0.629,0,11240.37
-KLQ_010_1_afternoon_Mand01.wav,klq 010 1 afternoon,3:07:40.000,11260.0,0.677,0,11260.0
-KLQ_010_1_evening_Mand01.wav,klq 010 1 evening,3:08:08.776,11288.776,0.774,0,11288.776
-KLQ_011_0_monday_Mand01.wav,klq 011 0 monday,3:08:20.764,11300.764,0.635,0,11300.764
-KLQ_011_1_tuesday_Mand01.wav,klq 011 1 tuesday,3:08:25.468,11305.468,0.847,0,11305.468
-KLQ_011_3_wednesday_Mand01.wav,klq 011 3 wednesday,3:08:46.643,11326.643,0.815,0,11326.643
-KLQ_011_4_thursday_Mand01.wav,klq 011 4 thursday,3:08:59.000,11339.0,0.798,0,11339.0
-KLQ_011_5_friday_Mand01.wav,klq 011 5 friday,3:09:05.624,11345.624,0.741,0,11345.624
-KLQ_011_5_saturday_Mand01.wav,klq 011 5 saturday,3:09:10.515,11350.515,0.709,0,11350.515
-KLQ_011_6_sunday_Mand01.wav,klq 011 6 sunday,3:09:15.375,11355.375,0.684,0,11355.375
-KLQ_012_0_what_Mand01.wav,klq 012 0 what,3:09:27.458,11367.458,0.635,0,11367.458
-KLQ_012_6_how_many_Mand01.wav,klq 012 6 how many,3:10:47.371,11447.371,0.628,0,11447.371
-KLQ_012_6_how_many_boys_are_in_the_class_Mand01.wav,klq 012 6 how many boys are in the class,3:10:47.371,11447.371,0.628,0,11447.371
-KLQ_012_5_how_much_Mand01.wav,klq 012 5 how much,3:10:52.616,11452.616,0.733,0,11452.616
-KLQ_012_5_how_much_salt_is_in_the_bag_Mand01.wav,klq 012 5 how much salt is in the bag,3:10:52.616,11452.616,0.733,0,11452.616
+concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
+1,one,7.617,0.9929999999999994,audio/Mand01/JBIL_1_A_one_Mand01.wav,ɛkiːk,یەکییگ
+102,leaf,1751.627,0.9500000000000455,audio/Mand01/JBIL_102_A_leaf_Mand01.wav,waraqaː,وەڕکا
+103,bark,1783.0,0.91599999999994,audio/Mand01/JBIL_103_A_bark_Mand01.wav,tykəldar,تۊەکڵ دار
+104,root,1938.079,0.9809999999999945,audio/Mand01/JBIL_104_A_root_Mand01.wav,bendar,بەن
+106,seed,1842.262,0.73700000000008,audio/Mand01/JBIL_106_A_seed_Mand01.wav,tu,تو
+109,cloud,1867.407,0.5920000000000982,audio/Mand01/JBIL_109_A_cloud_Mand01.wav,haʊr,هاور
+111,sun,1884.606,0.7660000000000764,audio/Mand01/JBIL_111_A_sun_Mand01.wav,xwar,خو
+113,moon,1952.542,0.7420000000001892,audio/Mand01/JBIL_113_A_moon_Mand01.wav,maŋk,مانگ
+114,night,1958.092,0.775000000000091,audio/Mand01/JBIL_114_A_night_Mand01.wav,ʃaʊ,شەو
+115,star,1966.282,0.8650000000000091,audio/Mand01/JBIL_115_A_star_Mand01.wav,nadʒima,نەجمە
+118,mountain,2074.906,0.7420000000001892,audio/Mand01/JBIL_118_A_mountain_Mand01.wav,dʒɔal,جەوەل
+119,stone,2086.263,0.7359999999998763,audio/Mand01/JBIL_119_A_stone_Mand01.wav,kutʃiɡ,کوچگ
+120,sand,2133.784,0.5770000000002256,audio/Mand01/JBIL_120_A_sand_Mand01.wav,qom,گوم
+122,water,2168.41,0.5889999999999418,audio/Mand01/JBIL_122_A_water_Mand01.wav,aːu,ئەو
+124,snow,2194.135,0.543999999999869,audio/Mand01/JBIL_124_A_snow_Mand01.wav,wʌfʌd,وەفر
+126,rain,2206.764,0.9890000000000327,audio/Mand01/JBIL_126_A_rain_Mand01.wav,waɾan,واران
+130,fire,2248.75,0.6840000000001965,audio/Mand01/JBIL_130_A_fire_Mand01.wav,aːɡɪr,ئاگەر
+131,smoke,2253.0,0.6430000000000291,audio/Mand01/JBIL_131_A_smoke_Mand01.wav,dykal,دۊ کەڵ
+132,ash,2287.833,0.75,audio/Mand01/JBIL_132_A_ash_Mand01.wav,xol,خوال
+142,milk,2533.306,0.693000000000211,audio/Mand01/JBIL_142_A_milk_Mand01.wav,ʃiːr,شیر
+143,honey,2541.0,0.76299999999992,audio/Mand01/JBIL_143_A_honey_Mand01.wav,asɛl,ئەسەل
+144,walnut,2546.651,0.9479999999998654,audio/Mand01/JBIL_144_A_walnut_Mand01.wav,ɡʌrdʌkaːn,گردکان
+150,good,2641.258,0.7989999999999782,audio/Mand01/JBIL_150_A_good_Mand01.wav,xas,کاس
+154,new,2741.287,0.8240000000000691,audio/Mand01/JBIL_154_A_new_Mand01.wav,taːzs,تا
+156,hot,2753.534,0.8899999999998727,audio/Mand01/JBIL_156_A_hot_Mand01.wav,ɡarma,گەرمە
+157,cold,2758.218,0.8820000000000618,audio/Mand01/JBIL_157_A_cold_Mand01.wav,sarda,ساژ دە
+165,full,2960.934,0.5850000000000364,audio/Mand01/JBIL_165_A_full_Mand01.wav,por,پر
+167,dry,9668.191,0.5259999999998399,audio/Mand01/JBIL_167_A_dry_Mand01.wav,wuʃɪk,وشک
+169,big,2994.287,0.7119999999999891,audio/Mand01/JBIL_169_A_big_Mand01.wav,ɡoːda,گەوورە
+170,small,3002.106,0.6339999999995598,audio/Mand01/JBIL_170_A_small_Mand01.wav,bytʃyk,بۊچک
+171,round,3016.592,0.5929999999998472,audio/Mand01/JBIL_171_A_round_Mand01.wav,xeːr,کەر
+177,green,3122.453,0.7910000000001673,audio/Mand01/JBIL_177_A_green_Mand01.wav,zsoʊz,ساوز
+178,yellow,3147.528,0.7170000000000982,audio/Mand01/JBIL_178_A_yellow_Mand01.wav,zɛrts,زەرد ز
+179,red,3151.373,0.75,audio/Mand01/JBIL_179_A_red_Mand01.wav,qʌdmʌz,قەرمز
+180,black,3155.461,0.7990000000004329,audio/Mand01/JBIL_180_A_black_Mand01.wav,aswuːt,ئەسوەت
+181,white,3160.186,0.7329999999997199,audio/Mand01/JBIL_181_A_white_Mand01.wav,abjaθ,ئە بیاف
+2,two,23.431,0.8900000000000006,audio/Mand01/JBIL_2_A_two_Mand01.wav,du,دەو
+298,this,7159.562,0.6670000000003711,audio/Mand01/JBIL_298_A_this_Mand01.wav,ajaː,ئەیە
+299,that,7165.163,0.7089999999998327,audio/Mand01/JBIL_299_A_that_Mand01.wav,awa,ئەوە
+3,three,29.826,0.8900000000000006,audio/Mand01/JBIL_3_A_three_Mand01.wav,ses,سی
+31,head,209.725,0.8120000000000118,audio/Mand01/JBIL_31_A_head_Mand01.wav,sɛr,سر
+319,i,7472.594,0.6409999999996217,audio/Mand01/JBIL_319_A_i_Mand01.wav,mɛn,من
+32,hair,214.0,0.695999999999998,audio/Mand01/JBIL_32_A_hair_Mand01.wav,ʁiʒ,ڕش
+321,we,7848.905,0.7579999999998108,audio/Mand01/JBIL_321_A_we_Mand01.wav,iːmə,ئیمە
+33,eye,222.124,0.804000000000002,audio/Mand01/JBIL_33_A_eye_Mand01.wav,tʃɑː,چاو
+34,nose,229.898,0.7580000000000098,audio/Mand01/JBIL_34_A_nose_Mand01.wav,luːt,لەووت
+35,ear,247.386,0.9099999999999966,audio/Mand01/JBIL_35_A_ear_Mand01.wav,ɡuːʃ,گوش
+36,mouth,260.291,0.7579999999999814,audio/Mand01/JBIL_36_A_mouth_Mand01.wav,dɛm,دەم
+37,tooth,266.0,0.8690000000000282,audio/Mand01/JBIL_37_A_tooth_Mand01.wav,dɪɡan,دگان
+38,tongue,273.436,0.9089999999999918,audio/Mand01/JBIL_38_A_tongue_Mand01.wav,zuaːn,زوان
+39,neck,283.259,0.7409999999999854,audio/Mand01/JBIL_39_A_neck_Mand01.wav,mel,مەل
+4,four,34.463,0.8269999999999982,audio/Mand01/JBIL_4_A_four_Mand01.wav,ʃwaːt,چوات
+42,hand,351.886,0.6759999999999877,audio/Mand01/JBIL_42_A_hand_Mand01.wav,mɛtʃiɡ,چگ
+44,finger,373.208,0.6639999999999873,audio/Mand01/JBIL_44_A_finger_Mand01.wav,kʌlik,ک
+5,five,40.257,0.8269999999999982,audio/Mand01/JBIL_5_A_five_Mand01.wav,pɛndʒ,بەنچ
+54,knee,534.82,0.44299999999998363,audio/Mand01/JBIL_54_A_knee_Mand01.wav,pa,با
+55,foot,534.82,0.44299999999998363,audio/Mand01/JBIL_55_A_foot_Mand01.wav,pa,با
+56,skin,674.825,0.5710000000000264,audio/Mand01/JBIL_56_A_skin_Mand01.wav,puːs,پووس
+57,bone,683.213,0.8740000000000236,audio/Mand01/JBIL_57_A_bone_Mand01.wav,sqan,سقان
+58,blood,698.361,0.6180000000000518,audio/Mand01/JBIL_58_A_blood_Mand01.wav,xi.5n,خۊین
+60,heart,721.622,0.5590000000000828,audio/Mand01/JBIL_60_A_heart_Mand01.wav,dʌl,دەل
+61,liver,740.687,0.5199999999999818,audio/Mand01/JBIL_61_A_liver_Mand01.wav,kilia,کلیا
+62,person,784.006,0.8709999999999809,audio/Mand01/JBIL_62_A_person_Mand01.wav,kɛs,گس
+65,woman,868.0,0.7580000000000382,audio/Mand01/JBIL_65_A_woman_Mand01.wav,døt,دۊەت
+75,sister,972.886,0.8769999999999527,audio/Mand01/JBIL_75_A_sister_Mand01.wav,xoʃkam,خو
+77,bride,1029.799,0.6440000000000055,audio/Mand01/JBIL_77_A_bride_Mand01.wav,syr,شۊڕ
+78,name,1045.085,0.5640000000000782,audio/Mand01/JBIL_78_A_name_Mand01.wav,naʊ,ناو
+79,dog,1079.351,0.73700000000008,audio/Mand01/JBIL_79_A_dog_Mand01.wav,ɡamal,گەماڵ
+81,horn,1135.313,0.6859999999999218,audio/Mand01/JBIL_81_A_horn_Mand01.wav,ʃaxʃ,شاخ
+82,tail,1147.236,0.5450000000000728,audio/Mand01/JBIL_82_A_tail_Mand01.wav,kilɪk,کەلێک
+83,claw,1172.554,0.6509999999998399,audio/Mand01/JBIL_83_A_claw_Mand01.wav,nuːxaːn,نیخان
+84,feather,1189.915,0.7129999999999654,audio/Mand01/JBIL_84_A_feather_Mand01.wav,riːʃ,ڕیش
+91,fish,1303.423,0.9149999999999636,audio/Mand01/JBIL_91_A_fish_Mand01.wav,masi,ماسی م
+92,bird,1321.44,0.7419999999999618,audio/Mand01/JBIL_92_A_bird_Mand01.wav,tojoːr,فتەگیور
+96,louse,1437.422,0.6920000000000073,audio/Mand01/JBIL_96_A_louse_Mand01.wav,spjes,سپیە
+97,tree,1519.112,0.5599999999999454,audio/Mand01/JBIL_97_A_tree_Mand01.wav,dat,داڕ
