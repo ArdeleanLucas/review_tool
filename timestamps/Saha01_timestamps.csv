@@ -1,6 +1,6 @@
 concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 1,one,1107.232,0.9100000000000819,audio/Saha01/JBIL_1_A_one_Saha01.wav,jɛk,یەک
-102,leaf,2739.48,0.7559999999998581,audio/Saha01/JBIL_102_A_leaf_Saha01.wav,dola,گەلە
+102,leaf,2743.092,0.6179999999999382,audio/Saha01/JBIL_102_A_leaf_Saha01.wav,sedʒaɡəlɔ,سە جایم گڵا
 103,bark,2779.195,0.9859999999998763,audio/Saha01/JBIL_103_A_bark_Saha01.wav,pusedari,پوسدار
 104,root,2795.918,0.7799999999997453,audio/Saha01/JBIL_104_A_root_Saha01.wav,riːʃa,ڕیشێ
 106,seed,2887.275,0.9079999999999018,audio/Saha01/JBIL_106_A_seed_Saha01.wav,dɑna,دانە
@@ -19,20 +19,20 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 131,smoke,3481.231,0.7679999999995744,audio/Saha01/JBIL_131_A_smoke_Saha01.wav,duːkɛl,دۊ کەرلە
 132,ash,3493.321,0.88799999999992,audio/Saha01/JBIL_132_A_ash_Saha01.wav,boːrʌk,بەورک
 139,salt,3579.631,0.8260000000000218,audio/Saha01/JBIL_139_A_salt_Saha01.wav,xwa,خوە
-141,egg,3616.549,0.9940000000001419,audio/Saha01/JBIL_141_A_egg_Saha01.wav,xoː,هە
+141,egg,3602.818,0.88799999999992,audio/Saha01/JBIL_141_A_egg_Saha01.wav,hidkø,هید کە
 142,milk,3624.0,1.0140000000001237,audio/Saha01/JBIL_142_A_milk_Saha01.wav,ʃiːd,
 143,honey,3647.551,1.2699999999999818,audio/Saha01/JBIL_143_A_honey_Saha01.wav,haŋɡin,هەنگوین
 144,walnut,3668.221,1.1599999999998545,audio/Saha01/JBIL_144_A_walnut_Saha01.wav,ɡeːrdɛkɑn,گردە کان
 150,good,3777.756,1.2260000000001128,audio/Saha01/JBIL_150_A_good_Saha01.wav,fedaxɔsfraɔ,فرەخاس فرەخاس
-154,new,3853.388,1.3530000000000655,audio/Saha01/JBIL_154_A_new_Saha01.wav,nu,نو
+154,new,3840.942,1.056999999999789,audio/Saha01/JBIL_154_A_new_Saha01.wav,tɔzə,تازە
 156,hot,3880.944,0.7220000000002074,audio/Saha01/JBIL_156_A_hot_Saha01.wav,ɡɛrʌm,گەرم
 157,cold,3891.831,1.3139999999998508,audio/Saha01/JBIL_157_A_cold_Saha01.wav,sart,سەرت
 158,long,3900.404,0.7440000000001419,audio/Saha01/JBIL_158_A_long_Saha01.wav,ʃdiɾiʒ,دەریش
 165,full,3969.52,0.7440000000001419,audio/Saha01/JBIL_165_A_full_Saha01.wav,pʌr,پەر
 167,dry,3994.0,0.9830000000001746,audio/Saha01/JBIL_167_A_dry_Saha01.wav,woʃk,وەشک
-169,big,4025.524,1.762000000000171,audio/Saha01/JBIL_169_A_big_Saha01.wav,bikalan,کەلەم
+169,big,4024.0,1.0509999999999309,audio/Saha01/JBIL_169_A_big_Saha01.wav,enemfuːikalaŋpi,دەر نێم فووووی دی کەڵن
 170,small,4069.286,0.7130000000001928,audio/Saha01/JBIL_170_A_small_Saha01.wav,buːtʃɛk,بۊچک
-171,round,4092.729,1.3949999999999818,audio/Saha01/JBIL_171_A_round_Saha01.wav,xʌr,خەر
+171,round,4092.977,0.8539999999998145,audio/Saha01/JBIL_171_A_round_Saha01.wav,xʌr,خەر
 177,green,4195.338,1.0070000000005166,audio/Saha01/JBIL_177_A_green_Saha01.wav,soʊz,سەوز
 178,yellow,4202.326,1.181999999999789,audio/Saha01/JBIL_178_A_yellow_Saha01.wav,zart,زەرت
 179,red,4213.782,0.8980000000001382,audio/Saha01/JBIL_179_A_red_Saha01.wav,sur, سور
@@ -46,7 +46,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 31,head,1468.0,0.5709999999999127,audio/Saha01/JBIL_31_A_head_Saha01.wav,sɛr,سەر
 319,i,8151.874,0.6680000000005748,audio/Saha01/JBIL_319_A_i_Saha01.wav,mɛn,من
 32,hair,1524.743,0.8400000000001455,audio/Saha01/JBIL_32_A_hair_Saha01.wav,muːsɛr,میسەر
-320,you,8256.648,0.8880000000008295,audio/Saha01/JBIL_320_A_you_Saha01.wav,eva,ئە
+320,you,8166.0,0.8159999999998035,audio/Saha01/JBIL_320_A_you_Saha01.wav,to,تو
 321,we,8180.542,0.9949999999998909,audio/Saha01/JBIL_321_A_we_Saha01.wav,ima,ئیمە
 33,eye,1586.632,0.6649999999999636,audio/Saha01/JBIL_33_A_eye_Saha01.wav,tʃɔ,چەو
 34,nose,1591.915,0.6649999999999636,audio/Saha01/JBIL_34_A_nose_Saha01.wav,lyt,لۊت
