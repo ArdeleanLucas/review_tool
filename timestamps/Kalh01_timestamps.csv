@@ -19,6 +19,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 131,smoke,4164.408000039199,0.7880000000004657,audio/Kalh01/JBIL_131_A_smoke_Kalh01.wav,dyd,دۊد
 132,ash,4175.763000028544,0.7399999999997817,audio/Kalh01/JBIL_132_A_ash_Kalh01.wav,xwalakuː,خوەلا
 139,salt,9039.72999997145,0.6479999999992287,audio/Kalh01/JBIL_139_A_salt_Kalh01.wav,xwa,خوا
+141,egg,4299.106999995815,0.5369999958120388,audio/Kalh01/JBIL_141_A_egg_Kalh01.wav,xɑ,خا
 142,milk,4306.613,0.7469999999993888,audio/Kalh01/JBIL_142_A_milk_Kalh01.wav,ʃiːra,شیرن
 143,honey,4314.807,1.1000000000003638,audio/Kalh01/JBIL_143_A_honey_Kalh01.wav,hasal,هەساو
 144,walnut,4330.698,0.706000000000131,audio/Kalh01/JBIL_144_A_walnut_Kalh01.wav,ɡirdeːkɑn,گردە
@@ -26,7 +27,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 154,new,4542.4569999843925,0.6040000000002692,audio/Kalh01/JBIL_154_A_new_Kalh01.wav,nu,نو
 156,hot,4563.434,0.6449999999995271,audio/Kalh01/JBIL_156_A_hot_Kalh01.wav,dɔx,داخ
 157,cold,4573.895,0.63799999999992,audio/Kalh01/JBIL_157_A_cold_Kalh01.wav,sart,سەرد
-158,long,9066.893999978296,0.7450000000008004,audio/Kalh01/JBIL_158_A_long_Kalh01.wav,kwal,کواڵ
+158,long,4604.522,0.8699999999998909,audio/Kalh01/JBIL_158_A_long_Kalh01.wav,ʃur,شوور
 165,full,4688.719000007613,0.5349999999998545,audio/Kalh01/JBIL_165_A_full_Kalh01.wav,paro,پەر
 167,dry,4709.434,0.7539999999999054,audio/Kalh01/JBIL_167_A_dry_Kalh01.wav,wɛʃk,وەشک
 169,big,4741.828,0.8009999999994761,audio/Kalh01/JBIL_169_A_big_Kalh01.wav,ɡoːɹaː,گەورا
@@ -38,12 +39,14 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 180,black,4977.13,0.8140000000003056,audio/Kalh01/JBIL_180_A_black_Kalh01.wav,tsia,سیە
 181,white,5000.877,0.7539999999999054,audio/Kalh01/JBIL_181_A_white_Kalh01.wav,səfeːt,سفەید
 2,two,894.7619999878202,0.5049999931493403,audio/Kalh01/JBIL_2_A_two_Kalh01.wav,di,دی
+202,fly,3167.730000011419,0.8220000000001164,audio/Kalh01/JBIL_202_A_fly_Kalh01.wav,parʃa,پەخشا
 298,this,7380.186,0.9610000000002401,audio/Kalh01/JBIL_298_A_this_Kalh01.wav,ja,یە
 299,that,7416.514,0.7219999999997526,audio/Kalh01/JBIL_299_A_that_Kalh01.wav,ɔwa,ئەوە
 3,three,929.228,0.57000000000005,audio/Kalh01/JBIL_3_A_three_Kalh01.wav,si,سی
 31,head,1342.767,0.821999999999889,audio/Kalh01/JBIL_31_A_head_Kalh01.wav,kapuːn,کەپووڵ
 319,i,7737.655000029689,0.7219999999997526,audio/Kalh01/JBIL_319_A_i_Kalh01.wav,ma,مە
 32,hair,1383.43,0.7799999999999727,audio/Kalh01/JBIL_32_A_hair_Kalh01.wav,mᵻ,ئەڵ
+320,you,7798.504999999999,0.6409999999996217,audio/Kalh01/JBIL_320_A_you_Kalh01.wav,ya,ئە
 321,we,7788.527000005329,0.7569999999996071,audio/Kalh01/JBIL_321_A_we_Kalh01.wav,ima,ئیمە
 33,eye,1391.907,0.5510000000001583,audio/Kalh01/JBIL_33_A_eye_Kalh01.wav,tʃoʊ,چەوو
 34,nose,1404.217,0.7179999999998472,audio/Kalh01/JBIL_34_A_nose_Kalh01.wav,luːt,لۊت

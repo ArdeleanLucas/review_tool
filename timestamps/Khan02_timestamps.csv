@@ -19,6 +19,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 131,smoke,7034.316,1.1649999999999636,audio/Khan02/JBIL_131_A_smoke_Khan02.wav,dykɑl,دۊ کەو
 132,ash,7114.626,1.0559999999995853,audio/Khan02/JBIL_132_A_ash_Khan02.wav,xolaku,خوەڵکۊ
 139,salt,1947.438,1.2360000000001037,audio/Khan02/JBIL_139_A_salt_Khan02.wav,xwa,خوە
+141,egg,7195.51,1.0469999999995707,audio/Khan02/JBIL_141_A_egg_Khan02.wav,xaːjɑ,خایا
 142,milk,7206.103,1.0209999999997308,audio/Khan02/JBIL_142_A_milk_Khan02.wav,ʃiːr,شیر
 143,honey,7220.619,0.9420000000000073,audio/Khan02/JBIL_143_A_honey_Khan02.wav,asɛl,ئەسەل
 144,walnut,7240.496,1.5029999999997017,audio/Khan02/JBIL_144_A_walnut_Khan02.wav,ɡirdakɑn,گر دەکان
@@ -26,7 +27,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 154,new,7397.692,1.0870000000004438,audio/Khan02/JBIL_154_A_new_Khan02.wav,taːza,تازا
 156,hot,7414.259,0.9030000000002474,audio/Khan02/JBIL_156_A_hot_Khan02.wav,ɡɛrʌm,گەرم
 157,cold,7421.226,0.9949999999998909,audio/Khan02/JBIL_157_A_cold_Khan02.wav,sɛrt,سەرد
-158,long,2430.5699999999997,1.099999999999909,audio/Khan02/JBIL_158_A_long_Khan02.wav,qd,قەیۊل
+158,long,7460.964,1.3350000000000364,audio/Khan02/JBIL_158_A_long_Khan02.wav,diriʃ,دریش
 165,full,7491.499,0.6149999999997817,audio/Khan02/JBIL_165_A_full_Khan02.wav,pʌr,پر
 167,dry,2397.608,0.8379999999997381,audio/Khan02/JBIL_167_A_dry_Khan02.wav,uʃk,وشک
 169,big,1959.014,1.183999999999969,audio/Khan02/JBIL_169_A_big_Khan02.wav,ɡaʊrʌ,گەوورە
@@ -38,6 +39,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 180,black,7625.372,1.1260000000002037,audio/Khan02/JBIL_180_A_black_Khan02.wav,rɑʃ,ڕاش
 181,white,2509.378,1.199999999999818,audio/Khan02/JBIL_181_A_white_Khan02.wav,tʃermi,چەرمی
 2,two,4397.812,0.9399999999995998,audio/Khan02/JBIL_2_A_two_Khan02.wav,duː,دۊ
+202,fly,6042.466,1.532999999999447,audio/Khan02/JBIL_202_A_fly_Khan02.wav,maɡɛs,مەگەز
 298,this,10853.853,0.647000000000844,audio/Khan02/JBIL_298_A_this_Khan02.wav,ajɑ,ئەیا
 299,that,10862.897,0.6700000000000728,audio/Khan02/JBIL_299_A_that_Khan02.wav,awa,ئەوە
 3,three,4404.0,0.7799999999997453,audio/Khan02/JBIL_3_A_three_Khan02.wav,sɪ,سێ
@@ -55,6 +57,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 44,finger,5014.834,0.9920000000001892,audio/Khan02/JBIL_44_A_finger_Khan02.wav,pɛndʒɛ,پەن جە
 5,five,4420.0,0.9970000000002983,audio/Khan02/JBIL_5_A_five_Khan02.wav,pɛntʃ,پەنچ
 55,foot,5278.54,0.9049999999997453,audio/Khan02/JBIL_55_A_foot_Khan02.wav,pa,پە
+56,skin,5330.0,1.2470000000002983,audio/Khan02/JBIL_56_A_skin_Khan02.wav,puːse,پۊسە
 57,bone,5335.873,1.0450000000000728,audio/Khan02/JBIL_57_A_bone_Khan02.wav,suqaːn,سەکان
 58,blood,5345.157,1.1840000000001965,audio/Khan02/JBIL_58_A_blood_Khan02.wav,xyn,خەۊن
 60,heart,5392.214,1.042000000000371,audio/Khan02/JBIL_60_A_heart_Khan02.wav,dʌl,دەو

@@ -17,6 +17,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 130,fire,2552.408,0.7670000000002801,audio/Fail01/JBIL_130_A_fire_Fail01.wav,aɡir,ا
 131,smoke,2560.849,0.8369999999999891,audio/Fail01/JBIL_131_A_smoke_Fail01.wav,didi,دی دی
 139,salt,7566.124,0.7950000000000728,audio/Fail01/JBIL_139_A_salt_Fail01.wav,xwa,خوە
+141,egg,2764.623,0.9299999999998363,audio/Fail01/JBIL_141_A_egg_Fail01.wav,xaja,خایا
 142,milk,2778.443,0.7029999999999745,audio/Fail01/JBIL_142_A_milk_Fail01.wav,ʃiːr,شیر
 143,honey,2793.704,0.849999999999909,audio/Fail01/JBIL_143_A_honey_Fail01.wav,hanɡin,هەنگ جین
 144,walnut,2820.052,1.1829999999999927,audio/Fail01/JBIL_144_A_walnut_Fail01.wav,ɡirðakaːn,گەر دەکان
@@ -24,7 +25,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 154,new,3017.359,0.7960000000002765,audio/Fail01/JBIL_154_A_new_Fail01.wav,taza,تازە
 156,hot,3044.933,0.8040000000000873,audio/Fail01/JBIL_156_A_hot_Fail01.wav,nɡɛrʌmɡ,گەرم
 157,cold,3066.285,1.0360000000000582,audio/Fail01/JBIL_157_A_cold_Fail01.wav,tja,یە
-158,long,7579.612,0.75,audio/Fail01/JBIL_158_A_long_Fail01.wav,driʒ,دریج
+158,long,3341.372,0.7880000000000109,audio/Fail01/JBIL_158_A_long_Fail01.wav,driʒ,دریج
 165,full,3433.177,0.694999999999709,audio/Fail01/JBIL_165_A_full_Fail01.wav,pʌr,پڕ
 167,dry,7746.286,0.9660000000003492,audio/Fail01/JBIL_167_A_dry_Fail01.wav,taːlpʌr,داو
 169,big,3492.305,0.8810000000003129,audio/Fail01/JBIL_169_A_big_Fail01.wav,ɡap,گەپ
@@ -36,12 +37,14 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 180,black,3742.059,0.9510000000000218,audio/Fail01/JBIL_180_A_black_Fail01.wav,sia,سیە
 181,white,3752.607,0.849999999999909,audio/Fail01/JBIL_181_A_white_Fail01.wav,tʃarmek,چەرمگ
 2,two,519.232,0.5950000000000273,audio/Fail01/JBIL_2_A_two_Fail01.wav,du,دو
+202,fly,1954.991,0.9780000000000655,audio/Fail01/JBIL_202_A_fly_Fail01.wav,maɡa,گز
 298,this,5736.456,0.8940000000002328,audio/Fail01/JBIL_298_A_this_Fail01.wav,ama,ئەمە
 299,that,5751.7,0.7089999999998327,audio/Fail01/JBIL_299_A_that_Fail01.wav,awa,ئەوە
 3,three,523.852,0.7830000000000155,audio/Fail01/JBIL_3_A_three_Fail01.wav,se,سەی
 31,head,731.9495718509385,0.7555551135983478,audio/Fail01/JBIL_31_A_head_Fail01.wav,kapul,کەپووڵ
 319,i,6016.874,0.7820000000001528,audio/Fail01/JBIL_319_A_i_Fail01.wav,mɛn,من
 32,hair,813.167,0.8529999999999518,audio/Fail01/JBIL_32_A_hair_Fail01.wav,mo,م
+320,you,6029.476,0.8940000000002328,audio/Fail01/JBIL_320_A_you_Fail01.wav,ewa,ئێ وە
 321,we,6025.451,0.9149999999999636,audio/Fail01/JBIL_321_A_we_Fail01.wav,emae,ئەمە
 33,eye,837.574,0.761000000000081,audio/Fail01/JBIL_33_A_eye_Fail01.wav,tʃɑ5,چاو
 34,nose,6239.947,0.7330000000001746,audio/Fail01/JBIL_34_A_nose_Fail01.wav,ta,م

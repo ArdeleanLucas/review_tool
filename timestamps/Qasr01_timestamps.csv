@@ -18,7 +18,8 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 130,fire,5450.389,1.1210000000000946,audio/Qasr01/JBIL_130_A_fire_Qasr01.wav,aːɡʌr,ئەگەر
 131,smoke,5467.436,1.0690000000004147,audio/Qasr01/JBIL_131_A_smoke_Qasr01.wav,dykal,دۊ کەڵ
 132,ash,5516.901,0.9139999999997599,audio/Qasr01/JBIL_132_A_ash_Qasr01.wav,xolaku,خوڵا کوو
-139,salt,13715.379,0.6200000000008004,audio/Qasr01/JBIL_139_A_salt_Qasr01.wav,xwa,خوەا
+139,salt,5709.699,0.7630000000008295,audio/Qasr01/JBIL_139_A_salt_Qasr01.wav,xwa,خوە
+141,egg,5804.0,0.7539999999999054,audio/Qasr01/JBIL_141_A_egg_Qasr01.wav,xa,خە
 142,milk,5825.217,0.7820000000001528,audio/Qasr01/JBIL_142_A_milk_Qasr01.wav,bʌtʃiɹ,شیر
 143,honey,5944.36,0.9020000000000437,audio/Qasr01/JBIL_143_A_honey_Qasr01.wav,hasɛl,هەساڵ
 144,walnut,5990.321,1.456000000000131,audio/Qasr01/JBIL_144_A_walnut_Qasr01.wav,ɡildɛkan,گردە کان
@@ -26,7 +27,7 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 154,new,6377.521,0.7860000000000582,audio/Qasr01/JBIL_154_A_new_Qasr01.wav,nu,نەو
 156,hot,6426.632,0.8760000000002037,audio/Qasr01/JBIL_156_A_hot_Qasr01.wav,dɑx,داخ
 157,cold,6438.623,0.6829999999999927,audio/Qasr01/JBIL_157_A_cold_Qasr01.wav,sɛrð,سەرد
-158,long,13728.412,0.7469999999993888,audio/Qasr01/JBIL_158_A_long_Qasr01.wav,dɹiʒ,درییش
+158,long,6463.586,1.0559999999995853,audio/Qasr01/JBIL_158_A_long_Qasr01.wav,dɹiʒ,درییج
 165,full,6668.768,0.5540000000000873,audio/Qasr01/JBIL_165_A_full_Qasr01.wav,pʌr,پڕا
 167,dry,14108.414,0.7860000000000582,audio/Qasr01/JBIL_167_A_dry_Qasr01.wav,wyʃk,وشک
 169,big,6793.695,0.7860000000000582,audio/Qasr01/JBIL_169_A_big_Qasr01.wav,ɡoːra,گەوورا
@@ -38,12 +39,14 @@ concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
 180,black,7106.193,0.8370000000004438,audio/Qasr01/JBIL_180_A_black_Qasr01.wav,sia,سیە
 181,white,7144.992,0.8500000000003638,audio/Qasr01/JBIL_181_A_white_Qasr01.wav,spi,سپی
 2,two,22.562000008362297,0.7259999916377033,audio/Qasr01/JBIL_2_A_two_Qasr01.wav,do,دو
+202,fly,3592.779,0.7989999999999782,audio/Qasr01/JBIL_202_A_fly_Qasr01.wav,paxʃa,پەخشە
 298,this,10899.794,0.9020000000000437,audio/Qasr01/JBIL_298_A_this_Qasr01.wav,aja,ئەیا
 299,that,10964.309,0.9529999999995198,audio/Qasr01/JBIL_299_A_that_Qasr01.wav,awa,ئەوە
 3,three,99.529,1.0010000000000048,audio/Qasr01/JBIL_3_A_three_Qasr01.wav,se,سێ
 31,head,921.1458010121664,1.4272683165776243,audio/Qasr01/JBIL_31_A_head_Qasr01.wav,serokapul,سەرێو کەپور
 319,i,11701.309,0.6900000000005093,audio/Qasr01/JBIL_319_A_i_Qasr01.wav,mɛ,مە
 32,hair,1058.225,0.7119999999999891,audio/Qasr01/JBIL_32_A_hair_Qasr01.wav,ʁiʒ,بەز
+320,you,11786.538,0.8369999999995343,audio/Qasr01/JBIL_320_A_you_Qasr01.wav,iwa,ئی وە
 321,we,11760.373,0.9400000000005093,audio/Qasr01/JBIL_321_A_we_Qasr01.wav,ima,ئیێ م
 33,eye,1076.0,0.8040000000000873,audio/Qasr01/JBIL_33_A_eye_Qasr01.wav,tʃaː,چاو
 34,nose,1081.23,1.066000000000031,audio/Qasr01/JBIL_34_A_nose_Qasr01.wav,lyt,لۊت
