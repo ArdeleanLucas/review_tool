@@ -600,6 +600,8 @@ textarea, input { font-family: inherit; }
   transition: border-color 0.15s;
 }
 .notes-textarea:focus { border-color: #4461d4; background: #fff; }
+.parse-notes-label { font-size: 0.72rem; font-weight: 600; color: #6b5bd4; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+.parse-notes { white-space: pre-wrap; font-size: 0.82rem; line-height: 1.5; color: #2a2a3e; background: #f3f0ff; border: 1px solid #d8d0f0; border-left: 3px solid #6b5bd4; border-radius: 6px; padding: 8px 12px; margin-bottom: 10px; max-height: 220px; overflow-y: auto; }
 
 /* ═══════════════════════════════════════════════════════════════
    NAVIGATION FOOTER
@@ -773,6 +775,10 @@ textarea, input { font-family: inherit; }
     <!-- notes -->
     <div class="card">
       <div class="card-title">Notes</div>
+      <div id="parse-notes-wrap" style="display:none">
+        <div class="parse-notes-label">PARSE cognate decision (read-only)</div>
+        <div id="parse-notes" class="parse-notes"></div>
+      </div>
       <textarea class="notes-textarea" id="notes-field" placeholder="Free-form notes for this concept…" oninput="saveNotes(this.value)"></textarea>
     </div>
 
@@ -993,6 +999,10 @@ function renderConcept(idx) {
   renderBorrowPanel(concept, dec);
 
   // Notes
+  const _pnWrap = document.getElementById('parse-notes-wrap');
+  const _cNote = (concept.notes || '').trim();
+  if (_cNote) { document.getElementById('parse-notes').textContent = _cNote; _pnWrap.style.display = 'block'; }
+  else { _pnWrap.style.display = 'none'; }
   document.getElementById('notes-field').value = dec.notes || '';
 
   // Nav
