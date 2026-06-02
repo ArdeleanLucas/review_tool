@@ -91,6 +91,8 @@ textarea, input { font-family: inherit; }
 .topbar-btn:hover { background: #3d4a7a; color: #fff; }
 .topbar-btn.green { background: #1a4a2e; color: #4ade80; border-color: #2d7a4a; }
 .topbar-btn.green:hover { background: #25623d; }
+.topbar-btn.warn { background: #4a3a1a; color: #fbbf24; border-color: #7a5d2d; }
+.topbar-btn.warn:hover { background: #5e4a22; color: #fde68a; }
 
 /* ═══════════════════════════════════════════════════════════════
    MAIN LAYOUT
@@ -682,6 +684,7 @@ textarea, input { font-family: inherit; }
   <button class="filter-btn"        data-filter="flagged"  onclick="setFilter('flagged')">Flagged</button>
   <button class="filter-btn"        data-filter="borrowing" onclick="setFilter('borrowing')">Borrowings</button>
   <div class="topbar-spacer"></div>
+  <button class="topbar-btn warn" onclick="resetToDefault()" title="Discard local edits and reload the published GitHub version">↺ Reset to Default</button>
   <button class="topbar-btn" onclick="triggerLoadDecisions()">Load Decisions</button>
   <button class="topbar-btn green" onclick="saveDecisions()">💾 Save Decisions</button>
   <input type="file" id="file-input"     accept=".json" class="hidden" onchange="handleFileLoad(event)">
@@ -1629,6 +1632,20 @@ function handleDecisionLoad(e) {
     }
   };
   reader.readAsText(file);
+}
+
+async function resetToDefault() {
+  if (!confirm('Reset to the GitHub database version?\n\nThis permanently clears ALL local edits saved in this browser (cognate changes, flags, notes, review statuses) and reloads the published review_data.json. This cannot be undone.')) return;
+  localStorage.removeItem('sk_review_decisions');   // clear persisted edits (persistence itself stays on)
+  decisions = {};
+  try {
+    const resp = await fetch('review_data.json?cb=' + Date.now());   // re-pull published gh data
+    if (resp.ok) reviewData = await resp.json();
+  } catch (_) { /* keep in-memory copy if offline */ }
+  renderSidebar();
+  renderConcept(0);
+  updateProgress();
+  showToast('Reset to GitHub database version.');
 }
 
 function autoSave() {
