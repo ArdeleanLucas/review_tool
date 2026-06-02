@@ -23,7 +23,7 @@
     "version": 4.1,
     "phonetic_flags": {},
     "source": {
-      "workspace": "/home/lucas/parse-workspace",
+      "workspace": "parse-workspace",
       "tag_id": "custom-sk-concept-list",
       "tagged_concept_count": 101
     }
