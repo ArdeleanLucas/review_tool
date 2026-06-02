@@ -1,79 +1,79 @@
 concept_id,concept_en,start_sec,duration_sec,audio_path,ipa,ortho
-1,one,4389.597,0.7309999999997672,audio/Khan02/JBIL_1_A_one_Khan02.wav,jek,یەک
-102,leaf,6272.0,1.0159999999996217,audio/Khan02/JBIL_102_A_leaf_Khan02.wav,ɡlaː,گلەم
-103,bark,6336.275,1.1779999999998836,audio/Khan02/JBIL_103_A_bark_Khan02.wav,tuːkɪldɛr,توکڵ دار
-104,root,6434.855,1.1440000000002328,audio/Khan02/JBIL_104_A_root_Khan02.wav,riːʃʌɡ,ڕیشگ
-106,seed,6404.187,0.9819999999999709,audio/Khan02/JBIL_106_A_seed_Khan02.wav,tʃɪndʒɪk,چنجگ
-109,cloud,6488.0,0.8109999999996944,audio/Khan02/JBIL_109_A_cloud_Khan02.wav,hɔd,هەور
-111,sun,6633.203,0.7960000000002765,audio/Khan02/JBIL_111_A_sun_Khan02.wav,xor,خوەر
-113,moon,6648.941,1.0579999999999927,audio/Khan02/JBIL_113_A_moon_Khan02.wav,maŋk,مانگ
-114,night,6677.743,0.9819999999999709,audio/Khan02/JBIL_114_A_night_Khan02.wav,ʃoʊ,شەو
-115,star,6683.2430000117165,1.0619999882837874,audio/Khan02/JBIL_115_A_star_Khan02.wav,hasaːra,هەساڕەم
-118,mountain,6728.0,0.8739999999997963,audio/Khan02/JBIL_118_A_mountain_Khan02.wav,dʒɔʌl,جەوەل
-119,stone,6740.768,0.9290000000000873,audio/Khan02/JBIL_119_A_stone_Khan02.wav,kutʃʌk,کو چک
-120,sand,6765.678,0.7590000000000146,audio/Khan02/JBIL_120_A_sand_Khan02.wav,qom,قەم
-122,water,6819.137,0.86200000000008,audio/Khan02/JBIL_122_A_water_Khan02.wav,aʊ,ئەو
-124,snow,6838.502,0.9819999999999709,audio/Khan02/JBIL_124_A_snow_Khan02.wav,bɛfər,بەسر
-126,rain,6852.948,1.0510000000003856,audio/Khan02/JBIL_126_A_rain_Khan02.wav,ʒobarɑn,باران
-130,fire,7026.222,0.8900000000003274,audio/Khan02/JBIL_130_A_fire_Khan02.wav,aːɡr,ئەگر
-131,smoke,7034.316,1.1649999999999636,audio/Khan02/JBIL_131_A_smoke_Khan02.wav,dykɑl,دۊ کەو
-132,ash,7114.626,1.0559999999995853,audio/Khan02/JBIL_132_A_ash_Khan02.wav,xolaku,خوەڵکۊ
-139,salt,1947.438,1.2360000000001037,audio/Khan02/JBIL_139_A_salt_Khan02.wav,xwa,خوە
-141,egg,7195.51,1.0469999999995707,audio/Khan02/JBIL_141_A_egg_Khan02.wav,xaːjɑ,خایا
-142,milk,7206.103,1.0209999999997308,audio/Khan02/JBIL_142_A_milk_Khan02.wav,ʃiːr,شیر
-143,honey,7220.619,0.9420000000000073,audio/Khan02/JBIL_143_A_honey_Khan02.wav,asɛl,ئەسەل
-144,walnut,7240.496,1.5029999999997017,audio/Khan02/JBIL_144_A_walnut_Khan02.wav,ɡirdakɑn,گر دەکان
-150,good,7328.144,0.9160000000001673,audio/Khan02/JBIL_150_A_good_Khan02.wav,xas,خەس
-154,new,7397.692,1.0870000000004438,audio/Khan02/JBIL_154_A_new_Khan02.wav,taːza,تازا
-156,hot,7414.259,0.9030000000002474,audio/Khan02/JBIL_156_A_hot_Khan02.wav,ɡɛrʌm,گەرم
-157,cold,7421.226,0.9949999999998909,audio/Khan02/JBIL_157_A_cold_Khan02.wav,sɛrt,سەرد
-158,long,7460.964,1.3350000000000364,audio/Khan02/JBIL_158_A_long_Khan02.wav,diriʃ,دریش
-165,full,7491.499,0.6149999999997817,audio/Khan02/JBIL_165_A_full_Khan02.wav,pʌr,پر
-167,dry,7479.287,0.8019999999996799,audio/Khan02/JBIL_167_A_dry_Khan02.wav,uʃk,وشک
-169,big,7519.749,0.8900000000003274,audio/Khan02/JBIL_169_A_big_Khan02.wav,ɡaʊrʌ,گەورە
-170,small,7521.569,0.9559999999992215,audio/Khan02/JBIL_170_A_small_Khan02.wav,biːtʃʌk,بیچک
-171,round,7526.0,0.899000000000342,audio/Khan02/JBIL_171_A_round_Khan02.wav,xʌr,خەر
-177,green,7618.805,1.1940000000004147,audio/Khan02/JBIL_177_A_green_Khan02.wav,saʊszuːp,ساوز
-178,yellow,7620.678,0.850999999999658,audio/Khan02/JBIL_178_A_yellow_Khan02.wav,zɛrtçør,زەرت
-179,red,7622.564,1.0209999999997308,audio/Khan02/JBIL_179_A_red_Khan02.wav,qarme,قەرمز
-180,black,7625.372,1.1260000000002037,audio/Khan02/JBIL_180_A_black_Khan02.wav,rɑʃ,ڕاش
-181,white,7628.568,1.0339999999996508,audio/Khan02/JBIL_181_A_white_Khan02.wav,tʃɛrmi,چەرمی
-2,two,4397.812,0.9399999999995998,audio/Khan02/JBIL_2_A_two_Khan02.wav,duː,دۊ
-202,fly,6042.466,1.532999999999447,audio/Khan02/JBIL_202_A_fly_Khan02.wav,maɡɛs,مەگەز
-298,this,10853.853,0.647000000000844,audio/Khan02/JBIL_298_A_this_Khan02.wav,ajɑ,ئەیا
-299,that,10862.897,0.6700000000000728,audio/Khan02/JBIL_299_A_that_Khan02.wav,awa,ئەوە
-3,three,4404.0,0.7799999999997453,audio/Khan02/JBIL_3_A_three_Khan02.wav,sɪ,سێ
-31,head,4838.913,0.7830000000003565,audio/Khan02/JBIL_31_A_head_Khan02.wav,sɛr,سەر
-32,hair,593.2280000000001,1.0190000000000055,audio/Khan02/JBIL_32_A_hair_Khan02.wav,dena,دەنا
-33,eye,4878.0,0.8450000000002547,audio/Khan02/JBIL_33_A_eye_Khan02.wav,tʃɑː,چاو
-34,nose,489.381,0.7480000000000473,audio/Khan02/JBIL_34_A_nose_Khan02.wav,liːt,لۊت
-35,ear,4901.487,1.149000000000342,audio/Khan02/JBIL_35_A_ear_Khan02.wav,ɡoʃ,گەوش
-36,mouth,4911.379,0.8530000000000655,audio/Khan02/JBIL_36_A_mouth_Khan02.wav,dɛm,دم
-37,tooth,4921.865,1.28899999999976,audio/Khan02/JBIL_37_A_tooth_Khan02.wav,dɪɡan,دگان
-38,tongue,4932.46,1.167000000000371,audio/Khan02/JBIL_38_A_tongue_Khan02.wav,zan,زوان
-39,neck,4940.834,0.8530000000000655,audio/Khan02/JBIL_39_A_neck_Khan02.wav,mɛl,مەل
-4,four,4411.573,0.8699999999998909,audio/Khan02/JBIL_4_A_four_Khan02.wav,tʃaːr,چوار
-42,hand,4999.402,1.0789999999997235,audio/Khan02/JBIL_42_A_hand_Khan02.wav,dɛss,دەس
-44,finger,5014.834,0.9920000000001892,audio/Khan02/JBIL_44_A_finger_Khan02.wav,pɛndʒɛ,پەن جە
-5,five,4420.0,0.9970000000002983,audio/Khan02/JBIL_5_A_five_Khan02.wav,pɛntʃ,پەنچ
-55,foot,5278.54,0.9049999999997453,audio/Khan02/JBIL_55_A_foot_Khan02.wav,pa,پە
-56,skin,5330.0,1.2470000000002983,audio/Khan02/JBIL_56_A_skin_Khan02.wav,puːse,پۊسە
-57,bone,5335.873,1.0450000000000728,audio/Khan02/JBIL_57_A_bone_Khan02.wav,suqaːn,سەکان
-58,blood,5345.157,1.1840000000001965,audio/Khan02/JBIL_58_A_blood_Khan02.wav,xyn,خەۊن
-60,heart,5392.214,1.042000000000371,audio/Khan02/JBIL_60_A_heart_Khan02.wav,dʌl,دەو
-61,liver,5420.642,1.042000000000371,audio/Khan02/JBIL_61_A_liver_Khan02.wav,dɪɡɪr,جگر
-62,person,5439.362,1.2969999999995707,audio/Khan02/JBIL_62_A_person_Khan02.wav,kʌs,کەس
-63,man,5446.706,1.2929999999996653,audio/Khan02/JBIL_63_A_man_Khan02.wav,piɑ,پیەو
-65,woman,5570.361,1.2039999999997235,audio/Khan02/JBIL_65_A_woman_Khan02.wav,ʒɪn,ێ ژن
-75,sister,725.809,1.0879999999999654,audio/Khan02/JBIL_75_A_sister_Khan02.wav,xoʃəɡ,خوەشگ
-77,bride,5722.494,1.5050000000001091,audio/Khan02/JBIL_77_A_bride_Khan02.wav,wʌi,وەوی
-78,name,5742.19,0.8569999999999709,audio/Khan02/JBIL_78_A_name_Khan02.wav,nɑː,نەو
-79,dog,5796.278,1.0190000000002328,audio/Khan02/JBIL_79_A_dog_Khan02.wav,sʌk,سەگ
-81,horn,5818.387,1.274000000000342,audio/Khan02/JBIL_81_A_horn_Khan02.wav,ʃax,شاخ
-82,tail,5827.677,1.1809999999995853,audio/Khan02/JBIL_82_A_tail_Khan02.wav,kilɪk,کەیلێگ
-83,claw,5898.71,2.0150000000003274,audio/Khan02/JBIL_83_A_claw_Khan02.wav,nyxan,نۊخان
-84,feather,5920.327,0.9260000000003856,audio/Khan02/JBIL_84_A_feather_Khan02.wav,pʌr,پەر
-91,fish,5985.217,1.3900000000003274,audio/Khan02/JBIL_91_A_fish_Khan02.wav,masi,ماسی
-92,bird,6002.619,0.9489999999996144,audio/Khan02/JBIL_92_A_bird_Khan02.wav,teːr,تەیر
-96,louse,6082.963,1.0360000000000582,audio/Khan02/JBIL_96_A_louse_Khan02.wav,rɑʃik,ڕاشک
-97,tree,6095.658,0.9489999999996144,audio/Khan02/JBIL_97_A_tree_Khan02.wav,dar,دەر
+1,hair,423.87,0.853999999999985,audio/Khan02/KLQ_1.1_A_hair_Khan02.wav,qɑʒ,گەش
+122,to fly,3313.309,1.518999999999778,audio/Khan02/KLQ_7.12_A_to_fly_Khan02.wav,baːloːɡɪrdɪn,باڵەو گردن
+16,sister,725.809,1.0879999999999654,audio/Khan02/KLQ_2.5_A_sister_Khan02.wav,xoʃəɡ,خوەشگ
+167,yellow,7620.678,0.850999999999658,audio/Khan02/JBIL_178_A_yellow_Khan02.wav,zɛrtçør,زەرت
+217,one,4389.597,0.7309999999997672,audio/Khan02/JBIL_1_A_one_Khan02.wav,jek,یەک
+218,two,4397.812,0.9399999999995998,audio/Khan02/JBIL_2_A_two_Khan02.wav,duː,دۊ
+219,three,4404.0,0.7799999999997453,audio/Khan02/JBIL_3_A_three_Khan02.wav,sɪ,سێ
+220,four,4411.573,0.8699999999998909,audio/Khan02/JBIL_4_A_four_Khan02.wav,tʃaːr,چوار
+221,five,4420.0,0.9970000000002983,audio/Khan02/JBIL_5_A_five_Khan02.wav,pɛntʃ,پەنچ
+247,head,4838.913,0.7830000000003565,audio/Khan02/JBIL_31_A_head_Khan02.wav,sɛr,سەر
+251,eye,4878.0,0.8450000000002547,audio/Khan02/JBIL_33_A_eye_Khan02.wav,tʃɑː,چاو
+252,ear,4901.487,1.149000000000342,audio/Khan02/JBIL_35_A_ear_Khan02.wav,ɡoʃ,گەوش
+254,mouth,4911.379,0.8530000000000655,audio/Khan02/JBIL_36_A_mouth_Khan02.wav,dɛm,دم
+255,tooth,4921.865,1.28899999999976,audio/Khan02/JBIL_37_A_tooth_Khan02.wav,dɪɡan,دگان
+257,tongue,4932.46,1.167000000000371,audio/Khan02/JBIL_38_A_tongue_Khan02.wav,zan,زوان
+259,neck,4940.834,0.8530000000000655,audio/Khan02/JBIL_39_A_neck_Khan02.wav,mɛl,مەل
+263,hand,4999.402,1.0789999999997235,audio/Khan02/JBIL_42_A_hand_Khan02.wav,dɛss,دەس
+264,finger,5014.834,0.9920000000001892,audio/Khan02/JBIL_44_A_finger_Khan02.wav,pɛndʒɛ,پەن جە
+276,foot,5278.54,0.9049999999997453,audio/Khan02/JBIL_55_A_foot_Khan02.wav,pa,پە
+277,skin,5330.0,1.2470000000002983,audio/Khan02/JBIL_56_A_skin_Khan02.wav,puːse,پۊسە
+278,bone,5335.873,1.0450000000000728,audio/Khan02/JBIL_57_A_bone_Khan02.wav,suqaːn,سەکان
+279,blood,5345.157,1.1840000000001965,audio/Khan02/JBIL_58_A_blood_Khan02.wav,xyn,خەۊن
+281,heart,5392.214,1.042000000000371,audio/Khan02/JBIL_60_A_heart_Khan02.wav,dʌl,دەو
+282,liver,5420.642,1.042000000000371,audio/Khan02/JBIL_61_A_liver_Khan02.wav,dɪɡɪr,جگر
+283,person,5439.362,1.2969999999995707,audio/Khan02/JBIL_62_A_person_Khan02.wav,kʌs,کەس
+284,man,5446.706,1.2929999999996653,audio/Khan02/JBIL_63_A_man_Khan02.wav,piɑ,پیەو
+286,woman,5570.361,1.2039999999997235,audio/Khan02/JBIL_65_A_woman_Khan02.wav,ʒɪn,ێ ژن
+296,bride,5722.494,1.5050000000001091,audio/Khan02/JBIL_77_A_bride_Khan02.wav,wʌi,وەوی
+297,name,5742.19,0.8569999999999709,audio/Khan02/JBIL_78_A_name_Khan02.wav,nɑː,نەو
+298,dog,5796.278,1.0190000000002328,audio/Khan02/JBIL_79_A_dog_Khan02.wav,sʌk,سەگ
+300,horn,5818.387,1.274000000000342,audio/Khan02/JBIL_81_cow_horn_Khan02.wav,ʃax,شاخ
+301,tail,5827.677,1.1809999999995853,audio/Khan02/JBIL_82_A_tail_Khan02.wav,kilɪk,کەیلێگ
+302,claw,5898.71,2.0150000000003274,audio/Khan02/JBIL_83_A_claw_Khan02.wav,nyxan,نۊخان
+303,feather,5920.327,0.9260000000003856,audio/Khan02/JBIL_84_A_feather_Khan02.wav,pʌr,پەر
+310,fish,5985.217,1.3900000000003274,audio/Khan02/JBIL_91_A_fish_Khan02.wav,masi,ماسی
+311,bird,6002.619,0.9489999999996144,audio/Khan02/JBIL_92_A_bird_Khan02.wav,teːr,تەیر
+315,louse,6082.963,1.0360000000000582,audio/Khan02/JBIL_96_A_louse_Khan02.wav,rɑʃik,ڕاشک
+316,tree,6095.658,0.9489999999996144,audio/Khan02/JBIL_97_A_tree_Khan02.wav,dar,دەر
+322,leaf,6272.0,1.0159999999996217,audio/Khan02/JBIL_102_A_leaf_Khan02.wav,ɡlaː,گلەم
+323,root,6434.855,1.1440000000002328,audio/Khan02/JBIL_104_A_root_Khan02.wav,riːʃʌɡ,ڕیشگ
+325,seed,6404.187,0.9819999999999709,audio/Khan02/JBIL_106_A_seed_Khan02.wav,tʃɪndʒɪk,چنجگ
+328,cloud,6488.0,0.8109999999996944,audio/Khan02/JBIL_109_A_cloud_Khan02.wav,hɔr,هەور
+330,sun,6633.203,0.7960000000002765,audio/Khan02/JBIL_111_A_sun_Khan02.wav,xor,خوەر
+333,moon,6648.941,1.0579999999999927,audio/Khan02/JBIL_113_A_moon_Khan02.wav,maŋk,مانگ
+334,star,6683.2430000117165,1.0619999882837874,audio/Khan02/JBIL_115_A_star_Khan02.wav,hasaːra,هەساڕەم
+336,mountain,6728.0,0.8739999999997963,audio/Khan02/JBIL_118_A_mountain_Khan02.wav,dʒɔʌl,جەوەل
+337,stone,6740.768,0.9290000000000873,audio/Khan02/JBIL_119_A_stone_Khan02.wav,kutʃʌk,کو چک
+338,sand,6765.678,0.7590000000000146,audio/Khan02/JBIL_120_A_sand_Khan02.wav,qom,قەم
+340,water,6819.137,0.86200000000008,audio/Khan02/JBIL_122_A_water_Khan02.wav,aʊ,ئەو
+344,fire,7026.222,0.8900000000003274,audio/Khan02/JBIL_130_A_fire_Khan02.wav,aːɡr,ئەگر
+345,smoke,7034.316,1.1649999999999636,audio/Khan02/JBIL_131_A_smoke_Khan02.wav,dykɑl,دۊ کەو
+354,egg,7195.51,1.0469999999995707,audio/Khan02/JBIL_141_A_egg_Khan02.wav,xaːjɑ,خایا
+355,milk,7206.103,1.0209999999997308,audio/Khan02/JBIL_142_A_milk_Khan02.wav,ʃiːr,شیر
+356,honey,7220.619,0.9420000000000073,audio/Khan02/JBIL_143_A_honey_Khan02.wav,asɛl,ئەسەل
+357,walnut,7240.496,1.5029999999997017,audio/Khan02/JBIL_144_A_walnut_Khan02.wav,ɡirdakɑn,گر دەکان
+365,new,7397.692,1.0870000000004438,audio/Khan02/JBIL_154_A_new_Khan02.wav,taːza,تازا
+366,hot,7414.259,0.9030000000002474,audio/Khan02/JBIL_156_fire_hot_Khan02.wav,ɡɛrʌm,گەرم
+367,cold,7421.226,0.9949999999998909,audio/Khan02/JBIL_157_A_cold_Khan02.wav,sɛrt,سەرد
+375,full,7491.499,0.6149999999997817,audio/Khan02/JBIL_165_A_full_Khan02.wav,pʌr,پر
+377,dry,7479.287,0.8019999999996799,audio/Khan02/JBIL_167_A_dry_Khan02.wav,uʃk,وشک
+378,round,7526.0,0.899000000000342,audio/Khan02/JBIL_171_A_round_Khan02.wav,xʌr,خەر
+385,green,7618.805,1.1940000000004147,audio/Khan02/JBIL_177_A_green_Khan02.wav,saʊszuːp,ساوز
+42,rain,1665.297,0.974999999999909,audio/Khan02/KLQ_3.1_A_rain_Khan02.wav,baran,بەران
+44,snow,1766.534,0.8530000000000655,audio/Khan02/KLQ_3.4_A_snow_Khan02.wav,bɛθər,بەفر
+5,nose,489.381,0.7480000000000473,audio/Khan02/KLQ_1.5_A_nose_Khan02.wav,liːt,لۊت
+504,this,10853.853,0.647000000000844,audio/Khan02/JBIL_298_A_this_Khan02.wav,ajɑ,ئەیا
+506,that,10862.897,0.6700000000000728,audio/Khan02/JBIL_299_A_that_Khan02.wav,awa,ئەوە
+52,salt,1947.438,1.2360000000001037,audio/Khan02/KLQ_3.14_A_salt_Khan02.wav,xwa,خوە
+53,big,1959.014,1.183999999999969,audio/Khan02/KLQ_4.1_A_big_Khan02.wav,ɡaʊrʌ,گەوورە
+534,bark,6336.275,1.1779999999998836,audio/Khan02/JBIL_103_A_bark_Khan02.wav,tuːkɪldɛr,توکڵ دار
+536,night,4154.353999999999,1.2010000000000218,audio/Khan02/KLQ_10.21_A_night_Khan02.wav,ʃoʊ,شەو
+538,ash,7114.626,1.0559999999995853,audio/Khan02/JBIL_132_A_ash_Khan02.wav,xolaku,خوەڵکۊ
+54,small,1972.862,0.9580000000000837,audio/Khan02/KLQ_4.2_A_small_Khan02.wav,biːtʃʌk,بی چک
+55,long,1984.167,0.974999999999909,audio/Khan02/KLQ_4.3_A_long_Khan02.wav,diriʒ,دریش
+70,good,2201.466,1.099999999999909,audio/Khan02/KLQ_4.19_A_good_Khan02.wav,xɑs,خاس
+88,white,2509.378,1.199999999999818,audio/Khan02/KLQ_5.1_A_white_Khan02.wav,tʃermi,چەرمی
+89,black,2520.451,1.0470000000000255,audio/Khan02/KLQ_5.2_A_black_Khan02.wav,raʃ,ڕاش
+90,red,2528.453,1.099999999999909,audio/Khan02/KLQ_5.3_A_red_Khan02.wav,kʌrmʌz,قرمەس
