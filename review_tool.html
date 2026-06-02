@@ -752,6 +752,7 @@ textarea, input { font-family: inherit; }
         <thead>
           <tr>
             <th>Speaker</th>
+            <th>Audio</th>
             <th>IPA & Utterances</th>
             <th>Arabic sim.</th>
             <th>Persian sim.</th>
@@ -1071,13 +1072,12 @@ function renderFormsTable(concept, dec) {
         <div style="font-weight:600">${escHtml(speaker)}</div>
         ${srcBadge} ${verifyBadge}
       </td>
+      <td style="text-align:center">${mainAudio}</td>
       <td>
         <div style="display:flex; align-items:center; gap:8px">
           <span class="ipa-cell" id="ipa-cell-${fi}"
             onclick="startEditIPA(${fi}, '${escHtml(speaker)}')"
             title="Click to edit">${escHtml(ipa || '—')}</span>
-          ${mainAudio}
-          ${form.start_sec != null ? `<span class="timestamp" title="Original recording timestamp" style="font-size:0.75em;color:#888;margin-left:4px;cursor:help">${fmtTime(form.start_sec)}${form.duration_sec ? ' ('+form.duration_sec.toFixed(2)+'s)' : ''}</span>` : ''}
         </div>
         ${renderPhoneticFlags(form, fi, speaker)}
         ${mainSpec}
