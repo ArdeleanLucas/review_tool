@@ -1085,7 +1085,9 @@ function renderFormsTable(concept, dec) {
       <td>
         <span class="cognate-badge" style="color:${cFg};background:${cBg}"
           onclick="cycleCogClass(event,'${escHtml(speaker)}')"
-          title="Click to cycle class">${cogClass}</span>
+          onmousedown="cogPressStart(event,'${escHtml(speaker)}')" onmouseup="cogPressEnd()" onmouseleave="cogPressEnd()"
+          ontouchstart="cogPressStart(event,'${escHtml(speaker)}')" ontouchend="cogPressEnd()"
+          title="Click to cycle • long-press to reset">${cogClass}</span>
       </td>
       <td>
         <button class="row-flag-btn${isFlagged ? ' flagged' : ''}"
@@ -1371,8 +1373,37 @@ function mergeAll() {
   showToast('All forms merged into set A.');
 }
 
+let _cogPressTimer = null, _cogPressFired = false;
+function cogPressStart(evt, speaker) {
+  _cogPressFired = false;
+  if (_cogPressTimer) clearTimeout(_cogPressTimer);
+  _cogPressTimer = setTimeout(() => { _cogPressFired = true; resetCogClass(speaker); }, 550);
+}
+function cogPressEnd() { if (_cogPressTimer) { clearTimeout(_cogPressTimer); _cogPressTimer = null; } }
+function resetCogClass(speaker) {
+  const concept = getCurrentConcept();
+  if (!concept) return;
+  ensureDec(concept.concept_id);
+  const dec = decisions[concept.concept_id];
+  dec.cognate_sets = dec.cognate_sets || JSON.parse(JSON.stringify(concept.cognate_sets || {}));
+  // remove speaker from all current sets
+  for (const k of Object.keys(dec.cognate_sets)) {
+    const i = dec.cognate_sets[k].indexOf(speaker);
+    if (i !== -1) dec.cognate_sets[k].splice(i, 1);
+  }
+  // restore speaker to its original exported set
+  let orig = null;
+  for (const [k, spks] of Object.entries(concept.cognate_sets || {})) {
+    if (Array.isArray(spks) && spks.includes(speaker)) { orig = k; break; }
+  }
+  if (orig) { (dec.cognate_sets[orig] = dec.cognate_sets[orig] || []).push(speaker); }
+  for (const k of Object.keys(dec.cognate_sets)) { if (!dec.cognate_sets[k].length) delete dec.cognate_sets[k]; }
+  autoSave();
+  renderCurrentConcept();
+}
 function cycleCogClass(evt, speaker) {
   evt.stopPropagation();
+  if (_cogPressFired) { _cogPressFired = false; return; }
   const concept = getCurrentConcept();
   if (!concept) return;
   ensureDec(concept.concept_id);
