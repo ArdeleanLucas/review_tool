@@ -760,12 +760,6 @@ textarea, input { font-family: inherit; }
       </table>
     </div>
 
-    <!-- cognate decision -->
-    <div class="card">
-      <div class="card-title">Cognate Decision</div>
-      <div class="cognate-panel" id="cognate-panel"></div>
-    </div>
-
     <!-- borrowing panel -->
     <div class="card" id="borrow-card">
       <div class="card-title">Potential Borrowings</div>
@@ -779,7 +773,6 @@ textarea, input { font-family: inherit; }
         <div class="parse-notes-label">PARSE cognate decision (read-only)</div>
         <div id="parse-notes" class="parse-notes"></div>
       </div>
-      <textarea class="notes-textarea" id="notes-field" placeholder="Free-form notes for this concept…" oninput="saveNotes(this.value)"></textarea>
     </div>
 
     <!-- nav footer -->
@@ -959,9 +952,7 @@ function renderConcept(idx) {
   if (!filtered.length) {
     document.getElementById('concept-title').textContent = 'No concepts match filter';
     document.getElementById('forms-tbody').innerHTML = '';
-    document.getElementById('cognate-panel').innerHTML = '';
     document.getElementById('borrow-panel').innerHTML = '';
-    document.getElementById('notes-field').value = '';
     return;
   }
   currentIdx = Math.max(0, Math.min(idx, filtered.length - 1));
@@ -992,9 +983,6 @@ function renderConcept(idx) {
   // Forms table
   renderFormsTable(concept, dec);
 
-  // Cognate panel
-  renderCognatePanel(concept, dec);
-
   // Borrowing panel
   renderBorrowPanel(concept, dec);
 
@@ -1003,7 +991,6 @@ function renderConcept(idx) {
   const _cNote = (concept.notes || '').trim();
   if (_cNote) { document.getElementById('parse-notes').textContent = _cNote; _pnWrap.style.display = 'block'; }
   else { _pnWrap.style.display = 'none'; }
-  document.getElementById('notes-field').value = dec.notes || '';
 
   // Nav
   document.getElementById('btn-prev').disabled = currentIdx === 0;
