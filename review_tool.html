@@ -827,12 +827,28 @@ function cogColor(label) {
 
 // Auto-load review_data.json from same directory (for server mode)
 (function autoLoad() {
-  fetch('review_data.json')
+  fetch('review_data.json?t=' + Date.now())
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       reviewData = data;
       initApp();
       console.log('Auto-loaded review_data.json from server.');
+      // Auto-load notes overlay (decisions.json) if served; merge without clobbering existing notes
+      fetch('decisions.json?t=' + Date.now())
+        .then(r => r.ok ? r.json() : null)
+        .then(dj => {
+          if (!dj || !dj.decisions) return;
+          let added = 0;
+          Object.entries(dj.decisions).forEach(([cid, dv]) => {
+            if (dv && dv.notes) {
+              if (!decisions[cid]) decisions[cid] = {};
+              if (!decisions[cid].notes) { decisions[cid].notes = dv.notes; added++; }
+            }
+          });
+          if (added) { autoSave(); renderSidebar(); renderConcept(currentIdx); updateProgress(); }
+          console.log('Auto-loaded decisions.json notes (' + added + ' applied).');
+        })
+        .catch(() => {});
     })
     .catch(() => {
       console.log('Auto-load failed (not served?). Use file picker.');
