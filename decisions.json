@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "reviewer": "Lucas Ardelean",
+    "source": "parseui-compare-notes-v1.json + parse-enrichments concept_notes",
+    "note_count": 82
+  },
+  "decisions": {
+    "1.1": {
+      "notes": "Merged from clarifier rows on 2026-05-28:\n- hair (men) — was concept_id 249\n- hair (women) — was concept_id 250\n\nHAIR — A qij; B mū (re-lettered from C 2026-06-02; the former gis state retired, no gap). gis (Fail01, female-hair tress) = gendered hyponym → off-matrix metadata. Multi-token speakers resolved to ONE state by FIRST-ELICITED token (honest pragmatic selection; conditioning undetermined — flagged for sensitivity): Qorv01/Fail03 qiž→A, Khan02 qɑʒ→A, Saha01 muːsɛr→B(mū). Fail01='?' (UNCERTAIN, missing): only tokens gendered (gis=female, mū=male), generic-'hair' undetermined. Single-token: Kalh01/Kalh02/Badr01=B(mū); Mand01/Qasr01=A. rep=A."
+    },
+    "1.5": {
+      "notes": "NOSE — A lüt; B pit (clean isogloss). Fail03 poly A+B. rep=A."
+    },
+    "2.5": {
+      "notes": "SISTER — single state A. rep=A."
+    },
+    "3.1": {
+      "notes": "RAIN — single state A (b~w collapse). rep=A."
+    },
+    "3.4": {
+      "notes": "SNOW — single state A (excellent §16 collapse). rep=A."
+    },
+    "3.14": {
+      "notes": "SALT — single state A. rep=A."
+    },
+    "4.1": {
+      "notes": "BIG — A gawra (etymology uncertain); B gap (Fail/Badr isogloss). Real 2-state SK isogloss. Junk buːtʃ/zaɪf/ɡoːda flagged. rep=A."
+    },
+    "4.2": {
+      "notes": "SMALL — single state A. 'derʒ' Kalh01 discarded. rep=A."
+    },
+    "4.3": {
+      "notes": "LONG — A dirēž; B kwal (single-speaker, risk noted). rep=A."
+    },
+    "4.19": {
+      "notes": "GOOD — A xās/xweš; B baš (Fail01 poly A+B). rep=A."
+    },
+    "167": {
+      "notes": "DRY — single state A (h~w~x collapse). rep=A."
+    },
+    "5.1": {
+      "notes": "WHITE — A čermī; B safēd+spī MERGED <*spaita- (safēd loan-flagged); C Arabic abyaḍ. Genuine doublets Mand01(A+C),Qasr01(A+B). rep=A."
+    },
+    "5.2": {
+      "notes": "BLACK — A reš; B siyā (inherited *syāva-); C Arabic aswad loan. Saha01 seː/سی (sī) = reduced siyā (siyā→sī final-syllable reduction + ī~ē nucleus §16) → B, added 2026-06-02. rep=B (majority)."
+    },
+    "5.3": {
+      "notes": "RED — A native sūr (2/10, REP per native-preference policy); B qirmiz Arabic loan(majority, flagged). rep=A (native; documented policy)."
+    },
+    "177": {
+      "notes": "GREEN — single state A. rep=A."
+    },
+    "5.5": {
+      "notes": "YELLOW — single state A. rep=A."
+    },
+    "7.12": {
+      "notes": "FLY (VERB) — split from insect. A pařīn/firrīn (<*par-; +Saha01 fɔrɪn, +Qasr01 pari); B parwāz-kird (Persian); C bāɫ-girt periphrasis (+Fail01 balɡərt, KLQ 7.12). All recategorized tokens resolved 2026-05-31. rep=A."
+    },
+    "10.21": {
+      "notes": "NIGHT — single state A. rep=A."
+    },
+    "1": {
+      "notes": "ONE — single state A. rep=A."
+    },
+    "2": {
+      "notes": "TWO — single state A. rep=A."
+    },
+    "3": {
+      "notes": "THREE — single state A. rep=A."
+    },
+    "4": {
+      "notes": "FOUR — single state A. rep=A."
+    },
+    "5": {
+      "notes": "FIVE — single state A. rep=A."
+    },
+    "31": {
+      "notes": "HEAD — A sar; B kapul(skull, poly Fail01/Qasr01). rep=A."
+    },
+    "33": {
+      "notes": "EYE — single state A. rep=A."
+    },
+    "35": {
+      "notes": "EAR — single state A. rep=A."
+    },
+    "36": {
+      "notes": "MOUTH — single state A. rep=A."
+    },
+    "37": {
+      "notes": "TOOTH — single state A < *dantan- 'tooth' (inherited medial nasal *-nt-; variants lenite or g-reflex the cluster, one root). rep=A."
+    },
+    "38": {
+      "notes": "TONGUE — zuwān+zabān MERGED to one set <*hizvā-. zabān(Fail01) loan-flagged, not a separate state. rep=A."
+    },
+    "39": {
+      "notes": "NECK — single state A. rep=A."
+    },
+    "42": {
+      "notes": "HAND — A dast (§12 collapse); B mɛtʃiɡ (single-speaker HIGH risk). rep=A."
+    },
+    "44": {
+      "notes": "FINGER — A kilik; B panja. rep=A."
+    },
+    "54": {
+      "notes": "KNEE — A=*zānu- (wižin/ežnū metathesis + Persian-shaped zānū, one root; zānū loan-flagged); B=kaškiɫa 'kneecap' (Fail03, distinct). rep=A. Coded A: Qorv01,Kalh01,Kalh02,Fail01,Badr01,Qasr01. PENDING CATEGORIZATION (attested natural speech, NOT mis-elicitations — per 0-mis-elicitation principle): Mand01 'pa'(با) [span carries overlapping 274/275/276 concept tags]; Saha01 ipa 'nozedoni'/ortho زەرانی=zerānī. Khan02: no knee elicitation recorded. These await root assignment by the analyst; not discarded."
+    },
+    "55": {
+      "notes": "FOOT — single state A. rep=A."
+    },
+    "56": {
+      "notes": "SKIN — single state A. rep=A."
+    },
+    "57": {
+      "notes": "BONE — single state A. rep=A."
+    },
+    "58": {
+      "notes": "BLOOD — single state A xwēn (engine §16 collapses ü~wi). rep=A."
+    },
+    "60": {
+      "notes": "HEART — A native dil (6/10, rep); B Arabic qalb loan-flagged. CORRECTED: v1 wrongly made Arabic qalb the representative. rep=A."
+    },
+    "61": {
+      "notes": "LIVER — A jigar (native, rep); B kilia (Mand01, Arabic كلية semantically extended to 'liver', loan-flagged, single-speaker; speaker-confirmed natural usage). rep=A."
+    },
+    "62": {
+      "notes": "PERSON — A kas; B Arabic nafar; C Arabic šaxs. rep=A."
+    },
+    "63": {
+      "notes": "MAN — single state A. rep=A."
+    },
+    "65": {
+      "notes": "WOMAN — A žin; B dot('girl', semantic). Kalh01 ɑfɛrɛt(Arabic) flagged. rep=A."
+    },
+    "77": {
+      "notes": "BRIDE — A way; B Arabic ʿarūs (genuine doublet Kalh01); C būk. rep=A."
+    },
+    "78": {
+      "notes": "NAME — single state A. rep=A."
+    },
+    "79": {
+      "notes": "DOG — single state A native sag/sei (generic 'dog'; sei canonical). Kalh01 produced two tokens tagged 298: ɡʌmal/گەماڵ (2620.5s) + seɪ/سەی (2637.7s). گەماڵ/gamāɫ = 'male dog' (gendered/size hyponym, 'large/guard/mastiff'), contrasting with generic sag; parallel female term daɫ/deɫ in the same varieties — SUBSTANTIATED: Belelli (2021:93) Harsini-Laki generic-vs-gender-marked animal table; corroborated by CK lexica (CK Wikipedia سەگ; VejinLex هنبانە بۆرینە; bradost.net; Wiktionary gemall 'male dog; mastiff'). Sex-specific hyponyms (Kalh01 gamal; analogous terms from other speakers) are HYPONYMS of generic 'dog', not distinct cognate classes/synonyms → off-matrix metadata, excluded under meaning-anchored lexeme-inclusion (cf. BIRD bāɫdār, HAIR gis; IE-CoR primary-lexeme rule, ABVD practice). Kalh01 coded A via seɪ. NO evidence for 'camel' (Arabic jamal) in SK/Kalhori/Laki for this form — earlier 'camel' framings were surface-form guesses only. rep=A. (single-speaker hyponym; see DOG_298_Independent_Methodological_Review.md.)"
+    },
+    "81": {
+      "notes": "HORN — A šāx; B Arabic būq loan (single-speaker, risk noted). rep=A."
+    },
+    "82": {
+      "notes": "TAIL — A dūm (dim. collapse); B kilk. rep=A."
+    },
+    "83": {
+      "notes": "CLAW — A čng; B nāxun(nail); C qalua; D panja(paw). Semantic inflation on B/D. rep=A."
+    },
+    "84": {
+      "notes": "FEATHER — A par; B rīš(semantic). rep=A."
+    },
+    "91": {
+      "notes": "FISH — single set <*masya-. māhī(Persian s>h shape) and māsī(native) are ONE cognate; māhī tokens loan-flagged. rep=A (māsī form)."
+    },
+    "92": {
+      "notes": "BIRD — A mal (inherited, 5 speakers); B parande Persian loan; C ṭayr/ṭuyūr Arabic loan; D mamər; E pelɛʁar. rep=A. bāɫdār (Qorv01/Fail03) FOLDED into A 2026-06-01: a productive descriptive compound ('wing-haver'), not an inherited root (Review #2 — rules give no support for a separate state; homoplasy risk); no speaker lost (both also said mal). Reverses the earlier keep-as-innovation call. (5 states; was 6)."
+    },
+    "96": {
+      "notes": "LOUSE — 4 native roots; rep=C šiš (plurality 4/10), CORRECTED from v1 spī(2/10). Keep multi-state (informative). rep=C."
+    },
+    "97": {
+      "notes": "TREE — single state A. rep=A."
+    },
+    "102": {
+      "notes": "LEAF — A gełā/walg; B belg/barg (5-5). rep=B (slight, and MP4 align). rep=B."
+    },
+    "104": {
+      "notes": "ROOT — A rēša (rep); B rag/reg (Fail01, single-speaker); C bin/bendar (Mand01, بەن دار 'tree-root/base', single-speaker). Three distinct native 'root' lexemes. rep=A."
+    },
+    "106": {
+      "notes": "SEED — A toxm; B bɛd; C tʃɪndʒɪk; D Persian dāna(loan). Singleton inflation B/C. rep=A."
+    },
+    "109": {
+      "notes": "CLOUD — single state A hawr (all 10). Khan02 hɔr (ortho هەور; IPA corrected from hɔd 2026-06-02) and Saha01 oːr/awra (glottal-onset vowel-initial reflex) folded into A; former single-speaker B dropped. rep=A."
+    },
+    "111": {
+      "notes": "SUN — A xwar; B Persian āftāb loan; C kʌtʃʌɡ (Kalh01, distinct lexeme کوەچەگ, etymology uncertain, speaker-confirmed; single-speaker, high risk). rep=A."
+    },
+    "113": {
+      "notes": "MOON — single state A. rep=A."
+    },
+    "115": {
+      "notes": "STAR — A reflexes of *star- (astāra/hasāra; onset h-/a-/ø- prothesis; Fail03 qāsīra = same root, idiosyncratic q- onset, not a rule); B Arabic najma loan (Mand01, single-speaker). rep=A."
+    },
+    "118": {
+      "notes": "MOUNTAIN — A kēw; B Arabic jabal loan; C šāx. rep=A."
+    },
+    "119": {
+      "notes": "STONE — A kučik; B bard; C Persian sang. Kalh01 listing artifact noted. rep=A."
+    },
+    "120": {
+      "notes": "SAND — A šin core; B lam; C māsa; D rix; E qom loan; F xāk-i biābān (Qasr01, descriptive phrase, speaker-confirmed usage; reinstated 2026-05-31 per analyst). Poly Fail03(A+C),Badr01(A+D). rep=A. (6 states)."
+    },
+    "122": {
+      "notes": "WATER — single state A. rep=A."
+    },
+    "130": {
+      "notes": "FIRE — single state A. rep=A."
+    },
+    "131": {
+      "notes": "SMOKE — single set <*dū-. dūkel and dūd MERGED (Persian-shaped dūd loan-flagged, not a separate state). rep=A."
+    },
+    "141": {
+      "notes": "EGG — A xāya (8/10, rep); B hēlke (2/10). CORRECTED: v1 wrongly picked 2-speaker minority. rep=A."
+    },
+    "142": {
+      "notes": "MILK — single state A. rep=A."
+    },
+    "143": {
+      "notes": "HONEY — A ʿasal (Arabic loan, 8/10 majority, flagged); B native hangwīn (2/10). rep=B per native-preference policy (a loan is never the sole representative); ʿasal kept as loan-flagged state A. Matches RED precedent."
+    },
+    "144": {
+      "notes": "WALNUT — single state A. rep=A."
+    },
+    "154": {
+      "notes": "NEW — A Persian tāza (distinct root, loan-flagged, 8/10); B native nū (5/10). rep=B per native-preference policy (a loan is never the sole representative). MP4 still resolves polymorphic speakers to A (tāza, more frequent across the dataset) — representative and MP4 are distinct axes. Matches RED precedent."
+    },
+    "156": {
+      "notes": "HOT — A garm; B dax (distinct). rep=A."
+    },
+    "157": {
+      "notes": "COLD — A sard; B zokma (Fail01 poly A+B). rep=A."
+    },
+    "165": {
+      "notes": "FULL — single state A. rep=A."
+    },
+    "171": {
+      "notes": "ROUND — A gird; B xar (Saha01 poly A+B). rep=A."
+    },
+    "298": {
+      "notes": "THIS — A aya; B ama (Fail01 poly; possible allomorphs). rep=A."
+    },
+    "299": {
+      "notes": "THAT — single state A. rep=A."
+    },
+    "319": {
+      "notes": "I — single state A min (1sg). rep=A."
+    },
+    "322": {
+      "notes": "YOU (PL) — split from you. A ēwa (2pl); Saha01 eva, Badr01 hava (h-prothesis §14), Kalh01 uya (audio-confirmed üya) folded in 2026-05-31. rep=A."
+    },
+    "321": {
+      "notes": "WE — single state A. rep=A."
+    },
+    "103": {
+      "notes": "BARK — A tūk; B sɑk; C pūs-dar descriptive. rep=A."
+    },
+    "132": {
+      "notes": "ASH — A xwel; B boːrʌk (single-speaker, high risk). rep=A."
+    }
+  }
+}
