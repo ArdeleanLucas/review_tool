@@ -385,12 +385,15 @@ textarea, input { font-family: inherit; }
   border-radius: 4px;
   font-weight: 700;
 }
-.variant-wrap { margin-top: 6px; }
-.variant-toggle { cursor: pointer; font-size: 0.75rem; font-weight: 700; color: #4461d4; user-select: none; display: inline-flex; align-items: center; gap: 5px; }
-.vcaret { display: inline-block; transition: transform .12s; }
-.variant-wrap.open .vcaret { transform: rotate(90deg); }
+.form-row.expandable { cursor: pointer; }
+.form-row.expandable:hover > td { background: #f3f6fd; }
+.row-caret { display: inline-block; transition: transform .12s; color: #4461d4; font-size: 0.8rem; }
+.form-row.expanded .row-caret { transform: rotate(90deg); }
+.form-detail > td { background: #f8f9fc; padding: 0; }
+.variant-panel { padding: 10px 16px; border-left: 3px solid #4461d4; }
+.variant-panel-title { font-size: 0.72rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: .03em; margin-bottom: 8px; }
+.variant-tag { display: inline-flex; align-items: center; justify-content: center; min-width: 20px; height: 20px; padding: 0 4px; border-radius: 4px; background: #e2e8f5; color: #334155; font-weight: 700; font-size: 0.75rem; }
 .variant-ipa { font-family: monospace; flex: 1; }
-.variant-wrap.open .variant-stack { display: flex; }
 
 
 /* Similarity bars */
@@ -1067,24 +1070,28 @@ function renderFormsTable(concept, dec) {
       </div>
     ` : '';
 
-    // Variants — click the toggle to expand the realizations below
-    let variantsHtml = '';
-    if (form.variants && form.variants.length > 0) {
-      const selIdx = varSels[speaker];
-      const rows = form.variants.map((v, vi) => `
+    // Variant realizations — shown in an expandable detail row below the speaker row
+    const hasVariants = form.variants && form.variants.length > 0;
+    const selIdx = varSels[speaker];
+    let detailRow = '';
+    if (hasVariants) {
+      const vrows = form.variants.map((v, vi) => `
             <label class="variant-row">
               <input type="radio" name="var-sel-${fi}" ${selIdx === vi ? 'checked' : ''} onchange="selectVariant('${escHtml(speaker)}', ${vi})">
-              <span class="variant-ipa">${escHtml(v.ipa)}${v.ortho && v.ortho !== v.ipa ? ' \u00b7 ' + escHtml(v.ortho) : ''}</span>
+              <span class="variant-tag">${String.fromCharCode(65 + vi)}</span>
+              <span class="variant-ipa">${escHtml(v.ipa)}${v.ortho && v.ortho !== v.ipa ? ' · ' + escHtml(v.ortho) : ''}</span>
             </label>`).join('');
-      variantsHtml = `<div class="variant-wrap">
-            <span class="variant-toggle" onclick="this.closest('.variant-wrap').classList.toggle('open')"><span class="vcaret">\u25b8</span> ${form.variants.length} variant${form.variants.length > 1 ? 's' : ''}</span>
-            <div class="variant-stack">${rows}</div>
-          </div>`;
+      detailRow = `<tr class="form-detail" id="detail-${fi}" hidden><td colspan="7">
+          <div class="variant-panel">
+            <div class="variant-panel-title">${form.variants.length} realization${form.variants.length > 1 ? 's' : ''} — ${escHtml(speaker)}</div>
+            ${vrows}
+          </div>
+        </td></tr>`;
     }
 
-    return `<tr class="${isBorrow ? 'borrowing-row' : ''}">
+    return `<tr class="form-row${isBorrow ? ' borrowing-row' : ''}${hasVariants ? ' expandable' : ''}"${hasVariants ? ` onclick="toggleFormExpand(${fi}, event)"` : ''}>
       <td>
-        <div style="font-weight:600">${escHtml(speaker)}</div>
+        <div style="font-weight:600">${hasVariants ? `<span class="row-caret">▸</span> ` : ''}${escHtml(speaker)}</div>
         ${srcBadge} ${verifyBadge}
       </td>
       <td style="text-align:center">${mainAudio}</td>
@@ -1096,7 +1103,6 @@ function renderFormsTable(concept, dec) {
         </div>
         ${renderPhoneticFlags(form, fi, speaker)}
         ${mainSpec}
-        ${variantsHtml}
       </td>
       <td>${simBar(arSim, 'Ar')}</td>
       <td>${simBar(prSim, 'Pr')}</td>
@@ -1111,8 +1117,19 @@ function renderFormsTable(concept, dec) {
         <button class="row-flag-btn${isFlagged ? ' flagged' : ''}"
           onclick="toggleRowFlag('${escHtml(speaker)}')">⚑</button>
       </td>
-    </tr>`;
+    </tr>${detailRow}`;
   }).join('');
+}
+
+function toggleFormExpand(fi, ev) {
+  // ignore clicks that land on the row's interactive controls
+  if (ev && ev.target.closest('button, input, .ipa-cell, .cognate-badge, .spec-toggle, .phon-flag')) return;
+  const detail = document.getElementById('detail-' + fi);
+  if (!detail) return;
+  const opening = detail.hasAttribute('hidden');
+  if (opening) detail.removeAttribute('hidden'); else detail.setAttribute('hidden', '');
+  const row = detail.previousElementSibling;
+  if (row) row.classList.toggle('expanded', opening);
 }
 
 function renderPhoneticFlags(form, fi, speaker) {
