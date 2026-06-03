@@ -385,6 +385,10 @@ textarea, input { font-family: inherit; }
   border-radius: 4px;
   font-weight: 700;
 }
+.variant-dd { margin-top: 6px; display: flex; align-items: center; gap: 8px; }
+.variant-dd-label { font-size: 0.72rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: .03em; }
+.variant-select { font-family: monospace; font-size: 0.85rem; padding: 3px 8px; border: 1px solid #c8d0e8; border-radius: 6px; background: #fff; max-width: 300px; cursor: pointer; }
+
 
 /* Similarity bars */
 .sim-bars { display: flex; flex-direction: column; gap: 3px; min-width: 90px; }
@@ -1060,27 +1064,17 @@ function renderFormsTable(concept, dec) {
       </div>
     ` : '';
 
-    // Variants
+    // Variants — collapsed into a dropdown to reduce clutter
     let variantsHtml = '';
     if (form.variants && form.variants.length > 0) {
-      variantsHtml = `<div class="variant-stack">` + form.variants.map((v, vi) => {
-        const isSelected = varSels[speaker] === vi;
-        const vId = `v-${fi}-${vi}`;
-        return `
-          <div class="variant-row">
-            <input type="radio" name="var-sel-${fi}" ${isSelected?'checked':''} onchange="selectVariant('${escHtml(speaker)}', ${vi})">
-            <span class="variant-ordinal">${v.ordinal} utterance</span>
-            <span class="variant-label">${v.label}</span>
-            <span style="font-family:monospace;flex:1">${escHtml(v.ipa)}</span>
-            <audio id="aud-${vId}" src="${escHtml(v.audio_path)}" preload="none"></audio>
-            <button class="play-btn" onclick="document.getElementById('aud-${vId}').play()">▶</button>
-            <span class="spec-toggle" onclick="toggleSpec('spec-${vId}')">Spec</span>
-          </div>
-          <div id="spec-${vId}" class="spec-container hidden">
-            <img src="${escHtml(v.spectrogram_path)}" loading="lazy">
-          </div>
-        `;
-      }).join('') + `</div>`;
+      const selIdx = varSels[speaker];
+      variantsHtml = `<div class="variant-dd">
+            <span class="variant-dd-label">${form.variants.length} variant${form.variants.length > 1 ? 's' : ''}</span>
+            <select class="variant-select" onchange="if(this.value!=='')selectVariant('${escHtml(speaker)}', Number(this.value))">
+              <option value="" ${selIdx === undefined ? 'selected' : ''}>\u25be realizations</option>
+              ${form.variants.map((v, vi) => `<option value="${vi}" ${selIdx === vi ? 'selected' : ''}>${escHtml(v.ipa)}${v.ortho && v.ortho !== v.ipa ? ' \u00b7 ' + escHtml(v.ortho) : ''}</option>`).join('')}
+            </select>
+          </div>`;
     }
 
     return `<tr class="${isBorrow ? 'borrowing-row' : ''}">
