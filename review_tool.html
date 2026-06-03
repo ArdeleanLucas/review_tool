@@ -357,7 +357,7 @@ textarea, input { font-family: inherit; }
 
 /* Variant row stack */
 .variant-stack {
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 8px;
   margin-top: 8px;
@@ -385,9 +385,12 @@ textarea, input { font-family: inherit; }
   border-radius: 4px;
   font-weight: 700;
 }
-.variant-dd { margin-top: 6px; display: flex; align-items: center; gap: 8px; }
-.variant-dd-label { font-size: 0.72rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: .03em; }
-.variant-select { font-family: monospace; font-size: 0.85rem; padding: 3px 8px; border: 1px solid #c8d0e8; border-radius: 6px; background: #fff; max-width: 300px; cursor: pointer; }
+.variant-wrap { margin-top: 6px; }
+.variant-toggle { cursor: pointer; font-size: 0.75rem; font-weight: 700; color: #4461d4; user-select: none; display: inline-flex; align-items: center; gap: 5px; }
+.vcaret { display: inline-block; transition: transform .12s; }
+.variant-wrap.open .vcaret { transform: rotate(90deg); }
+.variant-ipa { font-family: monospace; flex: 1; }
+.variant-wrap.open .variant-stack { display: flex; }
 
 
 /* Similarity bars */
@@ -1064,16 +1067,18 @@ function renderFormsTable(concept, dec) {
       </div>
     ` : '';
 
-    // Variants — collapsed into a dropdown to reduce clutter
+    // Variants — click the toggle to expand the realizations below
     let variantsHtml = '';
     if (form.variants && form.variants.length > 0) {
       const selIdx = varSels[speaker];
-      variantsHtml = `<div class="variant-dd">
-            <span class="variant-dd-label">${form.variants.length} variant${form.variants.length > 1 ? 's' : ''}</span>
-            <select class="variant-select" onchange="if(this.value!=='')selectVariant('${escHtml(speaker)}', Number(this.value))">
-              <option value="" ${selIdx === undefined ? 'selected' : ''}>\u25be realizations</option>
-              ${form.variants.map((v, vi) => `<option value="${vi}" ${selIdx === vi ? 'selected' : ''}>${escHtml(v.ipa)}${v.ortho && v.ortho !== v.ipa ? ' \u00b7 ' + escHtml(v.ortho) : ''}</option>`).join('')}
-            </select>
+      const rows = form.variants.map((v, vi) => `
+            <label class="variant-row">
+              <input type="radio" name="var-sel-${fi}" ${selIdx === vi ? 'checked' : ''} onchange="selectVariant('${escHtml(speaker)}', ${vi})">
+              <span class="variant-ipa">${escHtml(v.ipa)}${v.ortho && v.ortho !== v.ipa ? ' \u00b7 ' + escHtml(v.ortho) : ''}</span>
+            </label>`).join('');
+      variantsHtml = `<div class="variant-wrap">
+            <span class="variant-toggle" onclick="this.closest('.variant-wrap').classList.toggle('open')"><span class="vcaret">\u25b8</span> ${form.variants.length} variant${form.variants.length > 1 ? 's' : ''}</span>
+            <div class="variant-stack">${rows}</div>
           </div>`;
     }
 
