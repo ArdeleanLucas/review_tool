@@ -39,7 +39,8 @@
       "Mand01",
       "Qasr01",
       "Saha01"
-    ]
+    ],
+    "idless_resolved_forms": 84
   },
   "concepts": [
     {
@@ -204,8 +205,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ʁiʒ",
+          "ortho": "بەز",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -284,16 +285,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_1.5_A_nose_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "luːt",
-              "ortho": "لۊت"
-            },
-            {
-              "ipa": "diʃaː",
-              "ortho": "ویتی"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -392,15 +384,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "lyt",
+          "ortho": "لۊت",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_1.5_A_nose_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "lyt",
+              "ortho": "لۊت"
+            },
+            {
+              "ipa": "luːtɛn",
+              "ortho": "لۊت"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -421,18 +422,17 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
+          "Fail01",
+          "Fail03",
           "Kalh01",
           "Kalh02",
-          "Fail01",
           "Khan02",
           "Mand01",
           "Qasr01",
-          "Saha01",
-          "Fail03"
+          "Qorv01",
+          "Saha01"
         ],
         "B": [
-          "Fail03",
           "Badr01"
         ]
       },
@@ -573,8 +573,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xeʃk",
+          "ortho": "خوەیشک",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -644,7 +644,7 @@
         },
         {
           "speaker": "Kalh01",
-          "ipa": "wɑu5ɹa5n",
+          "ipa": "wɑuɹan",
           "ortho": "وەران",
           "cognate_class": "A",
           "arabic_similarity": null,
@@ -652,16 +652,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_3.1_A_rain_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "wɑu5ɹa5n",
-              "ortho": "وەران"
-            },
-            {
-              "ipa": "wɑu5la5n",
-              "ortho": "وەران"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -773,15 +764,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
-          "cognate_class": "?",
+          "ipa": "waːraːn",
+          "ortho": "واران",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_3.1_A_rain_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "waːraːn",
+              "ortho": "واران"
+            },
+            {
+              "ipa": "waran",
+              "ortho": "واران"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -810,7 +810,8 @@
           "Badr01",
           "Khan02",
           "Mand01",
-          "Saha01"
+          "Saha01",
+          "Qasr01"
         ]
       },
       "notes": "RAIN — single state A (b~w collapse). rep=A."
@@ -851,16 +852,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_3.4_A_snow_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "wafr",
-              "ortho": "وەفر"
-            },
-            {
-              "ipa": "wʌf",
-              "ortho": "وەفت"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -968,15 +960,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "wafər",
+          "ortho": "وەفر",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_3.4_A_snow_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "wafər",
+              "ortho": "وەفر"
+            },
+            {
+              "ipa": "wafɛr",
+              "ortho": "وەفر"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -1155,15 +1156,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xwa",
+          "ortho": "خوە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_3.14_A_salt_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "xwa",
+              "ortho": "خوە"
+            },
+            {
+              "ipa": "xwa",
+              "ortho": "خوەا"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -1185,15 +1195,15 @@
       "notes": "SALT — single state A. rep=A.",
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
+          "Kalh01",
+          "Kalh02",
           "Khan02",
-          "Qasr01",
           "Mand01",
+          "Qasr01",
+          "Qorv01",
           "Saha01"
         ]
       }
@@ -1243,20 +1253,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_4.1_A_big_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "ɡoːɹaː",
-              "ortho": "گەورا"
-            },
-            {
-              "ipa": "qaː",
-              "ortho": "قەۊل"
-            },
-            {
-              "ipa": "buːtʃ",
-              "ortho": "بۊچ"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -1285,8 +1282,8 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ɡap",
+          "ortho": "گەپ",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -1368,15 +1365,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ɡoːra",
+          "ortho": "گەورا",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_4.1_A_big_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "ɡoːra",
+              "ortho": "گەورا"
+            },
+            {
+              "ipa": "ɡɔra",
+              "ortho": "گەورا"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -1390,16 +1396,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Saha01/KLQ_4.1_A_big_Saha01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "ɡoːrɔ",
-              "ortho": "گەورە"
-            },
-            {
-              "ipa": "enemfuːikalaŋpi",
-              "ortho": "دەر نێم فووووی دی کەڵن"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         }
@@ -1570,15 +1567,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "buːtʃʌɡ",
+          "ortho": "بۊچەگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_4.2_A_small_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "buːtʃʌɡ",
+              "ortho": "بۊچەگ"
+            },
+            {
+              "ipa": "buːtʃʌɡ",
+              "ortho": "بۊچەگ"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -1641,19 +1647,15 @@
         },
         {
           "speaker": "Kalh01",
-          "ipa": "kwal",
-          "ortho": "کواڵ",
-          "cognate_class": "B",
+          "ipa": "driʒ",
+          "ortho": "دریج",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_4.3_A_long_Kalh01.wav",
           "spectrogram_path": null,
           "variants": [
-            {
-              "ipa": "kwal",
-              "ortho": "کواڵ"
-            },
             {
               "ipa": "driʒ",
               "ortho": "دریج"
@@ -1762,7 +1764,7 @@
           "speaker": "Mand01",
           "ipa": "diɹiʒ",
           "ortho": "دریش",
-          "cognate_class": "?",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
@@ -1774,15 +1776,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dɹiʒ",
+          "ortho": "درییج",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_4.3_A_long_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "dɹiʒ",
+              "ortho": "درییج"
+            },
+            {
+              "ipa": "dɹiʒ",
+              "ortho": "درییش"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -1790,7 +1801,7 @@
           "speaker": "Saha01",
           "ipa": "ʃdiɾiʒ",
           "ortho": "دەریش",
-          "cognate_class": "?",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
@@ -1810,10 +1821,10 @@
           "Fail03",
           "Badr01",
           "Khan02",
-          "Qasr01"
-        ],
-        "B": [
-          "Kalh01"
+          "Qasr01",
+          "Kalh01",
+          "Mand01",
+          "Saha01"
         ]
       }
     },
@@ -1853,16 +1864,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_4.19_A_good_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "xɔs",
-              "ortho": "خاس"
-            },
-            {
-              "ipa": "ɔs",
-              "ortho": "خاس"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -1882,9 +1884,9 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "baʃb",
+          "ipa": "baʃ",
           "ortho": "بە",
-          "cognate_class": "A",
+          "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
@@ -1892,7 +1894,7 @@
           "spectrogram_path": null,
           "variants": [
             {
-              "ipa": "baʃb",
+              "ipa": "baʃ",
               "ortho": "بە"
             },
             {
@@ -1979,15 +1981,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xɑs",
+          "ortho": "هە خاس",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_4.19_A_good_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "xɑs",
+              "ortho": "هە خاس"
+            },
+            {
+              "ipa": "harxɑs",
+              "ortho": "هە خاس"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -2008,15 +2019,14 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
+          "Badr01",
+          "Fail03",
           "Kalh01",
           "Kalh02",
-          "Fail01",
-          "Fail03",
-          "Badr01",
           "Khan02",
           "Mand01",
           "Qasr01",
+          "Qorv01",
           "Saha01"
         ],
         "B": [
@@ -2090,24 +2100,15 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "taːl",
-          "ortho": "داو",
+          "ipa": "hɛʃɪk",
+          "ortho": "هەشک",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Fail01/JBIL_167_A_dry_Fail01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "taːl",
-              "ortho": "داو"
-            },
-            {
-              "ipa": "hɛʃɪk",
-              "ortho": "هەشک"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -2187,15 +2188,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xusk",
+          "ortho": "خوشک",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/JBIL_167_A_dry_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "xusk",
+              "ortho": "خوشک"
+            },
+            {
+              "ipa": "wyʃk",
+              "ortho": "وشک"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -2260,7 +2270,7 @@
           "speaker": "Kalh01",
           "ipa": "səfeːt",
           "ortho": "سفەید",
-          "cognate_class": "B",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": "Persian shape (safēd)",
@@ -2272,12 +2282,8 @@
               "ortho": "سفەید"
             },
             {
-              "ipa": "aːlmi",
-              "ortho": "یەرمی"
-            },
-            {
-              "ipa": "səfɪd",
-              "ortho": "سەفید"
+              "ipa": "tʃalmi",
+              "ortho": "چەرمی"
             }
           ],
           "source": "KLQ",
@@ -2307,16 +2313,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Fail01/KLQ_5.1_A_white_Fail01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "tʃarmek",
-              "ortho": "چەرمگ"
-            },
-            {
-              "ipa": "di",
-              "ortho": "م"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -2375,7 +2372,7 @@
           "speaker": "Mand01",
           "ipa": "abjaθ",
           "ortho": "ئە بیاف",
-          "cognate_class": "A",
+          "cognate_class": "D",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": "Arabic (abyaḍ)",
@@ -2396,15 +2393,28 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
-          "cognate_class": "A",
+          "ipa": "spi",
+          "ortho": "میە چەرمی",
+          "cognate_class": "C",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_5.1_A_white_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "spi",
+              "ortho": "میە چەرمی"
+            },
+            {
+              "ipa": "miatʃarmia",
+              "ortho": "میە چەرمی"
+            },
+            {
+              "ipa": "tʃarmi",
+              "ortho": "چەرمی"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -2425,21 +2435,21 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
+          "Kalh02",
           "Khan02",
-          "Mand01",
-          "Qasr01"
+          "Qorv01",
+          "Kalh01"
         ],
         "B": [
-          "Kalh01",
-          "Saha01",
-          "Qasr01"
+          "Saha01"
         ],
         "C": [
+          "Qasr01"
+        ],
+        "D": [
           "Mand01"
         ]
       },
@@ -2473,7 +2483,7 @@
         },
         {
           "speaker": "Kalh01",
-          "ipa": "tsia",
+          "ipa": "sia",
           "ortho": "سیە",
           "cognate_class": "B",
           "arabic_similarity": null,
@@ -2483,16 +2493,12 @@
           "spectrogram_path": null,
           "variants": [
             {
-              "ipa": "tsia",
+              "ipa": "sia",
               "ortho": "سیە"
             },
             {
               "ipa": "raʃ",
               "ortho": "ڕاش"
-            },
-            {
-              "ipa": "sia",
-              "ortho": "سیە"
             }
           ],
           "source": "KLQ",
@@ -2602,15 +2608,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "sia",
+          "ortho": "شی سیا",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_5.2_A_black_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "sia",
+              "ortho": "شی سیا"
+            },
+            {
+              "ipa": "ʃisiak",
+              "ortho": "شی سیا"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -2631,18 +2646,17 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
           "Kalh02",
-          "Khan02"
+          "Khan02",
+          "Qorv01"
         ],
         "B": [
-          "Kalh01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
           "Qasr01",
-          "Saha01"
+          "Saha01",
+          "Kalh01"
         ],
         "C": [
           "Mand01"
@@ -2686,20 +2700,7 @@
           "borrowing_flag": "Arabic (qirmiz)",
           "audio_path": "audio/Kalh01/KLQ_5.3_A_red_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "qɛrmɛz",
-              "ortho": "قەرمەز"
-            },
-            {
-              "ipa": "suːd",
-              "ortho": "سور"
-            },
-            {
-              "ipa": "qɛrmɛz",
-              "ortho": "قەرمەس"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -2733,7 +2734,7 @@
               "ortho": "گەرمز"
             },
             {
-              "ipa": "surs",
+              "ipa": "sur",
               "ortho": "سوور"
             }
           ],
@@ -2807,15 +2808,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "qarmaz",
+          "ortho": "زاقرم زای",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": "Arabic (qirmiz)",
           "audio_path": "audio/Qasr01/KLQ_5.3_A_red_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "qarmaz",
+              "ortho": "زاقرم زای"
+            },
+            {
+              "ipa": "zaːlqadməzaːhoː",
+              "ortho": "زاقرم زای"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -2917,24 +2927,15 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "aːsuːdʒəɜl",
-          "ortho": "سوو",
+          "ipa": "saʊz",
+          "ortho": "ساوز",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Fail01/KLQ_5.4_grass_green_Fail01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "aːsuːdʒəɜl",
-              "ortho": "سوو"
-            },
-            {
-              "ipa": "saʊz",
-              "ortho": "ساوز"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -2982,7 +2983,7 @@
               "ortho": "سەوز"
             },
             {
-              "ipa": "saʊszuːp",
+              "ipa": "saʊsz",
               "ortho": "ساوز"
             }
           ],
@@ -3005,15 +3006,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "soʊz",
+          "ortho": "سەوز",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_5.4_grass_green_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "soʊz",
+              "ortho": "سەوز"
+            },
+            {
+              "ipa": "soːza",
+              "ortho": "سەوزا"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -3084,16 +3094,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/KLQ_5.5_A_yellow_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "zart",
-              "ortho": "زارت"
-            },
-            {
-              "ipa": "zad",
-              "ortho": "زەر"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -3192,15 +3193,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "zard",
+          "ortho": "زەرد",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_5.5_A_yellow_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "zard",
+              "ortho": "زەرد"
+            },
+            {
+              "ipa": "zard",
+              "ortho": "زەرد"
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -3272,8 +3282,8 @@
         },
         {
           "speaker": "Kalh01",
-          "ipa": "pɛrwɑzkʌ",
-          "ortho": "کرد",
+          "ipa": "pɛrwɑzkʌrdɪn",
+          "ortho": "پەرواز کردن",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -3282,8 +3292,8 @@
           "spectrogram_path": null,
           "variants": [
             {
-              "ipa": "pɛrwɑzkʌ",
-              "ortho": "کرد"
+              "ipa": "pɛrwɑzkʌrdɪn",
+              "ortho": "پەرواز کردن"
             },
             {
               "ipa": "parʃa",
@@ -3309,28 +3319,15 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "balɡɪrt",
-          "ortho": "رین",
+          "ipa": "maɡa",
+          "ortho": "گز",
           "cognate_class": "C",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Fail01/KLQ_7.12_A_to_fly_Fail01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "balɡɪrt",
-              "ortho": "رین"
-            },
-            {
-              "ipa": "tbalɡɪrt",
-              "ortho": "رین"
-            },
-            {
-              "ipa": "maɡa",
-              "ortho": "گز"
-            }
-          ],
+          "variants": null,
           "source": "KLQ",
           "verification": null
         },
@@ -3419,15 +3416,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "paxʃa",
+          "ortho": "پەخشە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_7.12_A_to_fly_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "paxʃa",
+              "ortho": "پەخشە"
+            },
+            {
+              "ipa": "pari",
+              "ortho": ""
+            }
+          ],
           "source": "KLQ",
           "verification": null
         },
@@ -3457,22 +3463,20 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
-          "Fail03",
           "Badr01",
-          "Saha01",
-          "Qasr01"
+          "Fail03",
+          "Kalh02",
+          "Qasr01",
+          "Qorv01",
+          "Saha01"
         ],
         "B": [
           "Kalh01"
         ],
         "C": [
-          "Qorv01",
-          "Fail03",
+          "Fail01",
           "Khan02",
-          "Mand01",
-          "Fail01"
+          "Mand01"
         ]
       },
       "notes": "FLY (VERB) — split from insect. A pařīn/firrīn (<*par-; +Saha01 fɔrɪn, +Qasr01 pari); B parwāz-kird (Persian); C bāɫ-girt periphrasis (+Fail01 balɡərt, KLQ 7.12). All recategorized tokens resolved 2026-05-31. rep=A."
@@ -3519,7 +3523,7 @@
               "ortho": "شەو"
             },
             {
-              "ipa": "ɕonɡ5",
+              "ipa": "ʃoʊ",
               "ortho": "شەو"
             }
           ],
@@ -3621,15 +3625,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ɕoʊ",
+          "ortho": "ک شاو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/KLQ_10.21_A_night_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "ɕoʊ",
+              "ortho": "ک شاو"
+            },
+            {
+              "ipa": "ʃɔ",
+              "ortho": "ک شاو"
+            }
+          ],
           "source": "JBIL",
           "verification": null
         },
@@ -3790,8 +3803,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "jɛk",
+          "ortho": "یەک",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -3959,8 +3972,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "do",
+          "ortho": "دو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -4128,8 +4141,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "se",
+          "ortho": "سێ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -4297,8 +4310,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "tʃwaːr",
+          "ortho": "چوای",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -4466,8 +4479,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pandʒ",
+          "ortho": "پەین ج",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -4545,16 +4558,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_31_A_head_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "saːr",
-              "ortho": "سەڵ"
-            },
-            {
-              "ipa": "kapuːn",
-              "ortho": "کەپووڵ"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -4653,8 +4657,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "serokapul",
+          "ortho": "سەرێو کەپور",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -4682,20 +4686,16 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
+          "Kalh01",
+          "Kalh02",
+          "Khan02",
           "Mand01",
           "Qasr01",
-          "Kalh01",
-          "Khan02",
+          "Qorv01",
           "Saha01"
-        ],
-        "B": [
-          "Fail01",
-          "Qasr01"
         ]
       },
       "notes": "HEAD — A sar; B kapul(skull, poly Fail01/Qasr01). rep=A."
@@ -4844,8 +4844,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "tʃaː",
+          "ortho": "چاو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5013,8 +5013,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ɡuʃ",
+          "ortho": "گووش",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5182,8 +5182,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dam",
+          "ortho": "دەم",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5261,16 +5261,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_37_A_tooth_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "diɑn",
-              "ortho": "دیان"
-            },
-            {
-              "ipa": "savðiːluːwʌɹaɪɪtizʌvðə",
-              "ortho": "وەرایی"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -5369,8 +5360,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ðəɡʌn",
+          "ortho": "دگان",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5547,8 +5538,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "zual",
+          "ortho": "زوان",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5716,8 +5707,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "mɛ",
+          "ortho": "مەیل",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -5885,8 +5876,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dɛs",
+          "ortho": "دەس",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6056,8 +6047,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "kelek",
+          "ortho": "کەلێگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6146,16 +6137,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_54_A_knee_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "wɛndʒi",
-              "ortho": "وەن جی"
-            },
-            {
-              "ipa": "zaːnuː",
-              "ortho": "زانوو"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -6254,8 +6236,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "zaːnu",
+          "ortho": "زانو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6422,8 +6404,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pa",
+          "ortho": "پا",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6591,8 +6573,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pus",
+          "ortho": "پوس",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6760,8 +6742,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "sqaːn",
+          "ortho": "سکان",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -6938,8 +6920,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xyn",
+          "ortho": "خۊن",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7017,16 +6999,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_60_A_heart_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "dɛl",
-              "ortho": "دەو"
-            },
-            {
-              "ipa": "qaʊt",
-              "ortho": "ئەوگ"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -7116,8 +7089,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "del",
+          "ortho": "دەل",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7296,8 +7269,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dʒiɡɛr",
+          "ortho": "جگەرێ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7467,8 +7440,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "kɛs",
+          "ortho": "کەس",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7667,8 +7640,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pjaːɡ",
+          "ortho": "پیاگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7845,8 +7818,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dyɛt",
+          "ortho": "دۊەت",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -7926,16 +7899,7 @@
           "borrowing_flag": "Arabic (ʿarūs)",
           "audio_path": "audio/Kalh01/JBIL_77_A_bride_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "eɹuːs",
-              "ortho": "ئڕووس"
-            },
-            {
-              "ipa": "weɪ",
-              "ortho": "و"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -8034,8 +7998,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "arus",
+          "ortho": "ئەروس",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8063,17 +8027,17 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
-          "Fail03",
           "Badr01",
-          "Khan02"
+          "Fail03",
+          "Kalh02",
+          "Khan02",
+          "Qorv01"
         ],
         "B": [
+          "Kalh01",
           "Mand01",
           "Qasr01",
-          "Saha01",
-          "Kalh01"
+          "Saha01"
         ],
         "C": [
           "Fail01"
@@ -8207,8 +8171,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "naʊ",
+          "ortho": "ناو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8286,16 +8250,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_79_A_dog_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "ɡʌmal",
-              "ortho": "گەماڵ"
-            },
-            {
-              "ipa": "seɪ",
-              "ortho": "سەی"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -8385,8 +8340,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "sak",
+          "ortho": "سەگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8554,8 +8509,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ʃɑx",
+          "ortho": "شاخ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8734,8 +8689,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dy",
+          "ortho": "دۊ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8809,22 +8764,13 @@
           "speaker": "Kalh01",
           "ipa": "qalua",
           "ortho": "کەڵوە",
-          "cognate_class": "B",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_83_A_claw_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "qalua",
-              "ortho": "کەڵوە"
-            },
-            {
-              "ipa": "qalua",
-              "ortho": "ه"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -8914,8 +8860,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pjandʒa",
+          "ortho": "پیەن جە",
           "cognate_class": "D",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -8943,21 +8889,17 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
-          "Fail03",
           "Badr01",
-          "Saha01"
+          "Fail03",
+          "Kalh02",
+          "Qorv01",
+          "Saha01",
+          "Kalh01"
         ],
         "B": [
           "Fail01",
           "Khan02",
-          "Mand01",
-          "Kalh01",
-          "Saha01"
-        ],
-        "C": [
-          "Kalh01"
+          "Mand01"
         ],
         "D": [
           "Qasr01"
@@ -9091,8 +9033,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "par",
+          "ortho": "پایڵ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -9262,8 +9204,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "masi",
+          "ortho": "ماسی",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -9357,10 +9299,6 @@
             },
             {
               "ipa": "malawɛl",
-              "ortho": "مەلەوەر"
-            },
-            {
-              "ipa": "malawal",
               "ortho": "مەلەوەر"
             }
           ],
@@ -9471,8 +9409,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "mamər",
+          "ortho": "مامر",
           "cognate_class": "D",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -9648,8 +9586,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "areʃk",
+          "ortho": "ڕاشک",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -9823,8 +9761,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dɑr",
+          "ortho": "دار",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -9992,8 +9930,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "balik",
+          "ortho": "بەوگ",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -10014,16 +9952,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Saha01/JBIL_102_A_leaf_Saha01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "baːrik",
-              "ortho": "بەرک"
-            },
-            {
-              "ipa": "sedʒaɡəlɔ",
-              "ortho": "سە جایم گڵا"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         }
@@ -10172,8 +10101,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "riʃa",
+          "ortho": "ڕیشە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -10345,8 +10274,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dana",
+          "ortho": "دانەم",
           "cognate_class": "D",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -10520,8 +10449,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "aʊr",
+          "ortho": "ئەور",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -10698,8 +10627,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xwal",
+          "ortho": "خوەر",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -10871,8 +10800,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "maŋɡʌ",
+          "ortho": "مانگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11040,8 +10969,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "stara",
+          "ortho": "ستاەرە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11220,8 +11149,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ki.5",
+          "ortho": "کۊ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11303,20 +11232,7 @@
           "borrowing_flag": "Persian (sang)",
           "audio_path": "audio/Kalh01/JBIL_119_A_stone_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "kotʃek",
-              "ortho": "کوەچێگ"
-            },
-            {
-              "ipa": "san",
-              "ortho": "سان"
-            },
-            {
-              "ipa": "bart",
-              "ortho": "بەرت"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -11406,8 +11322,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "kutʃʌɡ",
+          "ortho": "کوچەگ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11435,22 +11351,18 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
+          "Badr01",
+          "Fail03",
           "Kalh01",
           "Kalh02",
-          "Fail03",
-          "Badr01",
           "Khan02",
           "Mand01",
           "Qasr01",
+          "Qorv01",
           "Saha01"
         ],
         "B": [
-          "Kalh01",
           "Fail01"
-        ],
-        "C": [
-          "Kalh01"
         ]
       },
       "notes": "STONE — A kučik; B bard; C Persian sang. Kalh01 listing artifact noted. rep=A."
@@ -11599,8 +11511,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xakiːbiawan",
+          "ortho": "خاکی بیاوان",
           "cognate_class": "F",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11628,21 +11540,17 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
+          "Badr01",
+          "Fail03",
           "Kalh01",
           "Kalh02",
-          "Fail03",
-          "Badr01"
+          "Qorv01"
         ],
         "B": [
           "Fail01"
         ],
         "C": [
-          "Fail03",
           "Saha01"
-        ],
-        "D": [
-          "Badr01"
         ],
         "E": [
           "Khan02",
@@ -11780,8 +11688,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "au",
+          "ortho": "ئاو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -11949,8 +11857,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "aːɡʌr",
+          "ortho": "ئەگەر",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12118,8 +12026,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dykal",
+          "ortho": "دۊ کەڵ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12287,8 +12195,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xa",
+          "ortho": "خە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12467,8 +12375,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "bʌtʃiɹ",
+          "ortho": "شیر",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12636,8 +12544,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "hasɛl",
+          "ortho": "هەساڵ",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12807,8 +12715,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ɡildɛkan",
+          "ortho": "گردە کان",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -12994,8 +12902,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "nu",
+          "ortho": "نەو",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13016,35 +12924,25 @@
           "borrowing_flag": "Persian (tāza)",
           "audio_path": "audio/Saha01/JBIL_154_A_new_Saha01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "tɔzə",
-              "ortho": "تازە"
-            },
-            {
-              "ipa": "nu",
-              "ortho": "نو"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         }
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Fail01",
           "Badr01",
+          "Fail01",
           "Khan02",
           "Mand01",
+          "Qorv01",
           "Saha01"
         ],
         "B": [
-          "Kalh01",
-          "Qasr01",
-          "Saha01",
           "Fail03",
-          "Kalh02"
+          "Kalh01",
+          "Kalh02",
+          "Qasr01"
         ]
       },
       "notes": "NEW — A Persian tāza (distinct root, loan-flagged, 8/10); B native nū (5/10). rep=B per native-preference policy (a loan is never the sole representative). MP4 still resolves polymorphic speakers to A (tāza, more frequent across the dataset) — representative and MP4 are distinct axes. Matches RED precedent."
@@ -13184,8 +13082,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "dɑx",
+          "ortho": "داخ",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13364,8 +13262,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "sɛrð",
+          "ortho": "سەرد",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13393,19 +13291,16 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
+          "Kalh01",
+          "Kalh02",
+          "Khan02",
           "Mand01",
           "Qasr01",
-          "Kalh01",
-          "Khan02",
+          "Qorv01",
           "Saha01"
-        ],
-        "B": [
-          "Fail01"
         ]
       },
       "notes": "COLD — A sard; B zokma (Fail01 poly A+B). rep=A."
@@ -13536,8 +13431,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pʌr",
+          "ortho": "پڕا",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13635,8 +13530,8 @@
         },
         {
           "speaker": "Fail01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xʌr",
+          "ortho": "خەر",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13705,8 +13600,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xeːr",
+          "ortho": "خەر",
           "cognate_class": "B",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13727,34 +13622,25 @@
           "borrowing_flag": null,
           "audio_path": "audio/Saha01/JBIL_171_A_round_Saha01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "ɡɛrt",
-              "ortho": "گەرد"
-            },
-            {
-              "ipa": "xʌr",
-              "ortho": "خەر"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         }
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
+          "Badr01",
+          "Fail03",
           "Kalh01",
           "Kalh02",
-          "Fail03",
-          "Badr01",
+          "Qorv01",
           "Saha01"
         ],
         "B": [
+          "Fail01",
           "Khan02",
           "Mand01",
-          "Qasr01",
-          "Fail01"
+          "Qasr01"
         ]
       },
       "notes": "ROUND — A gird; B xar (Saha01 poly A+B). rep=A."
@@ -13903,8 +13789,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "aja",
+          "ortho": "ئەیا",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -13932,19 +13818,16 @@
       ],
       "cognate_sets": {
         "A": [
-          "Qorv01",
-          "Kalh02",
+          "Badr01",
           "Fail01",
           "Fail03",
-          "Badr01",
+          "Kalh01",
+          "Kalh02",
+          "Khan02",
           "Mand01",
           "Qasr01",
-          "Kalh01",
-          "Khan02",
+          "Qorv01",
           "Saha01"
-        ],
-        "B": [
-          "Fail01"
         ]
       },
       "notes": "THIS — A aya; B ama (Fail01 poly; possible allomorphs). rep=A."
@@ -14075,8 +13958,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "awa",
+          "ortho": "ئەوە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14163,16 +14046,7 @@
           "borrowing_flag": null,
           "audio_path": "audio/Kalh01/JBIL_319_A_I_Kalh01.wav",
           "spectrogram_path": null,
-          "variants": [
-            {
-              "ipa": "ma",
-              "ortho": "مە"
-            },
-            {
-              "ipa": "ɛtsdeːpɛnzɔ",
-              "ortho": "ەت"
-            }
-          ],
+          "variants": null,
           "source": "JBIL",
           "verification": null
         },
@@ -14236,7 +14110,7 @@
           "speaker": "Khan02",
           "ipa": "",
           "ortho": "",
-          "cognate_class": "?",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
@@ -14262,8 +14136,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "mɛ",
+          "ortho": "مە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14299,7 +14173,8 @@
           "Badr01",
           "Mand01",
           "Qasr01",
-          "Saha01"
+          "Saha01",
+          "Khan02"
         ]
       },
       "notes": "I — single state A min (1sg). rep=A."
@@ -14433,8 +14308,8 @@
         },
         {
           "speaker": "Khan02",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "iwa",
+          "ortho": "ئیێ وە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14470,15 +14345,24 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "to",
+          "ortho": "دو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
           "audio_path": "audio/Qasr01/JBIL_322_A_you_Qasr01.wav",
           "spectrogram_path": null,
-          "variants": null,
+          "variants": [
+            {
+              "ipa": "to",
+              "ortho": "دو"
+            },
+            {
+              "ipa": "iwa",
+              "ortho": "ئی وە"
+            }
+          ],
           "source": "JBIL",
           "verification": null
         },
@@ -14620,8 +14504,8 @@
         },
         {
           "speaker": "Khan02",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ima",
+          "ortho": "ئیمە",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14648,8 +14532,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "ima",
+          "ortho": "ئیێ م",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14719,9 +14603,9 @@
         },
         {
           "speaker": "Kalh01",
-          "ipa": "sɑk",
+          "ipa": "sak",
           "ortho": "ساق",
-          "cognate_class": "B",
+          "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
           "borrowing_flag": null,
@@ -14817,8 +14701,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "pusɐdar",
+          "ortho": "پووسە دار",
           "cognate_class": "C",
           "arabic_similarity": null,
           "persian_similarity": null,
@@ -14851,9 +14735,7 @@
           "Fail03",
           "Badr01",
           "Khan02",
-          "Mand01"
-        ],
-        "B": [
+          "Mand01",
           "Kalh01"
         ],
         "C": [
@@ -14989,8 +14871,8 @@
         },
         {
           "speaker": "Qasr01",
-          "ipa": "",
-          "ortho": "",
+          "ipa": "xolaku",
+          "ortho": "خوڵا کوو",
           "cognate_class": "A",
           "arabic_similarity": null,
           "persian_similarity": null,
